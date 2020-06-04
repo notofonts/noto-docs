@@ -21,10 +21,7 @@ Bold with weight value of 190, dominant lc mainstem of 190
 
 
 ![alt_text](images/PUB-Noto1.png "image_tooltip")
-
-
-
-# Bold Condensed with weight value of 190, dominant lc mainstem of 162 {#bold-condensed-with-weight-value-of-190-dominant-lc-mainstem-of-162}
+Bold Condensed with weight value of 190, dominant lc mainstem of 162 {#bold-condensed-with-weight-value-of-190-dominant-lc-mainstem-of-162}
 
 
 ## Widths {#widths}
@@ -58,23 +55,23 @@ With this information as background, here is a set of naming guidelines.
 
 #### Weight Style Names {#weight-style-names}
 
-	Thin 	usWeightClass: 100
+	Thin 		usWeightClass: 100
 	ExtraLight 	usWeightClass: 200
-	Light 	usWeightClass: 300
+	Light 		usWeightClass: 300
 	Regular 	usWeightClass: 400
-	Medium 	usWeightClass: 500
+	Medium 		usWeightClass: 500
 	SemiBold 	usWeightClass: 600
-	Bold 	usWeightClass: 700
+	Bold 		usWeightClass: 700
 	ExtraBold 	usWeightClass: 800
-	Black 	usWeightClass: 900
+	Black 		usWeightClass: 900
 
 
 #### Stretch Style Names {#stretch-style-names}
 
-ExtraCondensed 	usWidthClass: 2
-Condensed	usWidthClass: 3
-SemiCondensed	usWidthClass: 4
-(Normal)	usWidthClass: 5
+	ExtraCondensed 	usWidthClass: 2
+	Condensed	usWidthClass: 3
+	SemiCondensed	usWidthClass: 4
+	(Normal)	usWidthClass: 5
 
 	
 
