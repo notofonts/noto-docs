@@ -336,13 +336,7 @@ For UI instances weight and width values will be copied from their corresponding
 
 _Note:_ _Whatever scheme of naming is used, there are going to be differences between Noto Sans and Roboto and Noto Sans CJK.  We could  make the “200” the same weight as Noto Sans CJK Thin with the same name, but not the same with Roboto Thin at the same time. The Roboto Black 900 is matching Noto Sans Extra Bold 800. We can match Roboto Medium in name, class and weight. But Roboto Medium is halfway Regular and Bold: that means you cannot have a Medium and a Semi-Bold, because the weight of the Medium is almost the weight that the Semi Bold should have._
 
-_If the Noto Sans non-Latins UI fonts are linked to Roboto, it may not matter what they are named and what their widthClass is, when these properties are inherited from Roboto anyway. So that is the scenario our proposal assumes. But we can also define instances for the UI fonts that match Roboto in weight, name and classification. That would be a scheme where document and UI fonts have different instances in the glyphs deliverables._
-
-_If the document fonts have 8 weights, then document and UI fonts can have the same instances._
-
-_If the document fonts have 9 weight instances, to cover all of CSS/usWeightClass, and the UI fonts have an instance that matches Roboto Medium, then document and UI fonts will have different instances._
-
-_The proposal is a means to find out what option is preferred._
+_If the Noto Sans non-Latins UI fonts are linked to Roboto, it may not matter what they are named and what their widthClass is, when these properties are inherited from Roboto anyway._
 
 
 #### OS/2 x-Height setting {#os-2-x-height-setting}
