@@ -1,17 +1,3 @@
-"H1 -> H2"
-
-<p style="color: red; font-weight: bold">>>>>  GDC alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 2.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>  GDC alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-
-<p style="color: red; font-weight: bold">>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-<p style="color: red; font-weight: bold">>>>>  GDC alert: NOTE: You have 6 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.</p>
-
-
 
 # Noto Weight & Width naming & numbering and Style naming specification
 
@@ -52,7 +38,7 @@ There are known limitation in string lengths. For example, on Windows, the Famil
 
 For this specification we define family name and the complete style names without abbreviation. The software used for generating font files, will create name table specific names and handle abbreviation where necessary.
 
-With this information as background, here is what we propose for a set of naming guidelines.
+With this information as background, here is a set of naming guidelines.
 
 
 #### Family Name {#family-name}
@@ -73,32 +59,21 @@ With this information as background, here is what we propose for a set of naming
 #### Weight Style Names {#weight-style-names}
 
 	Thin 	usWeightClass: 100
-
 	ExtraLight 	usWeightClass: 200
-
 	Light 	usWeightClass: 300
-
 	Regular 	usWeightClass: 400
-
 	Medium 	usWeightClass: 500
-
 	SemiBold 	usWeightClass: 600
-
 	Bold 	usWeightClass: 700
-
 	ExtraBold 	usWeightClass: 800
-
 	Black 	usWeightClass: 900
 
 
 #### Stretch Style Names {#stretch-style-names}
 
 ExtraCondensed 	usWidthClass: 2
-
 Condensed	usWidthClass: 3
-
 SemiCondensed	usWidthClass: 4
-
 (Normal)	usWidthClass: 5
 
 	
@@ -107,17 +82,11 @@ SemiCondensed	usWidthClass: 4
 #### Example Full names: {#example-full-names}
 
 Noto Sans UI Thin
-
 Noto Sans UI Bold Italic
-
 Noto Sans UI Condensed ExtraBold Italic
-
 Noto Serif Italic
-
 Noto Sans Myanmar Thin
-
 Noto Serif Myanmar SemiCondensed Light
-
 Noto Serif Myanmar Condensed ExtraBold Italic
 
 
