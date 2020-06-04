@@ -78,13 +78,13 @@ With this information as background, here is a set of naming guidelines.
 
 #### Example Full names: {#example-full-names}
 
-Noto Sans UI Thin
-Noto Sans UI Bold Italic
-Noto Sans UI Condensed ExtraBold Italic
-Noto Serif Italic
-Noto Sans Myanmar Thin
-Noto Serif Myanmar SemiCondensed Light
-Noto Serif Myanmar Condensed ExtraBold Italic
+	Noto Sans UI Thin
+	Noto Sans UI Bold Italic
+	Noto Sans UI Condensed ExtraBold Italic
+	Noto Serif Italic
+	Noto Sans Myanmar Thin
+	Noto Serif Myanmar SemiCondensed Light
+	Noto Serif Myanmar Condensed ExtraBold Italic
 
 
 ## Shipping Instances {#shipping-instances}
@@ -436,23 +436,15 @@ _\*The proportion value is a mix of stylistic properties and character width. So
 
 #### Style Linking {#style-linking}
 
-Bold _is Bold of_ Regular
-
-Semi Condensed Bold _is Bold of _Semi Condensed
-
-Condensed Bold _is Bold of_ Condensed
-
-Extra Condensed Bold _is Bold o_f Extra Condensed
-
-Bold Italic _is Bold and Italic of_ Regular
-
-Semi Condensed Bold Italic _is Bold and Italic of _Semi Condensed
-
-Condensed Bold Italic _is Bold and Italic of_ Condensed
-
-Extra Condensed Bold Italic _is Bold and Italic of_ Extra Condensed
-
-Other Italics are Italic of the equivalent roman instances
+	Bold _is Bold of_ Regular
+	Semi Condensed Bold _is Bold of _Semi Condensed
+	Condensed Bold _is Bold of_ Condensed
+	Extra Condensed Bold _is Bold o_f Extra Condensed
+	Bold Italic _is Bold and Italic of_ Regular
+	Semi Condensed Bold Italic _is Bold and Italic of _Semi Condensed
+	Condensed Bold Italic _is Bold and Italic of_ Condensed
+	Extra Condensed Bold Italic _is Bold and Italic of_ Extra Condensed
+	Other Italics are Italic of the equivalent roman instances
 
 
 #### Monotype Feature Files naming {#monotype-feature-files-naming}
