@@ -1,2 +1,2 @@
 # notodocs
-General Notp documentation
+General Noto documentation
