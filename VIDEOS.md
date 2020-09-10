@@ -24,6 +24,17 @@ Event: ATypI 2019 Tokyo
 
 > If we can’t see a language, does it exist? Of course it does, but in an increasingly computerized world, many languages remain invisible. Some languages have no writing system to be seen. Others are not necessarily accessible in the digital realm. What are the implications for these languages in light of today’s technologies? Computing in general is grounded in the assumption that spoken language can be transcribed and manipulated. But who are we leaving behind and why should we care? The benefits of digital representation aren’t limited to the locale of a particular language, script, or culture. The possibilities range from linguistic analysis to all forms of cross-referencing across disciplines like linguistics, history, archaeology, literature, sociology, economics, anthropology, and more. This presentation will look at a number of historic and minority writing systems and consider what can be gained by digitizing them and making them accessible to the world.
 
+#### Variations on Variations
+
+<https://youtu.be/4_Dy3-_MyiA>
+
+Speakers: Dominik Röttsches, Google; Behdad Esfahbod, Google
+Date: Apr 8, 2017
+Publisher: TYPO International Design Talks (Monotype)
+Event: TYPO Labs 2017
+
+> Behdad will talk about updates to the variable fonts building pipeline based on FontTools. Dominik provides an update on implementation progress of variable fonts in a development version of Chrome, including a live preview of variable fonts capabilities in the Chrome browser. He will also explain how you can start your own experiments with variable fonts in Chrome.
+
 #### The ‘noto-hinted’ project
 
 https://youtu.be/LZ-PZDy8WHY
@@ -44,7 +55,7 @@ Date: Oct 25, 2016
 Publisher: ATypI
 Event: ATypI 2016 Warsaw, Poland
 
-> The Open Source Python Font Production Pipeline is a set of tools build by the open source community, including Google developers. It has been used by Google to produce Google's Noto font families. It can be used by anybody to automate their font production as well. The pipeline takes various inputs (e.g., *.glyphs files) and compiles them into multiple binaries (*.TTF and *.OTF files among others). This presentation is about why Google wanted to have an open source font toolchain, how the toolchain [aka pipeline] was architected, engineered and debugged and how Google uses it to produce and validate Noto fonts.
+> The Open Source Python Font Production Pipeline is a set of tools build by the open source community, including Google developers. It has been used by Google to produce Google's Noto font families. It can be used by anybody to automate their font production as well. The pipeline takes various inputs (e.g., \*.glyphs files) and compiles them into multiple binaries (\*.TTF and \*.OTF files among others). This presentation is about why Google wanted to have an open source font toolchain, how the toolchain (aka pipeline) was architected, engineered and debugged and how Google uses it to produce and validate Noto fonts.
 
 #### Creating Noto for Google
 
