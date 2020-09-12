@@ -35,7 +35,7 @@ Event: TYPO Labs 2017
 
 > Behdad will talk about updates to the variable fonts building pipeline based on FontTools. Dominik provides an update on implementation progress of variable fonts in a development version of Chrome, including a live preview of variable fonts capabilities in the Chrome browser. He will also explain how you can start your own experiments with variable fonts in Chrome.
 
-#### The ‘noto-hinted’ project
+## The ‘noto-hinted’ project
 
 https://youtu.be/LZ-PZDy8WHY
 
@@ -46,7 +46,7 @@ Event: TYPO Labs 2017
 
 > Commissioned by Google, the ‘noto-hinted’ project (set up at github) was the driving force behind ttfautohint in the last two years.  The goal is to provide good automatic hinting for the Noto font family, covering a large set of scripts.  The talk describes the history and setup of the project, together with possible future enhancements.
 
-#### The Open Source Python Font Production Pipeline
+## The Open Source Python Font Production Pipeline
 
 https://youtu.be/TtHSnw0LI6o
 
