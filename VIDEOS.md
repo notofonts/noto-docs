@@ -24,6 +24,18 @@ Event: ATypI 2019 Tokyo
 
 > If we can’t see a language, does it exist? Of course it does, but in an increasingly computerized world, many languages remain invisible. Some languages have no writing system to be seen. Others are not necessarily accessible in the digital realm. What are the implications for these languages in light of today’s technologies? Computing in general is grounded in the assumption that spoken language can be transcribed and manipulated. But who are we leaving behind and why should we care? The benefits of digital representation aren’t limited to the locale of a particular language, script, or culture. The possibilities range from linguistic analysis to all forms of cross-referencing across disciplines like linguistics, history, archaeology, literature, sociology, economics, anthropology, and more. This presentation will look at a number of historic and minority writing systems and consider what can be gained by digitizing them and making them accessible to the world.
 
+## The Noto Project
+
+https://youtu.be/cekCfRoMlAU
+
+Speaker: Kamal Mansour, Monotype  
+Date: May 08, 2019  
+Publisher: Marek z Jeziorek  
+Event: SF Globalization Meetup
+
+> Ambitious in its scope since its very beginning, the Noto project has aimed to provide fonts to support all the scripts in the Unicode Standard. The name “Noto” stands for “no tofu”—tofu being the square symbols that appear on the screen when a character isn’t supported by the font in use. By now in its seventh year, the Noto project is still active today. Over several stages, the project has supplied open-sourced fonts that support more than 120 scripts, both living and historical. What hidden infrastructure has made the Noto project feasible? What has made this a ripe moment for its fulfillment? In order to develop fonts for such a broad variety of scripts, one must pose many questions before attempting to find the answers. What style is most appropriate for this particular script? How do you make a font for a script that has no typographic history? Faced with competing styles, how do you settle on one of them? What if the historic record for a script is very sparse? Where do you find a script expert? What if there are no experts? Come join us as we explore some of these questions and share some interesting anecdotes about the Noto project.
+> Kamal Mansour's Bio: An early multilingual education served to stimulate Kamal’s interest in languages, alphabets, and later on, typography. His studies have spanned Computer Science, Linguistics, and Product Design. Since the mid 1990s, Kamal has worked on the typography of many languages from around the globe. During that time, he has been involved in the development of the Unicode Standard which enables the digital support of all the world’s languages. In addition, he has extensively developed code necessary for the correct typographic shaping of many complex writing systems. Over the past 7 years, Kamal has played a leading role in the Google Noto Font project whose goal is to create fonts for all the languages of the world. Since 2006, he has served on the Board of Advisers of the Script Encoding Initiative of UC Berkeley. He has also taught a linguistics course at Stanford University entitled “Writing Systems in the Digital Age”.
+
 ## Variations on Variations
 
 <https://youtu.be/4_Dy3-_MyiA>
