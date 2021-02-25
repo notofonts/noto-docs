@@ -1,5 +1,16 @@
 # Videos about the Noto Project
 
+## Just the all of us — how we developed our first Odia font family, the collaborative way
+
+https://youtu.be/05nyT9NTR7E
+
+Speakers: Amelie Bonet, Sol Matas  
+Date: September 24, 2020
+Publisher: TypeWknd
+Event: TypeWknd 2020
+
+> Many typeface designers have the opportunity at some point to get out of the cave and open their eyes to a project outside of their comfort zone, outside of their daily design routine. That is where we found ourselves when we accepted a proposal to develop a font for the Odia script, a writing system in which we are not native. From the beginning, we understood that collaboration would be our best strategy to face this challenge; designing and producing a typeface in a writing system we do not know nor understand. The collaborative experience was extremely enriching and gave us a different perspective on our practice. However, we also encountered some limitations during that process. Our talk will shine a light on collaborative processes. We will present our typeface, Noto Sans Odia, through the prism of exchanges we had during the making of the project: communication between the designers, teamwork with the consultants, discussion with the software makers (Glyphs), etc. The collaboration between us all is what made the project possible.
+
 ## The Road to Noto
 
 https://youtu.be/HHIFL7DxOP0
