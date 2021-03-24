@@ -1,5 +1,31 @@
 # Videos about the Noto Project
 
+## Noto Fonts: Preserving Endangered Languages
+
+https://youtu.be/DnuDOlPkFag
+
+Speakers: Susanna Zaraysky, Marek Jeziorek, Dave Crossland  
+Date:  
+Publisher: ATypI  
+Event: ATypI 2020  
+
+> The Noto project is the most ambitious font project of all time, aiming to continually support 100 percent of all Unicode characters each year with fully functional fonts. Today, Noto offers fonts for 146 scripts and over 800 languages, and is opening the door to reading and writing for minority language speakers.
+> 
+> During the last decade, billions of people have found new options to communicate digitally in their preferred language or writing system, due in part to newly available fonts. According to UNESCO, “at least 43% of the estimated 6000 languages spoken in the world are endangered.” There are over 2.5 billion Android users globally, and as the default on Android, each Noto font enables a community’s culture to survive and thrive on the internet. For example, the Cherokee Nation in North America, with an estimated 20,000 speakers, uses Noto for texting, email, and teaching their language to the next generation.
+> 
+> Noto is used every day for Tibetan, Canadian indigenous languages, millions of African users, and hundreds of languages across Asia. According to UNESCO’s “Atlas of Languages in Danger,” 1,113 of the 2,572 languages reported are several and critically endangered and spoken primarily by community elders. Given age-related vision impairments, some of these speakers may have trouble reading small text sizes. When books, poetry, songs, and all kinds of texts are available in digital form; the ability to read minority languages fluently through the simple act of text magnification on-screen is important.
+> 
+> In this session, you will learn more about the most recently developed Noto variable fonts, their impact for endangered language communities and accessibility, and how you can contribute to the project to make reading truly universal.
+> 
+> Presentation by Susanna Zaraysky, Marek Jeziorek, and Dave Crossland, followed by Q&A with audience members.
+> 
+> Susanna Zaraysky is passionate about language learning and endangered language preservation. Zaraysky was the keynote speaker for the 2015 Foundation for Endangered Languages Conference on Music of Endangered Languages. Zaraysky made a documentary film, “Saved by Language,” about the endangered language of Ladino, and also held a TEDx talk on preserving endangered languages with music. She speaks eight languages and is the author of the book, “Language is Music,” focused on learning languages via music and the media. In 2014, Zaraysky participated in the International Mother Languages Day event, organized by the United Nations Academic Impact with school groups.
+> 
+> Marek Jeziorek was born and grew up in Poland. He initially studied Mathematics, Informatics, and Mechanics at the University of Warsaw. After four years of studies, in 1976, Jeziorek started vacation in the USA, where he's been vacationing ever since. After receiving an MS in Computer Science in 1980 from the University of Wisconsin, Madison, Jeziorek worked as a compiler engineer at Intel. Since then, he's worked for many companies in the San Francisco Bay Area, ending up with Google in 2003. Jeziorek joined the Google Fonts team as a Technical Program Manager in July 2015.
+> 
+> 
+> Dave Crossland attended the first Libre Graphics Meeting in 2006, and became fascinated with the potential of libre licensing to improve design. Since then, he has worked to liberate typography, mainly as a program manager for Google Fonts. He also regularly contributes to the Crafting Type, Font Bakery, and Runebender projects.
+
 ## Just the all of us — how we developed our first Odia font family, the collaborative way
 
 https://youtu.be/05nyT9NTR7E
