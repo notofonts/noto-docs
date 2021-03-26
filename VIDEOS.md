@@ -41,6 +41,8 @@ Event: TypeWknd 2020
 
 https://youtu.be/HHIFL7DxOP0
 
+https://tug.org/tug2020/preprints/Matteson-slides.pdf 
+
 Speaker: Steven Matteson, Monotype  
 Date: August 31, 2020  
 Publisher: TeX Users Group  
