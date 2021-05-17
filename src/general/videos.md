@@ -1,5 +1,7 @@
 # Videos about the Noto Project
 
+This lists videos about the Noto project. They are date ordered, with most recent at the top.
+
 ## Noto Fonts: Preserving Endangered Languages
 
 - Video: https://youtu.be/DnuDOlPkFag

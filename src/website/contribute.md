@@ -76,7 +76,7 @@ The proposed additions need to match the existing designs, be of high quality
 
 If there are multiple weights or widths, those need to be variable. The widths, weights, and naming conventions need to be compatible with the rest of the Noto family.
 
-Before you submit your proposal, sign a Google Open Source [Contributor License Agreement](https://cla.developers.google.com/clas) (CLA). Then, submit your proposal to noto-proposals-external@googlegroups.com.
+Before you submit your proposal, sign a Google Open Source [Contributor License Agreement](https://cla.developers.google.com/clas) (CLA). Then, submit your proposal to noto-proposals-external@googlegroups.com. For detailed guidelines regarding the proposal, please see the [Noto Contributing Guide](https://github.com/notofonts/noto-docs/blob/main/CONTRIBUTING.md)
 
 As with any maintained open-source project, Google Fonts may accept the proposal, reject it or require additional information.
 
