@@ -1,16 +1,35 @@
-# Noto Docs
+# Noto fonts documentation
 
-This repo contains "general" documentation about the overall Noto project.
+This repository contains unofficial documentation about the Noto fonts project.
 
-## [Noto-Weight-Width-Style-Specification.md](Noto-Weight-Width-Style-Specification.md)
+Noto is a collection of high-quality free fonts for writing in all modern and ancient languages. With multiple weights and widths in sans, serif, mono, and other styles, Noto fonts are perfect for harmonious, typographically correct communication in more than 1,000 languages and over 150 writing systems.
 
-This document describes naming the masters and interpolated instances of the Noto families across all scripts for both weight and width. It also includes information on numbering weight and width values as well.
+Noto is developed and maintained by the Google Fonts team.
 
-## [CONTRIBUTING.md](CONTRIBUTING.md)
+## [Website](/noto-docs/tree/main/src/website)
 
-This document gathers in a single place all the requirements and steps that are necessary to submit a font that could become part of a Noto family of fonts.
+This section contains source text for the Noto website.
 
-## [VIDEOS.md](VIDEOS.md)
+- [Homepage](/blob/main/src/website/homepage.md)
+- [Use Noto fonts](/blob/main/src/website/use.md)
+- [Contribute to Noto fonts](/blob/main/src/website/contribute.md)
 
-This lists videos about the Noto project.
-They are date ordered, with most recent at the top.
+## [General](/noto-docs/tree/main/src/general)
+
+This section contains additional, general information about Noto fonts.
+
+- [Videos](/blob/main/src/general/videos.md): an assorted collection of videos relevant to the Noto project
+
+
+## [Technical](/noto-docs/tree/main/src/technical)
+
+This section contains technical information about Noto fonts.
+
+- [Noto-Weight-Width-Style-Specification](/blob/main/src/technical/Noto-Weight-Width-Style-Specification.md): naming the masters and interpolated instances of the Noto families across all scripts for both weight and width, numbering weight and width values
+
+## [Contributing](./CONTRIBUTING.md)
+
+You can help with the Noto development in several ways: test the fonts in various documents, report problems that you find, or submit extensions or changes to the Noto fonts.
+
+- Read how to [Contribute to Noto fonts](/blob/main/src/website/contribute.md) for general guidelines
+- Read [Noto Font Submission Requirements](/blob/main/src/technical/Noto–Font-Submission-Requirements.md) for specific technical guidelines
