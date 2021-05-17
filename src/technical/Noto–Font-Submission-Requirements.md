@@ -97,9 +97,6 @@ Note: The (A, B) metric of document fonts need not fit within the constraints sp
 ### References
 
 - [Typophile](https://typophile.com/node/13081)
-
 - [Microsoft’s hhea table spec](https://www.microsoft.com/typography/otspec/hhea.htm)
-
 - [Microsoft’s OS/2 table spec](https://docs.microsoft.com/en-us/typography/opentype/spec/os2)
-
 - [Microsoft’s head table spec](https://docs.microsoft.com/en-us/typography/opentype/spec/head)
