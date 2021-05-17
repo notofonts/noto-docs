@@ -328,15 +328,15 @@ Noto has six font families for the Arabic script:
 
 The Noto collection includes two font families Chinese, Japanese and Korean languages: Noto Sans CJK, an unmodulated design, and Noto Serif CJK, a modulated design. Each of these families has 7 weights, and Noto Sans CJK is also available as a variable font. These fonts are available in language variants:
 
-- Noto Sans CJK HK for the Traditional Chinese language variant used in Hong Kong
+- Noto Sans CJK HK for the Traditional Chinese language variant used in Hong Kong.
 
-- Noto Sans CJK JP and Noto Serif CJK JP for the Japanese language
+- Noto Sans CJK JP and Noto Serif CJK JP for the Japanese language.
 
-- Noto Sans CJK KR and Noto Serif CJK KR for the Korean language
+- Noto Sans CJK KR and Noto Serif CJK KR for the Korean language.
 
-- Noto Sans CJK SC and Noto Serif CJK SC for the Simplified Chinese language variant used in the People’s Republic of China
+- Noto Sans CJK SC and Noto Serif CJK SC for the Simplified Chinese language variant used in the People’s Republic of China.
 
-- Noto Sans CJK TC and Noto Serif CJK TC for the Traditional Chinese language variant used in Taiwan
+- Noto Sans CJK TC and Noto Serif CJK TC for the Traditional Chinese language variant used in Taiwan.
 
 The Noto Sans CJK fonts contain all Han ideographs included in the Basic Multilingual Plane (BMP) of the Unicode Standard plus over 2,000 non-BMP Han ideographs.
 
@@ -374,17 +374,17 @@ Not all writing systems have the same history. Users of some scripts prefer to�
 
 Noto has several monospace fonts:
 
-- Noto Sans Mono, a monospace font for languages written in Latin, Cyrillic and Greek scripts, in multiple weights
+- Noto Sans Mono, a monospace font for languages written in Latin, Cyrillic and Greek scripts, in multiple weights.
 
-- Noto Sans Mono CJK HK, a monospace font for the Traditional Chinese language variant used in Hong Kong, in two weights
+- Noto Sans Mono CJK HK, a monospace font for the Traditional Chinese language variant used in Hong Kong, in two weights.
 
-- Noto Sans Mono CJK JP, a monospace font for the Japanese language, in two weights
+- Noto Sans Mono CJK JP, a monospace font for the Japanese language, in two weights.
 
-- Noto Sans Mono CJK KR, a monospace font for the Korean language, in two weights
+- Noto Sans Mono CJK KR, a monospace font for the Korean language, in two weights.
 
-- Noto Sans Mono CJK SC, a monospace font for the Simplified Chinese language variant used in the People’s Republic of China, in two weights
+- Noto Sans Mono CJK SC, a monospace font for the Simplified Chinese language variant used in the People’s Republic of China, in two weights.
 
-- Noto Sans Mono CJK TC, a monospace font for the Traditional Chinese language variant used in Taiwan, in two weights
+- Noto Sans Mono CJK TC, a monospace font for the Traditional Chinese language variant used in Taiwan, in two weights.
 
 For most use cases such as programming code, use Noto Sans Mono.
 
