@@ -6,30 +6,30 @@ Noto is a collection of high-quality free fonts for writing in all modern an
 
 Noto is developed and maintained by the Google Fonts team.
 
-## [Website](/noto-docs/tree/main/src/website)
+## [Website](./tree/main/src/website)
 
 This section contains source text for the Noto website.
 
-- [Homepage](/blob/main/src/website/homepage.md)
-- [Use Noto fonts](/blob/main/src/website/use.md)
-- [Contribute to Noto fonts](/blob/main/src/website/contribute.md)
+- [Homepage](./blob/main/src/website/homepage.md)
+- [Use Noto fonts](./blob/main/src/website/use.md)
+- [Contribute to Noto fonts](./blob/main/src/website/contribute.md)
 
-## [General](/noto-docs/tree/main/src/general)
+## [General](./tree/main/src/general)
 
 This section contains additional, general information about Noto fonts.
 
-- [Videos](/blob/main/src/general/videos.md): an assorted collection of videos relevant to the Noto project
+- [Videos](./blob/main/src/general/videos.md): an assorted collection of videos relevant to the Noto project
 
 
-## [Technical](/noto-docs/tree/main/src/technical)
+## [Technical](./tree/main/src/technical)
 
 This section contains technical information about Noto fonts.
 
-- [Noto-Weight-Width-Style-Specification](/blob/main/src/technical/Noto-Weight-Width-Style-Specification.md): naming the masters and interpolated instances of the Noto families across all scripts for both weight and width, numbering weight and width values
+- [Noto-Weight-Width-Style-Specification](./blob/main/src/technical/Noto-Weight-Width-Style-Specification.md): naming the masters and interpolated instances of the Noto families across all scripts for both weight and width, numbering weight and width values
 
 ## [Contributing](./CONTRIBUTING.md)
 
 You can help with the Noto development in several ways: test the fonts in various documents, report problems that you find, or submit extensions or changes to the Noto fonts.
 
-- Read how to [Contribute to Noto fonts](/blob/main/src/website/contribute.md) for general guidelines
-- Read [Noto Font Submission Requirements](/blob/main/src/technical/Noto–Font-Submission-Requirements.md) for specific technical guidelines
+- Read how to [Contribute to Noto fonts](./blob/main/src/website/contribute.md) for general guidelines
+- Read [Noto Font Submission Requirements](./blob/main/src/technical/Noto–Font-Submission-Requirements.md) for specific technical guidelines
