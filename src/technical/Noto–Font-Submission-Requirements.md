@@ -58,11 +58,11 @@ The items below apply in addition to the items listed in the New Font Delivery R
 
 ### Document vs UI Fonts
 
-When developing various menus, context (right-click) menus, dialog boxes and other visible text for scripts/languages where ascenders and descenders exceed the UI specs, one might need to develop special more compact version of fonts called “UI fonts” and we might need to design a UI version which modifies some “natural” glyph shapes to avoid truncation in the Android UI framework. 
+When developing various menus, context (right-click) menus, dialog boxes and other visible text for scripts/languages where ascenders and descenders exceed the UI specs, one might need to develop special more compact version of fonts called “UI fonts” and we might need to design a UI version which modifies some “natural” glyph shapes to avoid truncation in the Android UI framework.
 
-For example, as of 2018.12.26, Noto family has these UI fonts: ArabicUI, BengaliUI, DevanagariUI, KannadaUI, KhmerUI, LaoUI, MalayalamUI, MyanmarUI, SinhalaUI, TamilUI and ThaiUI. Also NotoSans supporting Latin, Greek and Cyrillic scrips is also a UI font with its correpsonding NotoSansDisplay as a less “compact” version. 
+For example, as of 2018.12.26, Noto family has these UI fonts: ArabicUI, BengaliUI, DevanagariUI, KannadaUI, KhmerUI, LaoUI, MalayalamUI, MyanmarUI, SinhalaUI, TamilUI and ThaiUI. Also NotoSans supporting Latin, Greek and Cyrillic scrips is also a UI font with its correpsonding NotoSansDisplay as a less “compact” version.
 
-However, there are many scripts where all the fully shaped glyphs required for characters of “modern usage” (as opposed to characters only used for ancient/archaic/special purposes) can meet the following Noto metric requirements without much quality sacrifice/compromise, they can be “deemed UI” and do not need a separate UI font. 
+However, there are many scripts where all the fully shaped glyphs required for characters of “modern usage” (as opposed to characters only used for ancient/archaic/special purposes) can meet the following Noto metric requirements without much quality sacrifice/compromise, they can be “deemed UI” and do not need a separate UI font.
 
 For example, as of 2018.12.26, Noto Sans Armenian, Cherokee, Emoji, Ethiopic, Georgian, Gujarati, Gurmukhi, Hebrew, Oriya, Telugu and Thaana are considered as “deemed UI” fonts.
 
@@ -97,9 +97,6 @@ Note: The (A, B) metric of document fonts need not fit within the constraints sp
 ### References
 
 - [Typophile](https://typophile.com/node/13081)
-
 - [Microsoft’s hhea table spec](https://www.microsoft.com/typography/otspec/hhea.htm)
-
 - [Microsoft’s OS/2 table spec](https://docs.microsoft.com/en-us/typography/opentype/spec/os2)
-
 - [Microsoft’s head table spec](https://docs.microsoft.com/en-us/typography/opentype/spec/head)
