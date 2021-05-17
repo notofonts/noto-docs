@@ -248,7 +248,7 @@ Add the font file that contains your font to your app bundle, then use your fon
 
 ### How do I report a problem?
 
-Visit our [Contribute](https://docs.google.com/document/d/12bgv_-ugzg8dP2USzTo2hF83txRKa9B84XoNTdDW3pY/) page. Please be sure to give as much detail as possible. If it’s a technical issue, list the app and operating system being used as well as versions. Images and diagrams are very helpful.
+Visit our [Contribute](./contribute.md) page. Please be sure to give as much detail as possible. If it’s a technical issue, list the app and operating system being used as well as versions. Images and diagrams are very helpful.
 
 ### What is the current Unicode support of Noto?
 
