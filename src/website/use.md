@@ -304,9 +304,9 @@ However, letters in Arabic, Indic, and Southeast Asian scripts often connect bot
 
 Noto has two Noto Sans fonts for the Adlam script that is used to write the Fulani language of Central and West Africa:
 
-- Noto Sans Adlam, an unmodulated design with joining (cursive) letters, suitable for most texts.
+- [Noto Sans Adlam](../noto/Noto+Sans+Adlam/), an unmodulated design with joining (cursive) letters, suitable for most texts.
 
-- Noto Sans Adlam Unjoined, an unmodulated design with unjoined (block) letters, suitable for headlines and for educational content.
+- [Noto Sans Adlam Unjoined](../noto/Noto+Sans+Adlam+Unjoined/), an unmodulated design with unjoined (block) letters, suitable for headlines and for educational content.
 
 ### Which Noto fonts should I use for the Arabic script?
 
