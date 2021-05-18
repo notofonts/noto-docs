@@ -416,8 +416,8 @@ The Google Fonts team recommends that you download the Noto font families that y
 
 However, you can also download **development builds** of the Noto fonts in several formats. These fonts may contain bugs and may differ slightly from the fonts available on Google Fonts.
 
-- [Download all non-CJK Noto](https://github.com/googlefonts/noto-fonts/archive/refs/heads/main.zip) fonts or visit the [repository](https://github.com/googlefonts/noto-fonts) on Github.
-- [Download all Noto CJK](https://github.com/googlefonts/noto-cjk/archive/refs/heads/main.zip) fonts or visit the [repository](https://github.com/googlefonts/noto-cjk) on Github. This includes versions in the space-saving [OpenType Collection](https://github.com/googlefonts/noto-cjk/blob/main/README-formats.md) (`.ttc`) format.
+- [Download all non-CJK Noto](https://github.com/googlefonts/noto-fonts/archive/refs/heads/main.zip) fonts, or visit the [repository](https://github.com/googlefonts/noto-fonts) on Github.
+- [Download all Noto CJK](https://github.com/googlefonts/noto-cjk/archive/refs/heads/main.zip) fonts, or visit the [repository](https://github.com/googlefonts/noto-cjk) on Github. This includes versions in the space-saving [OpenType Collection](https://github.com/googlefonts/noto-cjk/blob/main/README-formats.md) (`.ttc`) format.
 
 ### When will language or script X be supported by Noto?
 
