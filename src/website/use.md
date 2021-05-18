@@ -384,14 +384,14 @@ Noto has two font families for the Nüshu script:
 
 - [Noto Traditional Nushu](../noto/Noto+Traditional+Nushu/), an unmodulated design in three weights, with a more calligraphic skeleton and a more compact appearance. It is suitable for longer texts, especially those set in medium font sizes, and for headlines.
 
-### How can I download all Noto fonts?
+### Where can I download all Noto fonts?
 
 The Google Fonts team recommends that you download the Noto font families that you need from the [Google Fonts Noto](https://fonts.google.com/noto/) website.
 
 However, you can also download development builds of the Noto fonts in several formats. These fonts may differ slightly from the fonts available on Google Fonts:
 
 - [Download all non-CJK Noto](https://github.com/googlefonts/noto-fonts/archive/refs/heads/main.zip) fonts or visit the [repository](https://github.com/googlefonts/noto-fonts) on Github.
-- [Download all Noto CJK](https://github.com/googlefonts/noto-cjk/archive/refs/heads/main.zip) fonts, or visit the [repository](https://github.com/googlefonts/noto-cjk) on Github. This includes versions in the space-saving [OpenType Collection](https://github.com/googlefonts/noto-cjk/blob/main/README-formats.md) (`.ttc`) format.
+- [Download all Noto CJK](https://github.com/googlefonts/noto-cjk/archive/refs/heads/main.zip) fonts or visit the [repository](https://github.com/googlefonts/noto-cjk) on Github. This includes versions in the space-saving [OpenType Collection](https://github.com/googlefonts/noto-cjk/blob/main/README-formats.md) (`.ttc`) format.
 
 ### Why do some Noto Sans fonts have modulated strokes?
 
