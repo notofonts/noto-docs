@@ -296,7 +296,7 @@ However, letters in Arabic, Indic, and Southeast Asian scripts often connect bot
 | **Languages or scripts** | **Noto fonts to use** |
 |---|---|
 | Latin, Cyrillic, or Greek scripts | [Noto Sans](../noto/Noto+Sans) for user interfaces and for documents |
-| [Bengali](../noto/Noto+Sans+Bengali+UI/), [Devanagari](../noto/Noto+Sans+Devanagari+UI/), [Gujarati](../noto/Noto+Sans+Gujarati+UI/), [Gurmukhi](../noto/Noto+Sans+Gurmukhi+UI/), [Kannada](../noto/Noto+Sans+Kannada+UI/), [Khmer](../noto/Noto+Sans+Khmer+UI/), [Lao](../noto/Noto+Sans+Lao+UI/), [Malayalam](../noto/Noto+Sans+Malayalam+UI/), [Myanmar](../noto/Noto+Sans+Myanmar+UI/), [Oriya](../noto/Noto+Sans+Oriya+UI/), [Sinhala](../noto/Noto+Sans+Sinhala+UI/), [Tamil](../noto/Noto+Sans+Tamil+UI/), [Telugu](../noto/Noto+Sans+Telugu+UI/), [Thai](../noto/Noto+Sans+Thai+UI/) | “Noto Sans” with the script and “UI” suffixes for user interfaces with limited vertical space, fonts without the “UI” suffix for documents |
+| [Bengali](../noto/Noto+Sans+Bengali+UI/), [Devanagari](../noto/Noto+Sans+Devanagari+UI/), [Gujarati](../noto/Noto+Sans+Gujarati+UI/), [Gurmukhi](../noto/Noto+Sans+Gurmukhi+UI/), [Kannada](../noto/Noto+Sans+Kannada+UI/), [Khmer](../noto/Noto+Sans+Khmer+UI/), [Lao](../noto/Noto+Sans+Lao+UI/), [Malayalam](../noto/Noto+Sans+Malayalam+UI/), [Myanmar](../noto/Noto+Sans+Myanmar+UI/), [Oriya](../noto/Noto+Sans+Oriya+UI/), [Sinhala](../noto/Noto+Sans+Sinhala+UI/), [Tamil](../noto/Noto+Sans+Tamil+UI/), [Telugu](../noto/Noto+Sans+Telugu+UI/), [Thai](../noto/Noto+Sans+Thai+UI/) | Noto Sans with the script and “UI” suffixes for user interfaces with limited vertical space, fonts without the “UI” suffix for documents |
 | Arabic | [Noto Sans Arabic UI](../noto/Noto+Sans+Arabic+UI/) or [Noto Naskh Arabic UI](../noto/Noto+Naskh+Arabic+UI/) for user interfaces with limited vertical space, fonts without the UI suffix for documents |
 | Armenian, Cherokee, Ethiopic, Georgian, Hebrew, and other scripts | Noto Sans with the script suffix for user interfaces and for documents |
 
@@ -384,15 +384,6 @@ Noto has two font families for the Nüshu script:
 
 - [Noto Traditional Nushu](../noto/Noto+Traditional+Nushu/), an unmodulated design in three weights, with a more calligraphic skeleton and a more compact appearance. It is suitable for longer texts, especially those set in medium font sizes, and for headlines.
 
-### Where can I download all Noto fonts?
-
-The Google Fonts team recommends that you download the Noto font families that you need from the [Google Fonts Noto](https://fonts.google.com/noto/) website.
-
-However, you can also download development builds of the Noto fonts in several formats. These fonts may differ slightly from the fonts available on Google Fonts:
-
-- [Download all non-CJK Noto](https://github.com/googlefonts/noto-fonts/archive/refs/heads/main.zip) fonts or visit the [repository](https://github.com/googlefonts/noto-fonts) on Github.
-- [Download all Noto CJK](https://github.com/googlefonts/noto-cjk/archive/refs/heads/main.zip) fonts or visit the [repository](https://github.com/googlefonts/noto-cjk) on Github. This includes versions in the space-saving [OpenType Collection](https://github.com/googlefonts/noto-cjk/blob/main/README-formats.md) (`.ttc`) format.
-
 ### Why do some Noto Sans fonts have modulated strokes?
 
 The Noto Sans fonts mostly have uniform strokes without pronounced endings. However, the Noto Sans fonts for some scripts do have stroke modulation if the user community of a particular script prefers it.
@@ -418,6 +409,15 @@ Noto has several monospace fonts:
 - [Noto Sans Mono CJK TC](../noto/Noto+Sans+Mono+CJK+TC/), a monospace font for the Traditional Chinese language variant used in Taiwan, in two weights.
 
 For most use cases such as programming code, use Noto Sans Mono.
+
+### Where can I download all Noto fonts?
+
+The Google Fonts team recommends that you download the Noto font families that you need from the [Google Fonts Noto](https://fonts.google.com/noto/) website.
+
+However, you can also download **development builds** of the Noto fonts in several formats. These fonts may contain bugs and may differ slightly from the fonts available on Google Fonts.
+
+- [Download all non-CJK Noto](https://github.com/googlefonts/noto-fonts/archive/refs/heads/main.zip) fonts, or visit the [repository](https://github.com/googlefonts/noto-fonts) on Github.
+- [Download all Noto CJK](https://github.com/googlefonts/noto-cjk/archive/refs/heads/main.zip) fonts, or visit the [repository](https://github.com/googlefonts/noto-cjk) on Github. This includes versions in the space-saving [OpenType Collection](https://github.com/googlefonts/noto-cjk/blob/main/README-formats.md) (`.ttc`) format.
 
 ### When will language or script X be supported by Noto?
 
