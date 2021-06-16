@@ -1,10 +1,10 @@
 # Noto: A typeface for the world
 
-![Sketching Noto](img/gallery-1-noto-sketch.jpg)
+![Sketching Noto](img/1440x810/gallery-1-noto-sketch-1440x810.jpg)
 
-![Designing Noto](img/gallery-2-noto-design.jpg)
+![Designing Noto](img/1440x810/gallery-2-noto-design-1440x810.jpg)
 
-![Using Noto](img/gallery-3-noto-use.jpg)
+![Using Noto](img/1440x810/gallery-3-noto-use-1440x810.jpg)
 
 ## Free fonts for all languages
 
@@ -42,37 +42,37 @@ World scripts are as diverse as humans, they have different proportions and wr
 
 ### How Noto was made
 
-[![How Noto was made](img/how-noto-was-made.jpg)](https://youtu.be/16_NYHUZ1kM)
+[![How Noto was made](img/1440x810/how-noto-was-made-1440x810.jpg)](https://youtu.be/16_NYHUZ1kM)
 
 “When it comes to lesser-used languages, or even the purely academic or dead languages, we think it’s really important to preserve them.” — Bob Jung, Google. Google and Monotype made Noto together ([7-minute video](https://youtu.be/16_NYHUZ1kM)).
 
 ### How Noto CJK was made
 
-[![How Noto CJK was made](img/how-noto-cjk-was-made.jpg)](https://youtu.be/yNfYdxgV1jA)
+[![How Noto CJK was made](img/1440x810/how-noto-cjk-was-made-1440x810.jpg)](https://youtu.be/yNfYdxgV1jA)
 
 Noto CJK and its sister project, Source Han, made by Adobe and Google, provides users of Chinese, Japanese, and Korean languages with powerful tools for digital text communication ([6-minute video](https://youtu.be/yNfYdxgV1jA)).
 
 ### Noto fonts for developers
 
-[![Noto fonts for developers](img/noto-fonts-for-developers.jpg)](https://youtu.be/AAzvk9HSi84)
+[![Noto fonts for developers](img/1440x810/noto-fonts-for-developers-1440x810.png)](https://youtu.be/AAzvk9HSi84)
 
 Without the right font for the right language, the design of an app can quickly be destroyed. Noto fonts provide harmonious look and feel across over 1,000 languages. Bundle them with your app or use on the web ([7-minute video](https://youtu.be/AAzvk9HSi84)).
 
 ### The road to Noto
 
-[![The road to Noto](img/the-road-to-noto.jpg)](https://youtu.be/HHIFL7DxOP0)
+[![The road to Noto](img/1440x810/the-road-to-noto-1440x810.png)](https://youtu.be/HHIFL7DxOP0)
 
 “The scope of the project was so big, it’s really a change in mindset in how you’re going to work. You know you’re not going to be done tomorrow or next week. You have to give it time.” Steve Matteson, lead type designer ([42-minute video](https://youtu.be/HHIFL7DxOP0)).
 
 ### Invisible letters, invisible language
 
-[![Invisible letters, invisible language](img/invisible-letters-invisible-language.jpg)](https://youtu.be/PcS_mE5dDCw)
+[![Invisible letters, invisible language](img/1440x810/invisible-letters-invisible-language-1440x810.jpg)](https://youtu.be/PcS_mE5dDCw)
 
 43% of the 6,000 languages spoken in the world are endangered. “In an increasingly computerized world, many languages remain invisible.” Zachary Scheuren ([20-minute video](https://youtu.be/PcS_mE5dDCw)).
 
 ### Endangered languages and accessibility
 
-[![Endangered languages and accessibility](img/endangered-languages-and-accessibility.jpg)](https://youtu.be/DnuDOlPkFag)
+[![Endangered languages and accessibility](img/1440x810/endangered-languages-and-accessibility-1440x810.png)](https://youtu.be/DnuDOlPkFag)
 
 Learn more about the most recently developed Noto variable fonts, their impact for endangered language communities and accessibility, and how you can contribute to the project to make reading truly universal ([52-minute video](https://youtu.be/DnuDOlPkFag)).
 
