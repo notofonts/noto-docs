@@ -12,7 +12,9 @@ Use “Noto fonts” when it’s a simple plural:
 - when you mean any or some of the fonts from the Noto collection,
 - when you’re not specifically focusing on the entire collection.
 
-> Example: “Noto fonts use Unicode” (yes, all Noto fonts use Unicode, but the core of the message is: whatever ), “Use Noto fonts on the web.”
+> Example: “Noto fonts use Unicode” — yes, all Noto fonts use Unicode, but the core of the message is: whatever Noto font you use, that font uses Unicode. 
+
+> Example: “Use Noto fonts on the web.”
 
 > Analogy: “people.”
 
