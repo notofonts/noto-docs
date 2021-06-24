@@ -38,16 +38,27 @@ Consider using “all” instead of “the” when you want to underline that th
 
 > Example: “All Noto fonts are licensed under the SIL Open Font License.”
 
-## “The Noto collection”, “the Noto project”
+#### “The Noto collection”, “the Noto project”, “Noto”
 
-Use “the Noto collection” or “the Noto font collection” or “the Noto project” if you mean not just the fonts but also the website, documentation, development processes etc.
+Use “the Noto collection” or “the Noto font collection” or “the Noto project” if you mean not just the fonts but also the website, documentation, development processes etc. When this is mentioned later, you may also use the short form: “Noto”. “Noto” by itself stands for “the Noto project/collection”.
 
-## Font vs. family
+## “Font” vs. “family”
 
-Use “family” or “font family” when the user interacts with an entire family. For example, “Noto Sans Arabic” is a [font] family. 
+Use “family” or “font family” when the user interacts with an entire family. For example, “Noto Sans Arabic” is a [font] family.
 
-Use “font” when you mean a specific style (“Noto Sans Arabic Bold”) or a specific font file (“NotoSansArabic-Bold.ttf”). 
+Use “font” when you mean a specific style (“Noto Sans Arabic Bold”) or a specific font file (“NotoSansArabic-Bold.ttf”).
 
-Use “font file” when you want to underline that you refer to a specific file (`.ttf` etc.). 
+Use “font file” when you want to underline that you refer to a specific file (`.ttf` etc.).
 
 Use “font resource” when you refer to the equivalent of a font file in the CSS web font context. In HTML/CSS, web fonts can be delivered as files, or they can also be embedded as base64-encoded data resources, and CSS can also reference the names of a font on the user’s computer.
+
+## “Style” vs. “design”
+
+In traditional desktop publishing typography, a “style” is what’s more recently known as an “instance” — a particular combination of visual aspects within a family (or design space). Use “style” if you mean “Noto Sans Arabic Bold”, for example.
+
+Use “design” when you mean a visual aspect such as “serif”, “sanserif”, “looped” etc. 
+
+> Example: “Noto Sans Arabic is a sanserif design.”
+
+> Example: “Noto provides a rich palette of styles (designs). Each supported script has at least one font in a basic style, usually called Noto Sans [script] Regular. This is a clean, unornamented design best suitable for online reading. For many scripts, the Noto collection also includes a Noto Serif design. This design has modulated strokes and visible stroke endings, and is often preferred for book and newspaper typography.”
+
