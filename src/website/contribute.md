@@ -6,7 +6,7 @@ You can help with the Noto development in several ways:
 
 - **Test** the fonts in various documents, especially with rare but sensible letter combinations in the script that you know natively. If you find unwanted letter clashes, wrong forms, or any other kind of problem or defect with any Noto font, [open an issue](#open-an-issue-to-report-a-problem).
 
-- You may **extend** or **customize** the Noto fonts for your own project, website or app. You don’t need to ask our permission, but you need to follow the terms of the [Open Font License (OFL)](https://scripts.sil.org/OFL). Learn more about the terms in the [OFL FAQ](https://scripts.sil.org/ofl-faq_web).
+- You may **extend** or **customize** Noto fonts for your own project, website or app. You don’t need to ask our permission, but you need to follow the terms of the [Open Font License (OFL)](https://scripts.sil.org/OFL). Learn more about the terms in the [OFL FAQ](https://scripts.sil.org/ofl-faq_web).
 
 - If you’d like Google Fonts to **incorporate** your extensions or changes into an official Noto font, or if you’d like to contribute a design for a script for which a Noto font does not exist yet, read how to [propose changes](#propose-changes).
 
@@ -22,11 +22,11 @@ The Noto project is an ambitious undertaking: 2,300 fonts in over 200 font fa
 
 ### On what basis does Noto include glyphs?
 
-The Noto project provides default glyphs for scripts as defined in the Unicode Standard. The Noto fonts have glyph designs that are suitable for the widest audience.
+The Noto project provides default glyphs for scripts as defined in the Unicode Standard. Noto fonts have glyph designs that are suitable for the widest audience.
 
 Noto currently has at least one font style for all basic characters of the Unicode Standard version 12, released in 2019. For Chinese, Japanese and Korean (CJK) languages, Noto has characters included in the Basic Multilingual Plane (BMP) of the Unicode Standard. More than 25 scripts have both Sans and Serif families and many have multiple weights and widths.
 
-If some languages or writing conventions prefer an alternate shape, the Noto fonts may provide the shape as a localized form (the OpenType locl feature) or stylistic alternate (salt, ssXX). Ligatures that are widely accepted are includes as standard ligatures (liga feature). Noto fonts may also provide discretionary ligatures (dlig) for more specialized use.
+If some languages or writing conventions prefer an alternate shape, Noto fonts may provide the shape as a localized form (the OpenType locl feature) or stylistic alternate (salt, ssXX). Ligatures that are widely accepted are includes as standard ligatures (liga feature). Noto fonts may also provide discretionary ligatures (dlig) for more specialized use.
 
 The Noto team reserves the right to make the specific choices. If you are unhappy with a particular choice, you may create and distribute a modified variant of the the font according to the Open Font License.
 
@@ -56,17 +56,17 @@ Since Noto is available in many places, when you report a problem with a par
 
 ### How to open an issue
 
-- To report a problem with any of the Noto fonts except CJK and emoji, [open an issue](https://github.com/googlefonts/noto-fonts/issues) in the [noto-fonts](https://github.com/googlefonts/noto-fonts/) repository.
+- To report a problem with any Noto font except CJK and emoji, [open an issue](https://github.com/googlefonts/noto-fonts/issues) in the [noto-fonts](https://github.com/googlefonts/noto-fonts/) repository.
 
-- To report a problem with a Noto Sans CJK or Noto Serif CJK, [open an issue](https://github.com/googlefonts/noto-cjk/issues) in the [noto-cjk](https://github.com/googlefonts/noto-cjk/) repository.
+- To report a problem with Noto Sans CJK or Noto Serif CJK, [open an issue](https://github.com/googlefonts/noto-cjk/issues) in the [noto-cjk](https://github.com/googlefonts/noto-cjk/) repository.
 
-- To report a problem with the Noto Color Emoji or Noto Emoji font, or with the tools used to build these fonts, [open an issue](https://github.com/googlefonts/noto-emoji/issues) in the [noto-emoji](https://github.com/googlefonts/noto-emoji/) repository.
+- To report a problem with Noto Color Emoji or Noto Emoji, or with the tools used to build these fonts, [open an issue](https://github.com/googlefonts/noto-emoji/issues) in the [noto-emoji](https://github.com/googlefonts/noto-emoji/) repository.
 
 - To report a problem with the tools used to build the non-emoji Noto fonts, [open an issue](https://github.com/googlefonts/nototools/issues) in the [nototools](https://github.com/googlefonts/nototools/) repository.
 
 ## Propose changes
 
-You may extend or customize the Noto fonts for your own project, website or app, and you may publish the customized fonts in accordance with the [Open Font License](https://github.com/googlefonts/noto-fonts/blob/main/LICENSE).
+You may extend or customize Noto fonts for your own project, website or app, and you may publish the customized fonts in accordance with the [Open Font License](https://github.com/googlefonts/noto-fonts/blob/main/LICENSE).
 
 You may also propose to Google Fonts that your changes are incorporated into the official Noto release. You can propose a new design for an existing Unicode character (codepoint), or for a new character. You can propose designs for additional weights or widths for an existing script, or even a new design for a Unicode script that Noto does not yet cover.
 

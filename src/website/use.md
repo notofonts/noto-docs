@@ -2,9 +2,9 @@
 
 ## How are Noto fonts organized?
 
-Noto is a collection of high-quality fonts with multiple weights and widths in sans, serif, mono and other styles. The Noto fonts are made for the world. They offer a modular, flexible typographic system for designers, writers, publishers, advertisers, software makers, students, and scholars everywhere.
+Noto is a collection of high-quality fonts with multiple weights and widths in sans, serif, mono and other styles. Noto fonts are made for the world. They offer a modular, flexible typographic system for designers, writers, publishers, advertisers, software makers, students, and scholars everywhere.
 
-The Noto fonts are licensed under the Open Font License. You can use them freely in your products and projects — print or digital, commercial or otherwise. However, you can’t sell the fonts on their own. (This isn’t legal advice, please consider consulting a lawyer and see the [full license](https://github.com/googlefonts/noto-fonts/blob/main/LICENSE) for all details.)
+All Noto fonts are licensed under the Open Font License. You can use them freely in your products and projects — print or digital, commercial or otherwise. However, you can’t sell the fonts on their own. (This isn’t legal advice, please consider consulting a lawyer and see the [full license](https://github.com/googlefonts/noto-fonts/blob/main/LICENSE) for all details.)
 
 ### Noto scripts
 
@@ -26,7 +26,7 @@ For Arabic, Indic, and Southeast Asian scripts, the additional **Noto Sans UI** 
 
 ### Noto families
 
-The Noto fonts are modular. The **main** [Noto Sans](../noto/Noto+Sans) and [Noto Serif](../noto/Noto+Serif) families (without any suffixes) have letters for languages that use the Latin, Cyrillic, and Greek alphabets. If you have text any language that uses these scripts (like English, German, Polish, Russian, Greek), use these fonts. They also contain many characters used across scripts, like punctuation, European digits, currency symbols, or diacrtitical marks. The fonts also contain the phonetic alphabet (IPA), and characters used in linguistic research.
+The Noto font collection is modular. The **main** [Noto Sans](../noto/Noto+Sans) and [Noto Serif](../noto/Noto+Serif) families (without any suffixes) have letters for languages that use the Latin, Cyrillic, and Greek alphabets. If you have text any language that uses these scripts (like English, German, Polish, Russian, Greek), use these fonts. They also contain many characters used across scripts, like punctuation, European digits, currency symbols, or diacrtitical marks. The fonts also contain the phonetic alphabet (IPA), and characters used in linguistic research.
 
 The main Noto Sans and Noto Serif families include **italic** fonts intended for emphasis. Both also have corresponding **Display** families intended for larger optical sizes (like headlines and titles).
 
@@ -148,7 +148,7 @@ Some Linux apps will recognize newly installed fonts as soon as font-cache is up
 
 ## Use Noto fonts on the web
 
-To use the Noto fonts on your website, select the Noto fonts for the writing systems that your website text will be using. Add the code that Google Fonts creates to your HTML, and specify the Noto font families in your CSS.
+To use Noto fonts on your website, select the Noto fonts for the writing systems that your website text will be using. Add the code that Google Fonts creates to your HTML, and specify the Noto font families in your CSS.
 
 When readers visit your website, their browsers will automatically download the selected Noto **web fonts** from the Google Fonts servers, and your website text will be shown in those fonts. Google Fonts will automatically deliver the fonts in the best format suitable for the reader’s browser.
 
@@ -230,7 +230,7 @@ font-family: 'Noto Serif Armenian', 'Noto Serif Georgian', 'Noto Serif', serif;
 
 ## Bundle Noto fonts with your native app
 
-The Noto fonts are licensed under the Open Font License. You can bundle the fonts with an app that you create, and you can sell the app if you want, but there are additional license requirements. (This isn’t legal advice, please consider consulting a lawyer and see the [full license](https://github.com/googlefonts/noto-fonts/blob/main/LICENSE) for all details.)
+All Noto fonts are licensed under the Open Font License. You can bundle the fonts with an app that you create, and you can sell the app if you want, but there are additional license requirements. (This isn’t legal advice, please consider consulting a lawyer and see the [full license](https://github.com/googlefonts/noto-fonts/blob/main/LICENSE) for all details.)
 
 ### Android
 
@@ -429,7 +429,7 @@ The [Script Encoding Initiative](https://linguistics.berkeley.edu/sei/scripts-no
 
 ### Is Noto based on existing fonts?
 
-The Latin characters in Noto Sans are based on earlier fonts designed by the same person, Steve Matteson, for Google: Droid Sans and Open Sans. The Latin characters in Noto Serif are based on Droid Serif. The Noto fonts completely replace the Droid fonts. Also, the Noto fonts are undergoing regular reviews and revisions, and have more styles than the older fonts.
+The Latin characters in Noto Sans are based on earlier fonts designed by the same person, Steve Matteson, for Google: Droid Sans and Open Sans. The Latin characters in Noto Serif are based on Droid Serif. Noto fonts completely replace the Droid fonts. Also, Noto fonts are undergoing regular reviews and revisions, and have more styles than the older fonts.
 
 Noto Sans CJK is the same design as Adobe Han Sans, and the Latin characters are based on Adobe’s Source Sans Pro. Noto Serif CJK is the same design as Adobe Han Serif, and the Latin characters are based on Adobe’s Source Serif Pro.
 
