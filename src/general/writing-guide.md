@@ -56,7 +56,7 @@ Use “font resource” when you refer to the equivalent of a font file in the C
 
 In traditional desktop publishing typography, a “style” is what’s more recently known as an “instance” — a particular combination of visual aspects within a family (or design space). Use “style” if you mean “Noto Sans Arabic Bold”, for example.
 
-Use “design” when you mean a visual aspect such as “serif”, “sanserif”, “looped” etc. 
+Use “design” when you mean a visual aspect such as “serif”, “sanserif”, “looped” etc.
 
 > Example: “Noto Sans Arabic is a sanserif design.”
 
