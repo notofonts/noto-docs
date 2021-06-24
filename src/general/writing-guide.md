@@ -12,11 +12,11 @@ Use “Noto fonts” when it’s a simple plural:
 - when you mean any or some of the fonts from the Noto collection,
 - when you’re not specifically focusing on the entire collection.
 
-> Example: “Noto fonts use Unicode” — yes, all Noto fonts use Unicode, but the core of the message is: whatever Noto font you use, that font uses Unicode. 
+> Example: “Noto fonts use Unicode” — yes, all Noto fonts use Unicode, but the core of the message is: whatever Noto font you use, that font uses Unicode.
 
 > Example: “Use Noto fonts on the web.”
 
-> Analogy: “people.”
+> Analogy: “people”, “OpenType fonts.”
 
 #### “The Noto fonts”
 
@@ -24,9 +24,9 @@ Use “the Noto fonts” when your text specifically identifies them: when you c
 
 > Example: “Drag the Noto fonts you downloaded into the folder.”
 
-> Analogy: “The people you saw.”
+> Analogy: “The people you saw”, “the OpenType fonts used in this document.”
 
-Use “the Noto fonts” when you use it as a collective noun: when you could replace “the Noto fonts” with “all Noto fonts” or “the Noto font collection”.
+Also use “the Noto fonts” when you use it as a collective noun: when you could replace “the Noto fonts” with “all Noto fonts” or “the Noto font collection”.
 
 > Example: “The Noto fonts support all of Unicode 12.”
 
@@ -38,6 +38,16 @@ Consider using “all” instead of “the” when you want to underline that th
 
 > Example: “All Noto fonts are licensed under the SIL Open Font License.”
 
-#### “The Noto collection”, “the Noto project”
+## “The Noto collection”, “the Noto project”
 
 Use “the Noto collection” or “the Noto font collection” or “the Noto project” if you mean not just the fonts but also the website, documentation, development processes etc.
+
+## Font vs. family
+
+Use “family” or “font family” when the user interacts with an entire family. For example, “Noto Sans Arabic” is a [font] family. 
+
+Use “font” when you mean a specific style (“Noto Sans Arabic Bold”) or a specific font file (“NotoSansArabic-Bold.ttf”). 
+
+Use “font file” when you want to underline that you refer to a specific file (`.ttf` etc.). 
+
+Use “font resource” when you refer to the equivalent of a font file in the CSS web font context. In HTML/CSS, web fonts can be delivered as files, or they can also be embedded as base64-encoded data resources, and CSS can also reference the names of a font on the user’s computer.
