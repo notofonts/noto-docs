@@ -1,0 +1,15 @@
+
+# Noto Sans Egyptian Hieroglyphs
+
+Noto Sans Egyptian Hieroglyphs is a sanserif design intended for general use for the Egyptian hieroglyphs script.
+
+It contains 1079 glyphs, and supports 1078 characters from the Unicode blocks: Egyptian Hieroglyphs.
+
+
+## Supported writing systems
+
+
+### Egyptian hieroglyphs
+
+Egyptian hieroglyphs is a historical African logo-syllabary, written left-to-right. Were used about 3000 BCE–400 CE for writing the ancient Egyptian language. Combined logographic, syllabic and alphabetic elements, with a total of some 1,000 distinct characters. Cursive hieroglyphs were used for religious literature on papyrus and wood. Read more on [ScriptSource](https://scriptsource.org/scr/Egyp), [Wikipedia](https://en.wikipedia.org/wiki/ISO_15924:Egyp), [Unicode](https://www.unicode.org/versions/Unicode13.0.0/ch11.pdf#G26607), [Wiktionary](https://en.wiktionary.org/wiki/Category:Egyptian_hieroglyphic_script).
+

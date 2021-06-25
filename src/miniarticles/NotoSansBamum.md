@@ -1,0 +1,15 @@
+
+# Noto Sans Bamum
+
+Noto Sans Bamum is a sanserif design intended for general use for the Bamum script.
+
+It contains 662 glyphs, and supports 661 characters from the Unicode blocks: Bamum Supplement, Bamum.
+
+
+## Supported writing systems
+
+
+### Bamum
+
+Bamum is an African syllabary, written left-to-right (0.4 million users). Used in Cameroon. Developed communally at the end of the 19th century at the instigation of the Bamum King Njoya. Initially was logographic, later evolved into a syllabary. Bamum is being revived after decline since the 1930s. Read more on [ScriptSource](https://scriptsource.org/scr/Bamu), [Wikipedia](https://en.wikipedia.org/wiki/ISO_15924:Bamu), [Unicode](https://www.unicode.org/versions/Unicode13.0.0/ch19.pdf#G45398).
+

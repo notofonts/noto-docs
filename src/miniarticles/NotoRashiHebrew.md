@@ -1,0 +1,15 @@
+
+# Noto Rashi Hebrew
+
+Noto Rashi Hebrew is a Rashi design intended for general use for the Hebrew script.
+
+It contains 92 glyphs and 3 OpenType features, and supports 91 characters from the Unicode blocks: Hebrew.
+
+
+## Supported writing systems
+
+
+### Hebrew
+
+Hebrew (עברית) is a Middle Eastern abjad, written right-to-left (14 million users). Used for the Hebrew, Samaritan and Yiddish languages. Also used for some varieties of Arabic and for the languages of Jewish communities across the world. Has 22 consonant letters, 5 have positional variants. Vowels in Hebrew language are normally omitted except for long vowels which are sometimes written with the consonant letters אהוי (those were vowel-only letters until the 9th century). Children’s and school books use niqqud diacritics for all vowels. Religious texts may use cantillation marks for indicating rhythm and stress. Needs software support for complex text layout (shaping). Read more on [ScriptSource](https://scriptsource.org/scr/Hebr), [Wikipedia](https://en.wikipedia.org/wiki/ISO_15924:Hebr), [Unicode](https://www.unicode.org/versions/Unicode13.0.0/ch09.pdf#G6528), [Wiktionary](https://en.wiktionary.org/wiki/Category:Hebrew_script).
+
