@@ -246,6 +246,12 @@ Add the font file that contains your font to your app bundle, then use your font
 
 ## Frequently Asked Questions (FAQ)
 
+### Can I use Noto fonts commercially?
+
+All Noto fonts are licensed under the Open Font License (OFL). You can use them freely in your products and projects — print or digital, commercial or otherwise. However, you can’t sell the fonts on their own. For more questions and answers regarding the Open Font License, see the [OFL FAQ](https://scripts.sil.org/OFL).
+
+(This isn’t legal advice, please consider consulting a lawyer and see the [full license](https://github.com/googlefonts/noto-fonts/blob/main/LICENSE) for all details.)
+
 ### How do I report a problem?
 
 Visit our [Contribute](./contribute.md) page. Please be sure to give as much detail as possible. If it’s a technical issue, list the app and operating system being used as well as versions. Images and diagrams are very helpful.
