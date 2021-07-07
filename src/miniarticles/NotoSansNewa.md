@@ -1,9 +1,9 @@
 
 # Noto Sans Newa
 
-Noto Sans Newa is a sanserif design for texts in the Newa (Newari) script. 
+Noto Sans Newa is a sans serif design for texts in the Newa (Newari) script. 
 
-Noto Sans Newa contains 614 glyphs, 13 OpenType features, and supports 106 characters: Newa.
+Noto Sans Newa contains 614 glyphs, 13 OpenType features, and supports 106 characters from the Unicode block : Newa.
 
 
 ## Supported writing systems

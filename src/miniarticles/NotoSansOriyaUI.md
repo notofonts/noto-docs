@@ -1,9 +1,9 @@
 
 # Noto Sans Oriya UI
 
-Noto Sans Oriya UI is a sanserif design for app and website user interfaces in the Odia (Oriya) script. 
+Noto Sans Oriya UI is a sans serif design for app and website user interfaces in the Odia (Oriya) script. 
 
-Noto Sans Oriya UI has multiple weights and widths, contains 513 glyphs, 20 OpenType features, and supports 150 characters from 3 Unicode blocks: Oriya, Basic Latin, General Punctuation.
+Noto Sans Oriya UI has multiple weights and widths, contains 513 glyphs, 20 OpenType features, and supports 150 characters from 3 Unicode blocks: : Oriya, Basic Latin, General Punctuation.
 
 
 ## Supported writing systems

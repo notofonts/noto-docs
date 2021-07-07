@@ -1,9 +1,9 @@
 
 # Noto Sans Masaram Gondi
 
-Noto Sans Masaram Gondi is a sanserif design for texts in the Masaram Gondi script. 
+Noto Sans Masaram Gondi is a sans serif design for texts in the Masaram Gondi script. 
 
-Noto Sans Masaram Gondi contains 187 glyphs, 6 OpenType features, and supports 108 characters from 3 Unicode blocks: Masaram Gondi, Basic Latin, General Punctuation.
+Noto Sans Masaram Gondi contains 187 glyphs, 6 OpenType features, and supports 108 characters from 3 Unicode blocks: : Masaram Gondi, Basic Latin, General Punctuation.
 
 
 ## Supported writing systems

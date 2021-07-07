@@ -1,9 +1,9 @@
 
 # Noto Sans MeeteiMayek
 
-Noto Sans MeeteiMayek is a sanserif design for texts in the Meetei Mayek (Meitei) script. 
+Noto Sans MeeteiMayek is a sans serif design for texts in the Meetei Mayek (Meitei) script. 
 
-Noto Sans MeeteiMayek has multiple weights, contains 92 glyphs, 2 OpenType features, and supports 87 characters from 2 Unicode blocks: Meetei Mayek, Meetei Mayek Extensions.
+Noto Sans MeeteiMayek has multiple weights, contains 92 glyphs, 2 OpenType features, and supports 87 characters from 2 Unicode blocks: : Meetei Mayek, Meetei Mayek Extensions.
 
 
 ## Supported writing systems

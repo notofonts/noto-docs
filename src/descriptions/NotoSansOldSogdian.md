@@ -1,1 +1,1 @@
-Noto Sans Old Sogdian is a sanserif design for texts in the historical Old Sogdian script. It contains 60 glyphs, 4 OpenType features, and supports 44 characters.
+Noto Sans Old Sogdian is a sans serif design for texts in the historical Old Sogdian script. It contains 60 glyphs, 4 OpenType features, and supports 44 characters.

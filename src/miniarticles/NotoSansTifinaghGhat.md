@@ -1,9 +1,9 @@
 
 # Noto Sans Tifinagh Ghat
 
-Noto Sans Tifinagh Ghat is a sanserif design in the Ghat variant for texts in the Tifinagh script. 
+Noto Sans Tifinagh Ghat is a sans serif design in the Ghat variant for texts in the Tifinagh script. 
 
-Noto Sans Tifinagh Ghat contains 167 glyphs, 5 OpenType features, and supports 76 characters from 2 Unicode blocks: Tifinagh, Combining Diacritical Marks.
+Noto Sans Tifinagh Ghat contains 167 glyphs, 5 OpenType features, and supports 76 characters from 2 Unicode blocks: : Tifinagh, Combining Diacritical Marks.
 
 
 ## Supported writing systems

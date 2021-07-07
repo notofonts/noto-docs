@@ -1,9 +1,9 @@
 
 # Noto Sans Tifinagh Ahaggar
 
-Noto Sans Tifinagh Ahaggar is a sanserif design in the Ahaggar variant for texts in the Tifinagh script. 
+Noto Sans Tifinagh Ahaggar is a sans serif design in the Ahaggar variant for texts in the Tifinagh script. 
 
-Noto Sans Tifinagh Ahaggar contains 168 glyphs, 5 OpenType features, and supports 76 characters from 2 Unicode blocks: Tifinagh, Combining Diacritical Marks.
+Noto Sans Tifinagh Ahaggar contains 168 glyphs, 5 OpenType features, and supports 76 characters from 2 Unicode blocks: : Tifinagh, Combining Diacritical Marks.
 
 
 ## Supported writing systems

@@ -1,9 +1,9 @@
 
 # Noto Sans Mro
 
-Noto Sans Mro is a sanserif design for texts in the Mro script. 
+Noto Sans Mro is a sans serif design for texts in the Mro script. 
 
-Noto Sans Mro has multiple weights, contains 48 glyphs, and supports 47 characters: Mro.
+Noto Sans Mro has multiple weights, contains 48 glyphs, and supports 47 characters from the Unicode block : Mro.
 
 
 ## Supported writing systems

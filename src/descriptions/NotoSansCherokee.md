@@ -1,1 +1,1 @@
-Noto Sans Cherokee is a sanserif design for texts in the Cherokee script. It has multiple weights, contains 273 glyphs, 6 OpenType features, and supports 186 characters from 3 Unicode blocks.
+Noto Sans Cherokee is a sans serif design for texts in the Cherokee script. It has multiple weights, contains 273 glyphs, 6 OpenType features, and supports 186 characters from 3 Unicode blocks.

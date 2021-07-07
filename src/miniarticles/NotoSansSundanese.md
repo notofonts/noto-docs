@@ -1,9 +1,9 @@
 
 # Noto Sans Sundanese
 
-Noto Sans Sundanese is a sanserif design for texts in the Sundanese script. 
+Noto Sans Sundanese is a sans serif design for texts in the Sundanese script. 
 
-Noto Sans Sundanese has multiple weights, contains 89 glyphs, 3 OpenType features, and supports 82 characters from 2 Unicode blocks: Sundanese, Sundanese Supplement.
+Noto Sans Sundanese has multiple weights, contains 89 glyphs, 3 OpenType features, and supports 82 characters from 2 Unicode blocks: : Sundanese, Sundanese Supplement.
 
 
 ## Supported writing systems

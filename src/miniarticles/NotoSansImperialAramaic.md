@@ -1,9 +1,9 @@
 
 # Noto Sans Imperial Aramaic
 
-Noto Sans Imperial Aramaic is a sanserif design for texts in the historical Imperial Aramaic script. 
+Noto Sans Imperial Aramaic is a sans serif design for texts in the historical Imperial Aramaic script. 
 
-Noto Sans Imperial Aramaic has multiple weights, contains 36 glyphs, and supports 35 characters: Imperial Aramaic.
+Noto Sans Imperial Aramaic has multiple weights, contains 36 glyphs, and supports 35 characters from the Unicode block : Imperial Aramaic.
 
 
 ## Supported writing systems

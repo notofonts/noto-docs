@@ -1,1 +1,1 @@
-Noto Sans Myanmar is a sanserif design for texts in the Myanmar script. It contains 610 glyphs, 7 OpenType features, and supports 239 characters from 4 Unicode blocks.
+Noto Sans Myanmar is a sans serif design for texts in the Myanmar script. It contains 610 glyphs, 7 OpenType features, and supports 239 characters from 4 Unicode blocks.

@@ -1,9 +1,9 @@
 
 # Noto Sans Ethiopic
 
-Noto Sans Ethiopic is a sanserif design for texts in the Ethiopic script. 
+Noto Sans Ethiopic is a sans serif design for texts in the Ethiopic script. 
 
-Noto Sans Ethiopic has multiple weights and widths, contains 566 glyphs, 5 OpenType features, and supports 505 characters from 4 Unicode blocks: Ethiopic, Ethiopic Extended, Ethiopic Extended-A, Ethiopic Supplement.
+Noto Sans Ethiopic has multiple weights and widths, contains 566 glyphs, 5 OpenType features, and supports 505 characters from 4 Unicode blocks: : Ethiopic, Ethiopic Extended, Ethiopic Extended-A, Ethiopic Supplement.
 
 
 ## Supported writing systems

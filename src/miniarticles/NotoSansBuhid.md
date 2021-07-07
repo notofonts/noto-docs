@@ -1,9 +1,9 @@
 
 # Noto Sans Buhid
 
-Noto Sans Buhid is a sanserif design for texts in the Buhid script. 
+Noto Sans Buhid is a sans serif design for texts in the Buhid script. 
 
-Noto Sans Buhid has multiple weights, contains 44 glyphs, 2 OpenType features, and supports 30 characters: Buhid.
+Noto Sans Buhid has multiple weights, contains 44 glyphs, 2 OpenType features, and supports 30 characters from the Unicode block : Buhid.
 
 
 ## Supported writing systems

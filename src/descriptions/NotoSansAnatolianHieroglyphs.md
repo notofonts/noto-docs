@@ -1,1 +1,1 @@
-Noto Sans Anatolian Hieroglyphs is a sanserif design for texts in the historical Anatolian hieroglyphs script. It has multiple weights, contains 589 glyphs, and supports 588 characters.
+Noto Sans Anatolian Hieroglyphs is a sans serif design for texts in the historical Anatolian hieroglyphs script. It has multiple weights, contains 589 glyphs, and supports 588 characters.

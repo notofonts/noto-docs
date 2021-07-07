@@ -1,9 +1,9 @@
 
 # Noto Sans Linear A
 
-Noto Sans Linear A is a sanserif design for texts in the historical Linear A script. 
+Noto Sans Linear A is a sans serif design for texts in the historical Linear A script. 
 
-Noto Sans Linear A has multiple weights, contains 346 glyphs, and supports 345 characters: Linear A.
+Noto Sans Linear A has multiple weights, contains 346 glyphs, and supports 345 characters from the Unicode block : Linear A.
 
 
 ## Supported writing systems

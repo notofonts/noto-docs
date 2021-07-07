@@ -1,1 +1,1 @@
-Noto Sans Bassa Vah is a sanserif design for texts in the Bassa Vah script. It has multiple weights, contains 45 glyphs, 3 OpenType features, and supports 41 characters.
+Noto Sans Bassa Vah is a sans serif design for texts in the Bassa Vah script. It has multiple weights, contains 45 glyphs, 3 OpenType features, and supports 41 characters.

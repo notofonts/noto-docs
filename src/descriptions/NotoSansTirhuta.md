@@ -1,1 +1,1 @@
-Noto Sans Tirhuta is a sanserif design for texts in the Tirhuta script. It contains 262 glyphs, 13 OpenType features, and supports 108 characters from 3 Unicode blocks.
+Noto Sans Tirhuta is a sans serif design for texts in the Tirhuta script. It contains 262 glyphs, 13 OpenType features, and supports 108 characters from 3 Unicode blocks.

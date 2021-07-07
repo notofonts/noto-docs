@@ -1,9 +1,9 @@
 
 # Noto Sans Hanunoo
 
-Noto Sans Hanunoo is a sanserif design for texts in the Hanunoo script. 
+Noto Sans Hanunoo is a sans serif design for texts in the Hanunoo script. 
 
-Noto Sans Hanunoo contains 48 glyphs, 3 OpenType features, and supports 31 characters: Hanunoo.
+Noto Sans Hanunoo contains 48 glyphs, 3 OpenType features, and supports 31 characters from the Unicode block : Hanunoo.
 
 
 ## Supported writing systems

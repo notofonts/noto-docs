@@ -1,9 +1,9 @@
 
 # Noto Sans Kannada
 
-Noto Sans Kannada is a sanserif design for texts in the Kannada script. 
+Noto Sans Kannada is a sans serif design for texts in the Kannada script. 
 
-Noto Sans Kannada has multiple weights and widths, contains 655 glyphs, 11 OpenType features, and supports 164 characters from 5 Unicode blocks: Kannada, Basic Latin, General Punctuation, Vedic Extensions, Devanagari.
+Noto Sans Kannada has multiple weights and widths, contains 655 glyphs, 11 OpenType features, and supports 164 characters from 5 Unicode blocks: : Kannada, Basic Latin, General Punctuation, Vedic Extensions, Devanagari.
 
 
 ## Supported writing systems

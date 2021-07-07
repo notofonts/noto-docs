@@ -3,7 +3,7 @@
 
 Noto Serif Gurmukhi is a serif design for texts in the Gurmukhi script. 
 
-Noto Serif Gurmukhi has multiple weights and widths, contains 294 glyphs, 11 OpenType features, and supports 154 characters from 5 Unicode blocks: Gurmukhi, Basic Latin, General Punctuation, Devanagari, Common Indic Number Forms.
+Noto Serif Gurmukhi has multiple weights and widths, contains 294 glyphs, 11 OpenType features, and supports 154 characters from 5 Unicode blocks: : Gurmukhi, Basic Latin, General Punctuation, Devanagari, Common Indic Number Forms.
 
 
 ## Supported writing systems

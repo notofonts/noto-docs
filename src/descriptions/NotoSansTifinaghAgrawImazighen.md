@@ -1,1 +1,1 @@
-Noto Sans Tifinagh Agraw Imazighen is a sanserif design in the AgrawImazighen variant for texts in the Tifinagh script. It contains 168 glyphs, 5 OpenType features, and supports 76 characters from 2 Unicode blocks.
+Noto Sans Tifinagh Agraw Imazighen is a sans serif design in the AgrawImazighen variant for texts in the Tifinagh script. It contains 168 glyphs, 5 OpenType features, and supports 76 characters from 2 Unicode blocks.

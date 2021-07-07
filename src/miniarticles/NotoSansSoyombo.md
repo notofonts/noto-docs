@@ -1,9 +1,9 @@
 
 # Noto Sans Soyombo
 
-Noto Sans Soyombo is a sanserif design for texts in the Soyombo script. 
+Noto Sans Soyombo is a sans serif design for texts in the Soyombo script. 
 
-Noto Sans Soyombo has multiple weights, contains 323 glyphs, 7 OpenType features, and supports 88 characters: Soyombo.
+Noto Sans Soyombo has multiple weights, contains 323 glyphs, 7 OpenType features, and supports 88 characters from the Unicode block : Soyombo.
 
 
 ## Supported writing systems

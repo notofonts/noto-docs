@@ -1,9 +1,9 @@
 
 # Noto Sans Kharoshthi
 
-Noto Sans Kharoshthi is a sanserif design for texts in the historical Kharoshthi script. 
+Noto Sans Kharoshthi is a sans serif design for texts in the historical Kharoshthi script. 
 
-Noto Sans Kharoshthi contains 154 glyphs, 10 OpenType features, and supports 78 characters: Kharoshthi.
+Noto Sans Kharoshthi contains 154 glyphs, 10 OpenType features, and supports 78 characters from the Unicode block : Kharoshthi.
 
 
 ## Supported writing systems

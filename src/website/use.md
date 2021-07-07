@@ -186,7 +186,7 @@ The Noto collection has separate fonts for different scripts, so you should only
 
 In the CSS `font-family` property, you can specify a “family stack”: multiple font families separated by commas. When the first font does not contain characters necessary to render the text, the browser uses font **fallback**: it tries the second font, then third and so on. When none of the fonts support a particular character, the browser uses the default system font.
 
-If your website is in a non-European language (for example Hindi) and you’re using a sanserif design, select the appropriate style (like Regular) from the script-specific family (like [Noto Sans Devanagari](../noto/Noto+Sans+Devanagari)), and the corresponding style from the main [Noto Sans](../noto/Noto+Sans) family. The Noto Sans family has punctuation signs, digits and other characters that your text may use. Also select [Noto Sans Symbols2](../noto/Noto+Sans+Symbols2) if your website text uses arrows or dingbats.
+If your website is in a non-European language (for example Hindi) and you’re using a sans serif design, select the appropriate style (like Regular) from the script-specific family (like [Noto Sans Devanagari](../noto/Noto+Sans+Devanagari)), and the corresponding style from the main [Noto Sans](../noto/Noto+Sans) family. The Noto Sans family has punctuation signs, digits and other characters that your text may use. Also select [Noto Sans Symbols2](../noto/Noto+Sans+Symbols2) if your website text uses arrows or dingbats.
 
 If you’re using a serif design, select the script-specifc serif font like [Noto Serif Devanagari](../noto/Noto+Serif+Devanagari), and the matching font from the main [Noto Serif](../noto/Noto+Serif) family.
 

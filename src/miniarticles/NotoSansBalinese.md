@@ -1,9 +1,9 @@
 
 # Noto Sans Balinese
 
-Noto Sans Balinese is a sanserif design for texts in the Balinese script. 
+Noto Sans Balinese is a sans serif design for texts in the Balinese script. 
 
-Noto Sans Balinese has multiple weights, contains 361 glyphs, 6 OpenType features, and supports 130 characters: Balinese.
+Noto Sans Balinese has multiple weights, contains 361 glyphs, 6 OpenType features, and supports 130 characters from the Unicode block : Balinese.
 
 
 ## Supported writing systems

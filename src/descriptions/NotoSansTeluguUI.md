@@ -1,1 +1,1 @@
-Noto Sans Telugu UI is a sanserif design for app and website user interfaces in the Telugu script. It has multiple weights and widths, contains 958 glyphs, 11 OpenType features, and supports 163 characters from 4 Unicode blocks.
+Noto Sans Telugu UI is a sans serif design for app and website user interfaces in the Telugu script. It has multiple weights and widths, contains 958 glyphs, 11 OpenType features, and supports 163 characters from 4 Unicode blocks.

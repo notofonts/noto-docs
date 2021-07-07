@@ -1,1 +1,1 @@
-Noto Sans Oriya is a sanserif design for texts in the Odia (Oriya) script. It has multiple weights and widths, contains 513 glyphs, 20 OpenType features, and supports 150 characters from 3 Unicode blocks.
+Noto Sans Oriya is a sans serif design for texts in the Odia (Oriya) script. It has multiple weights and widths, contains 513 glyphs, 20 OpenType features, and supports 150 characters from 3 Unicode blocks.

@@ -1,9 +1,9 @@
 
 # Noto Sans Khudawadi
 
-Noto Sans Khudawadi is a sanserif design for texts in the historical Khudawadi script. 
+Noto Sans Khudawadi is a sans serif design for texts in the historical Khudawadi script. 
 
-Noto Sans Khudawadi contains 110 glyphs, 5 OpenType features, and supports 90 characters from 2 Unicode blocks: Khudawadi, Common Indic Number Forms.
+Noto Sans Khudawadi contains 110 glyphs, 5 OpenType features, and supports 90 characters from 2 Unicode blocks: : Khudawadi, Common Indic Number Forms.
 
 
 ## Supported writing systems

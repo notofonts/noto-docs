@@ -1,9 +1,9 @@
 
 # Noto Sans Deseret
 
-Noto Sans Deseret is a sanserif design for texts in the historical Deseret script. 
+Noto Sans Deseret is a sans serif design for texts in the historical Deseret script. 
 
-Noto Sans Deseret has multiple weights, contains 85 glyphs, and supports 84 characters: Deseret.
+Noto Sans Deseret has multiple weights, contains 85 glyphs, and supports 84 characters from the Unicode block : Deseret.
 
 
 ## Supported writing systems

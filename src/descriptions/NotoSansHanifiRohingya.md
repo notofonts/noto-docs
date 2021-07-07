@@ -1,1 +1,1 @@
-Noto Sans Hanifi Rohingya is a sanserif design for texts in the Hanifi Rohingya script. It has multiple weights, contains 179 glyphs, 8 OpenType features, and supports 65 characters from 2 Unicode blocks.
+Noto Sans Hanifi Rohingya is a sans serif design for texts in the Hanifi Rohingya script. It has multiple weights, contains 179 glyphs, 8 OpenType features, and supports 65 characters from 2 Unicode blocks.

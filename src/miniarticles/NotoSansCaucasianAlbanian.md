@@ -1,9 +1,9 @@
 
 # Noto Sans Caucasian Albanian
 
-Noto Sans Caucasian Albanian is a sanserif design for texts in the historical Caucasian Albanian script. 
+Noto Sans Caucasian Albanian is a sans serif design for texts in the historical Caucasian Albanian script. 
 
-Noto Sans Caucasian Albanian contains 181 glyphs, 4 OpenType features, and supports 76 characters from 2 Unicode blocks: Caucasian Albanian, Combining Half Marks.
+Noto Sans Caucasian Albanian contains 181 glyphs, 4 OpenType features, and supports 76 characters from 2 Unicode blocks: : Caucasian Albanian, Combining Half Marks.
 
 
 ## Supported writing systems

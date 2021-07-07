@@ -1,9 +1,9 @@
 
 # Noto Sans Tifinagh Azawagh
 
-Noto Sans Tifinagh Azawagh is a sanserif design in the Azawagh variant for texts in the Tifinagh script. 
+Noto Sans Tifinagh Azawagh is a sans serif design in the Azawagh variant for texts in the Tifinagh script. 
 
-Noto Sans Tifinagh Azawagh contains 168 glyphs, 5 OpenType features, and supports 76 characters from 2 Unicode blocks: Tifinagh, Combining Diacritical Marks.
+Noto Sans Tifinagh Azawagh contains 168 glyphs, 5 OpenType features, and supports 76 characters from 2 Unicode blocks: : Tifinagh, Combining Diacritical Marks.
 
 
 ## Supported writing systems

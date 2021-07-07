@@ -1,9 +1,9 @@
 
 # Noto Sans Pahawh Hmong
 
-Noto Sans Pahawh Hmong is a sanserif design for texts in the Pahawh Hmong script. 
+Noto Sans Pahawh Hmong is a sans serif design for texts in the Pahawh Hmong script. 
 
-Noto Sans Pahawh Hmong has multiple weights, contains 135 glyphs, 2 OpenType features, and supports 134 characters: Pahawh Hmong.
+Noto Sans Pahawh Hmong has multiple weights, contains 135 glyphs, 2 OpenType features, and supports 134 characters from the Unicode block : Pahawh Hmong.
 
 
 ## Supported writing systems

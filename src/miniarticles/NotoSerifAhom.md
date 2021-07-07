@@ -3,7 +3,7 @@
 
 Noto Serif Ahom is a serif design for texts in the Ahom script. 
 
-Noto Serif Ahom contains 76 glyphs, 7 OpenType features, and supports 63 characters: Ahom.
+Noto Serif Ahom contains 76 glyphs, 7 OpenType features, and supports 63 characters from the Unicode block : Ahom.
 
 
 ## Supported writing systems

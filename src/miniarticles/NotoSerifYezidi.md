@@ -3,7 +3,7 @@
 
 Noto Serif Yezidi is a serif design for texts in the Yezidi script. 
 
-Noto Serif Yezidi has multiple weights, contains 56 glyphs, 2 OpenType features, and supports 55 characters from 2 Unicode blocks: Yezidi, Arabic.
+Noto Serif Yezidi has multiple weights, contains 56 glyphs, 2 OpenType features, and supports 55 characters from 2 Unicode blocks: : Yezidi, Arabic.
 
 
 ## Supported writing systems
