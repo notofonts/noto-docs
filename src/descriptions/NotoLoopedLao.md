@@ -1,1 +1,1 @@
-Noto Looped Lao is an unmodulated design in the more traditional looped variant of the Lao script, suitable for all texts. It contains 181 glyphs, 10 OpenType features, and supports 126 characters from 4 Unicode blocks.
+Noto Looped Lao is an unmodulated design in the more traditional, looped variant of the Lao script, suitable for all texts. It contains 181 glyphs, 10 OpenType features, and supports 126 characters from 4 Unicode blocks.

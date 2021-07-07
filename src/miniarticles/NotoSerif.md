@@ -1,7 +1,7 @@
 
 # Noto Serif
 
-Noto Serif is a serif design for all texts in the Latin, Cyrillic and Greek scripts, also suitable as the complementary font for other script-specific Noto Serif fonts. 
+Noto Serif is a serif design for texts in the Latin, Cyrillic and Greek scripts, also suitable as the complementary font for other script-specific Noto Serif fonts. 
 
 Noto Serif has an italic variant, multiple weights and widths, contains 3,256 glyphs, 24 OpenType features, and supports 2,840 characters from 30 Unicode blocks: Latin Extended Additional, Cyrillic, Greek Extended, Latin Extended-B, Latin Extended-D, Latin Extended-A, Phonetic Extensions, Greek and Coptic, Combining Diacritical Marks, IPA Extensions, Cyrillic Extended-B, Latin-1 Supplement, General Punctuation, Basic Latin, Supplemental Punctuation, Spacing Modifier Letters, Letterlike Symbols, Phonetic Extensions Supplement, Combining Diacritical Marks Supplement, Latin Extended-E, Cyrillic Supplement, Currency Symbols, Latin Extended-C, Cyrillic Extended-A, Modifier Tone Letters, Superscripts and Subscripts, Combining Diacritical Marks Extended, Combining Half Marks, Cyrillic Extended-C, Alphabetic Presentation Forms.
 
