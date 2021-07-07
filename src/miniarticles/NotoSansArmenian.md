@@ -3,7 +3,7 @@
 
 Noto Sans Armenian is a sans serif design for texts in the Armenian script. 
 
-Noto Sans Armenian has multiple weights and widths, contains 107 glyphs, 3 OpenType features, and supports 104 characters from 2 Unicode blocks: : Armenian, Alphabetic Presentation Forms.
+Noto Sans Armenian has multiple weights and widths, contains 107 glyphs, 3 OpenType features, and supports 104 characters from 2 Unicode blocks: Armenian, Alphabetic Presentation Forms.
 
 
 ## Supported writing systems

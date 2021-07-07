@@ -3,7 +3,7 @@
 
 Noto Sans Lepcha is a sans serif design for texts in the Lepcha script. 
 
-Noto Sans Lepcha contains 141 glyphs, 6 OpenType features, and supports 82 characters from the Unicode block : Lepcha.
+Noto Sans Lepcha contains 141 glyphs, 6 OpenType features, and supports 82 characters from the Unicode block Lepcha.
 
 
 ## Supported writing systems

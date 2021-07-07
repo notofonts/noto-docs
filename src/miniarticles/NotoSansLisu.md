@@ -3,7 +3,7 @@
 
 Noto Sans Lisu is a sans serif design for texts in the Fraser script. 
 
-Noto Sans Lisu has multiple weights, contains 60 glyphs, and supports 59 characters from the Unicode block : Lisu.
+Noto Sans Lisu has multiple weights, contains 60 glyphs, and supports 59 characters from the Unicode block Lisu.
 
 
 ## Supported writing systems

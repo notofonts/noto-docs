@@ -3,7 +3,7 @@
 
 NotoSerifTamilSlanted is a slanted serif design for texts in the Tamil script. 
 
-NotoSerifTamilSlanted has an italic variant, multiple weights and widths, contains 222 glyphs, 10 OpenType features, and supports 147 characters from 5 Unicode blocks: : Tamil, Basic Latin, General Punctuation, Devanagari, Grantha.
+NotoSerifTamilSlanted has an italic variant, multiple weights and widths, contains 222 glyphs, 10 OpenType features, and supports 147 characters from 5 Unicode blocks: Tamil, Basic Latin, General Punctuation, Devanagari, Grantha.
 
 
 ## Supported writing systems

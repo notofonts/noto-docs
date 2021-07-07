@@ -3,7 +3,7 @@
 
 Noto Sans Lycian is a sans serif design for texts in the historical Lycian script. 
 
-Noto Sans Lycian has multiple weights, contains 34 glyphs, and supports 33 characters from the Unicode block : Lycian.
+Noto Sans Lycian has multiple weights, contains 34 glyphs, and supports 33 characters from the Unicode block Lycian.
 
 
 ## Supported writing systems

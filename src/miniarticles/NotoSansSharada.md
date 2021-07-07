@@ -3,7 +3,7 @@
 
 Noto Sans Sharada is a sans serif design for texts in the Sharada script. 
 
-Noto Sans Sharada contains 239 glyphs, 6 OpenType features, and supports 109 characters from 2 Unicode blocks: : Sharada, Vedic Extensions.
+Noto Sans Sharada contains 239 glyphs, 6 OpenType features, and supports 109 characters from 2 Unicode blocks: Sharada, Vedic Extensions.
 
 
 ## Supported writing systems

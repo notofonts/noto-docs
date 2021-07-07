@@ -3,7 +3,7 @@
 
 Noto Sans Egyptian Hieroglyphs is a sans serif design for texts in the historical Egyptian hieroglyphs script. 
 
-Noto Sans Egyptian Hieroglyphs has multiple weights, contains 1,079 glyphs, and supports 1,078 characters from the Unicode block : Egyptian Hieroglyphs.
+Noto Sans Egyptian Hieroglyphs has multiple weights, contains 1,079 glyphs, and supports 1,078 characters from the Unicode block Egyptian Hieroglyphs.
 
 
 ## Supported writing systems

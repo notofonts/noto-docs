@@ -3,7 +3,7 @@
 
 Noto Sans Rejang is a sans serif design for texts in the Rejang script. 
 
-Noto Sans Rejang has multiple weights, contains 46 glyphs, and supports 45 characters from the Unicode block : Rejang.
+Noto Sans Rejang has multiple weights, contains 46 glyphs, and supports 45 characters from the Unicode block Rejang.
 
 
 ## Supported writing systems

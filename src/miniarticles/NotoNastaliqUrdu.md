@@ -3,7 +3,7 @@
 
 Noto Nastaliq Urdu is a cursive Nastaliq design for texts in the Arabic script, especially in the Urdu language. 
 
-Noto Nastaliq Urdu contains 1,138 glyphs, 9 OpenType features, and supports 281 characters from 6 Unicode blocks: : Arabic, Arabic Supplement, Arabic Presentation Forms-A, Basic Latin, General Punctuation, Latin-1 Supplement.
+Noto Nastaliq Urdu contains 1,138 glyphs, 9 OpenType features, and supports 281 characters from 6 Unicode blocks: Arabic, Arabic Supplement, Arabic Presentation Forms-A, Basic Latin, General Punctuation, Latin-1 Supplement.
 
 
 ## Supported writing systems

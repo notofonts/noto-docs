@@ -3,7 +3,7 @@
 
 Noto Sans Tifinagh Hawad is a sans serif design in the Hawad variant for texts in the Tifinagh script. 
 
-Noto Sans Tifinagh Hawad contains 166 glyphs, 5 OpenType features, and supports 76 characters from 2 Unicode blocks: : Tifinagh, Combining Diacritical Marks.
+Noto Sans Tifinagh Hawad contains 166 glyphs, 5 OpenType features, and supports 76 characters from 2 Unicode blocks: Tifinagh, Combining Diacritical Marks.
 
 
 ## Supported writing systems

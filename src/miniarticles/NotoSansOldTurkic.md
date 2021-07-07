@@ -3,7 +3,7 @@
 
 Noto Sans Old Turkic is a sans serif design for texts in the historical Orkhon runic (Old Turkic) script. 
 
-Noto Sans Old Turkic has multiple weights, contains 78 glyphs, and supports 77 characters from the Unicode block : Old Turkic.
+Noto Sans Old Turkic has multiple weights, contains 78 glyphs, and supports 77 characters from the Unicode block Old Turkic.
 
 
 ## Supported writing systems

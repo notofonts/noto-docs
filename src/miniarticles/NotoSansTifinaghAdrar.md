@@ -3,7 +3,7 @@
 
 Noto Sans Tifinagh Adrar is a sans serif design in the Adrar variant for texts in the Tifinagh script. 
 
-Noto Sans Tifinagh Adrar contains 164 glyphs, 5 OpenType features, and supports 76 characters from 2 Unicode blocks: : Tifinagh, Combining Diacritical Marks.
+Noto Sans Tifinagh Adrar contains 164 glyphs, 5 OpenType features, and supports 76 characters from 2 Unicode blocks: Tifinagh, Combining Diacritical Marks.
 
 
 ## Supported writing systems

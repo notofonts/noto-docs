@@ -3,7 +3,7 @@
 
 Noto Sans Old North Arabian is a sans serif design for texts in the historical Old North Arabian script. 
 
-Noto Sans Old North Arabian has multiple weights, contains 37 glyphs, and supports 36 characters from the Unicode block : Old North Arabian.
+Noto Sans Old North Arabian has multiple weights, contains 37 glyphs, and supports 36 characters from the Unicode block Old North Arabian.
 
 
 ## Supported writing systems

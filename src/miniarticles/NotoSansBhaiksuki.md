@@ -3,7 +3,7 @@
 
 Noto Sans Bhaiksuki is a sans serif design for texts in the historical Bhaiksuki script. 
 
-Noto Sans Bhaiksuki contains 863 glyphs, 9 OpenType features, and supports 103 characters from the Unicode block : Bhaiksuki.
+Noto Sans Bhaiksuki contains 863 glyphs, 9 OpenType features, and supports 103 characters from the Unicode block Bhaiksuki.
 
 
 ## Supported writing systems

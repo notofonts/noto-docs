@@ -3,7 +3,7 @@
 
 Noto Sans Chakma is a sans serif design for texts in the Chakma script. 
 
-Noto Sans Chakma contains 212 glyphs, 12 OpenType features, and supports 97 characters from the Unicode block : Chakma.
+Noto Sans Chakma contains 212 glyphs, 12 OpenType features, and supports 97 characters from the Unicode block Chakma.
 
 
 ## Supported writing systems

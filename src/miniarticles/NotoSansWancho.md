@@ -3,7 +3,7 @@
 
 Noto Sans Wancho is a sans serif design for texts in the Wancho script. 
 
-Noto Sans Wancho has multiple weights, contains 95 glyphs, 3 OpenType features, and supports 79 characters from 2 Unicode blocks: : Wancho, Basic Latin.
+Noto Sans Wancho has multiple weights, contains 95 glyphs, 3 OpenType features, and supports 79 characters from 2 Unicode blocks: Wancho, Basic Latin.
 
 
 ## Supported writing systems

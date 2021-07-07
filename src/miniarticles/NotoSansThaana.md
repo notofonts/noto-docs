@@ -3,7 +3,7 @@
 
 Noto Sans Thaana is a sans serif design for texts in the Thaana script. 
 
-Noto Sans Thaana has multiple weights, contains 90 glyphs, and supports 89 characters from 4 Unicode blocks: : Thaana, Basic Latin, Arabic, General Punctuation.
+Noto Sans Thaana has multiple weights, contains 90 glyphs, and supports 89 characters from 4 Unicode blocks: Thaana, Basic Latin, Arabic, General Punctuation.
 
 
 ## Supported writing systems

@@ -3,7 +3,7 @@
 
 Noto Sans Meroitic is a sanserif design for texts in the historical Meroitic Hieroglyphs and Cursive scripts. 
 
-Noto Sans Meroitic has multiple weights, contains 133 glyphs, 2 OpenType features, and supports 129 characters from 2 Unicode blocks: : Meroitic Hieroglyphs, Meroitic Cursive.
+Noto Sans Meroitic has multiple weights, contains 133 glyphs, 2 OpenType features, and supports 129 characters from 2 Unicode blocks: Meroitic Hieroglyphs, Meroitic Cursive.
 
 
 ## Supported writing systems

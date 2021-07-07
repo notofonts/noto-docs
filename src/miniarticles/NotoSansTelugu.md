@@ -3,7 +3,7 @@
 
 Noto Sans Telugu is a sans serif design for texts in the Telugu script. 
 
-Noto Sans Telugu has multiple weights and widths, contains 958 glyphs, 11 OpenType features, and supports 163 characters from 4 Unicode blocks: : Telugu, Basic Latin, General Punctuation, Devanagari.
+Noto Sans Telugu has multiple weights and widths, contains 958 glyphs, 11 OpenType features, and supports 163 characters from 4 Unicode blocks: Telugu, Basic Latin, General Punctuation, Devanagari.
 
 
 ## Supported writing systems

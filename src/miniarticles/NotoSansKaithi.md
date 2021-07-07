@@ -3,7 +3,7 @@
 
 Noto Sans Kaithi is a sans serif design for texts in the Kaithi script. 
 
-Noto Sans Kaithi contains 322 glyphs, 13 OpenType features, and supports 97 characters from 2 Unicode blocks: : Kaithi, Common Indic Number Forms.
+Noto Sans Kaithi contains 322 glyphs, 13 OpenType features, and supports 97 characters from 2 Unicode blocks: Kaithi, Common Indic Number Forms.
 
 
 ## Supported writing systems

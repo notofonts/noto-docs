@@ -3,7 +3,7 @@
 
 Noto Sans Manichaean is a sans serif design for texts in the historical Manichaean script. 
 
-Noto Sans Manichaean contains 153 glyphs, 6 OpenType features, and supports 60 characters from the Unicode block : Manichaean.
+Noto Sans Manichaean contains 153 glyphs, 6 OpenType features, and supports 60 characters from the Unicode block Manichaean.
 
 
 ## Supported writing systems

@@ -3,7 +3,7 @@
 
 Noto Sans Syloti Nagri is a sans serif design for texts in the Syloti Nagri script. 
 
-Noto Sans Syloti Nagri has multiple weights, contains 87 glyphs, 3 OpenType features, and supports 68 characters from the Unicode block : Syloti Nagri.
+Noto Sans Syloti Nagri has multiple weights, contains 87 glyphs, 3 OpenType features, and supports 68 characters from the Unicode block Syloti Nagri.
 
 
 ## Supported writing systems

@@ -3,7 +3,7 @@
 
 Noto Sans Vai is a sans serif design for texts in the Vai script. 
 
-Noto Sans Vai has multiple weights, contains 305 glyphs, and supports 304 characters from the Unicode block : Vai.
+Noto Sans Vai has multiple weights, contains 305 glyphs, and supports 304 characters from the Unicode block Vai.
 
 
 ## Supported writing systems

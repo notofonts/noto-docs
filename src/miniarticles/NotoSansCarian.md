@@ -3,7 +3,7 @@
 
 Noto Sans Carian is a sans serif design for texts in the historical Carian script. 
 
-Noto Sans Carian has multiple weights, contains 54 glyphs, and supports 53 characters from the Unicode block : Carian.
+Noto Sans Carian has multiple weights, contains 54 glyphs, and supports 53 characters from the Unicode block Carian.
 
 
 ## Supported writing systems

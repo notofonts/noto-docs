@@ -3,7 +3,7 @@
 
 Noto Sans Khmer is a sans serif design for texts in the Khmer script. 
 
-Noto Sans Khmer has multiple weights and widths, contains 363 glyphs, 13 OpenType features, and supports 175 characters from 4 Unicode blocks: : Khmer, Khmer Symbols, Basic Latin, General Punctuation.
+Noto Sans Khmer has multiple weights and widths, contains 363 glyphs, 13 OpenType features, and supports 175 characters from 4 Unicode blocks: Khmer, Khmer Symbols, Basic Latin, General Punctuation.
 
 
 ## Supported writing systems

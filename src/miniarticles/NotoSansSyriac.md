@@ -3,7 +3,7 @@
 
 Noto Sans Syriac is a sans serif design for texts in the Syriac script. 
 
-Noto Sans Syriac contains 888 glyphs, 19 OpenType features, and supports 150 characters from 5 Unicode blocks: : Syriac, Arabic, Basic Latin, Combining Diacritical Marks, Latin-1 Supplement.
+Noto Sans Syriac contains 888 glyphs, 19 OpenType features, and supports 150 characters from 5 Unicode blocks: Syriac, Arabic, Basic Latin, Combining Diacritical Marks, Latin-1 Supplement.
 
 
 ## Supported writing systems

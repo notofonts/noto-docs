@@ -3,7 +3,7 @@
 
 Noto Sans Adlam Unjoined is an unjoined sanserif design suitable for headlines and for educational content in the Adlam script. 
 
-Noto Sans Adlam Unjoined has multiple weights, contains 155 glyphs, 7 OpenType features, and supports 149 characters from 3 Unicode blocks: : Adlam, Basic Latin, General Punctuation.
+Noto Sans Adlam Unjoined has multiple weights, contains 155 glyphs, 7 OpenType features, and supports 149 characters from 3 Unicode blocks: Adlam, Basic Latin, General Punctuation.
 
 
 ## Supported writing systems

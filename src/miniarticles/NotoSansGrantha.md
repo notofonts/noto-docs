@@ -3,7 +3,7 @@
 
 Noto Sans Grantha is a sans serif design for texts in the Grantha script. 
 
-Noto Sans Grantha contains 478 glyphs, 24 OpenType features, and supports 121 characters from 3 Unicode blocks: : Grantha, Vedic Extensions, Devanagari.
+Noto Sans Grantha contains 478 glyphs, 24 OpenType features, and supports 121 characters from 3 Unicode blocks: Grantha, Vedic Extensions, Devanagari.
 
 
 ## Supported writing systems

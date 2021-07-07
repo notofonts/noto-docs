@@ -3,7 +3,7 @@
 
 Noto Sans Takri is a sans serif design for texts in the historical Takri script. 
 
-Noto Sans Takri has multiple weights, contains 95 glyphs, 8 OpenType features, and supports 86 characters from 2 Unicode blocks: : Takri, Common Indic Number Forms.
+Noto Sans Takri has multiple weights, contains 95 glyphs, 8 OpenType features, and supports 86 characters from 2 Unicode blocks: Takri, Common Indic Number Forms.
 
 
 ## Supported writing systems

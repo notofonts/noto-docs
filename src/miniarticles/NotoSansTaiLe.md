@@ -3,7 +3,7 @@
 
 Noto Sans Tai Le is a sans serif design for texts in the Tai Le script. 
 
-Noto Sans Tai Le contains 71 glyphs, 2 OpenType features, and supports 64 characters from 3 Unicode blocks: : Tai Le, CJK Symbols and Punctuation, Combining Diacritical Marks.
+Noto Sans Tai Le contains 71 glyphs, 2 OpenType features, and supports 64 characters from 3 Unicode blocks: Tai Le, CJK Symbols and Punctuation, Combining Diacritical Marks.
 
 
 ## Supported writing systems

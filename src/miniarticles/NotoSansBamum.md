@@ -3,7 +3,7 @@
 
 Noto Sans Bamum is a sans serif design for texts in the Bamum script. 
 
-Noto Sans Bamum has multiple weights, contains 662 glyphs, and supports 661 characters from 2 Unicode blocks: : Bamum Supplement, Bamum.
+Noto Sans Bamum has multiple weights, contains 662 glyphs, and supports 661 characters from 2 Unicode blocks: Bamum Supplement, Bamum.
 
 
 ## Supported writing systems
