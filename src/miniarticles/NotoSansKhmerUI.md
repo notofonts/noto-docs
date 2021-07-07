@@ -1,9 +1,9 @@
 
 # Noto Sans Khmer UI
 
-Noto Sans Khmer UI is a sanserif design optimized for user interface elements (menus, buttons, text boxes) in apps and on websites for the Khmer script.
+Noto Sans Khmer UI is a sanserif design for app and website user interfaces in the Khmer script. 
 
-It contains 381 glyphs and 13 OpenType features, and supports 175 characters from the Unicode blocks: Khmer, Khmer Symbols, Basic Latin, General Punctuation.
+Noto Sans Khmer UI has multiple weights and widths, contains 381 glyphs, 13 OpenType features, and supports 175 characters from 4 Unicode blocks: Khmer, Khmer Symbols, Basic Latin, General Punctuation.
 
 
 ## Supported writing systems

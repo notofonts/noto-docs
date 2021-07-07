@@ -1,9 +1,9 @@
 
 # Noto Sans Sinhala UI
 
-Noto Sans Sinhala UI is a sanserif design optimized for user interface elements (menus, buttons, text boxes) in apps and on websites for the Sinhala script.
+Noto Sans Sinhala UI is a sanserif design for app and website user interfaces in the Sinhala script. 
 
-It contains 645 glyphs and 11 OpenType features, and supports 170 characters from the Unicode blocks: Sinhala, Basic Latin, General Punctuation.
+Noto Sans Sinhala UI has multiple weights and widths, contains 645 glyphs, 11 OpenType features, and supports 170 characters from 3 Unicode blocks: Sinhala, Basic Latin, General Punctuation.
 
 
 ## Supported writing systems

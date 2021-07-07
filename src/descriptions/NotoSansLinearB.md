@@ -1,0 +1,1 @@
+Noto Sans Linear B is a sanserif design for texts in the historical Linear B script. It has multiple weights, contains 273 glyphs, and supports 272 characters from 3 Unicode blocks.

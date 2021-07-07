@@ -1,0 +1,1 @@
+Noto Sans Samaritan is a sanserif design for texts in the Samaritan script. It has multiple weights, contains 68 glyphs, 4 OpenType features, and supports 66 characters.

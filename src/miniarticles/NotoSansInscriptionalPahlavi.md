@@ -1,9 +1,9 @@
 
 # Noto Sans Inscriptional Pahlavi
 
-Noto Sans Inscriptional Pahlavi is a sanserif design intended for general use for the Inscriptional Pahlavi script.
+Noto Sans Inscriptional Pahlavi is a sanserif design for texts in the historical Inscriptional Pahlavi script. 
 
-It contains 35 glyphs and 2 OpenType features, and supports 31 characters from the Unicode blocks: Inscriptional Pahlavi.
+Noto Sans Inscriptional Pahlavi contains 35 glyphs, 2 OpenType features, and supports 31 characters: Inscriptional Pahlavi.
 
 
 ## Supported writing systems

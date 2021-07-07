@@ -1,9 +1,9 @@
 
 # Noto Sans Lydian
 
-Noto Sans Lydian is a sanserif design intended for general use for the Lydian script.
+Noto Sans Lydian is a sanserif design for texts in the historical Lydian script. 
 
-It contains 32 glyphs, and supports 31 characters from the Unicode blocks: Lydian.
+Noto Sans Lydian has multiple weights, contains 32 glyphs, and supports 31 characters: Lydian.
 
 
 ## Supported writing systems

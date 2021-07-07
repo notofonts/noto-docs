@@ -1,0 +1,1 @@
+Noto Sans Cypriot is a sanserif design for texts in the historical Cypriot script. It has multiple weights, contains 60 glyphs, and supports 59 characters.

@@ -1,9 +1,9 @@
 
 # Noto Sans New Tai Lue
 
-Noto Sans New Tai Lue is a sanserif design intended for general use for the New Tai Lue script.
+Noto Sans New Tai Lue is a sanserif design for texts in the New Tai Lue script. 
 
-It contains 95 glyphs and 1 OpenType features, and supports 90 characters from the Unicode blocks: New Tai Lue.
+Noto Sans New Tai Lue has multiple weights, contains 95 glyphs, and supports 90 characters: New Tai Lue.
 
 
 ## Supported writing systems

@@ -1,9 +1,9 @@
 
 # Noto Sans Symbols2
 
-Noto Sans Symbols2 is a sanserif design intended for general use for Symbols and for Emoji symbols.
+Noto Sans Symbols2 is a sanserif design for texts in Symbols and in Emoji symbols. 
 
-It contains 2674 glyphs and 3 OpenType features, and supports 2655 characters from the Unicode blocks: Miscellaneous Symbols and Pictographs, Braille Patterns, Miscellaneous Symbols and Arrows, Symbols for Legacy Computing, Supplemental Arrows-C, Dingbats, Miscellaneous Symbols, Geometric Shapes Extended, Domino Tiles, Chess Symbols, Geometric Shapes, Tai Xuan Jing Symbols, Playing Cards, Yijing Hexagram Symbols, Symbols and Pictographs Extended-A, Ornamental Dingbats, Phaistos Disc, Transport and Map Symbols, Mahjong Tiles, Control Pictures, Miscellaneous Technical, Ancient Greek Numbers, Ancient Symbols, Arrows, Optical Character Recognition, Mathematical Operators.
+Noto Sans Symbols2 has multiple widths, contains 2,397 glyphs, 3 OpenType features, and supports 2,378 characters from 24 Unicode blocks: Miscellaneous Symbols and Pictographs, Braille Patterns, Miscellaneous Symbols and Arrows, Supplemental Arrows-C, Dingbats, Miscellaneous Symbols, Geometric Shapes Extended, Domino Tiles, Chess Symbols, Geometric Shapes, Tai Xuan Jing Symbols, Playing Cards, Yijing Hexagram Symbols, Ornamental Dingbats, Phaistos Disc, Mahjong Tiles, Transport and Map Symbols, Control Pictures, Miscellaneous Technical, Ancient Greek Numbers, Arrows, Ancient Symbols, Optical Character Recognition, Mathematical Operators.
 
 
 ## Supported writing systems

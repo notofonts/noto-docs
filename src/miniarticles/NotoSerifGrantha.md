@@ -1,9 +1,9 @@
 
 # Noto Serif Grantha
 
-Noto Serif Grantha is a serif design intended for general use for the Grantha script.
+Noto Serif Grantha is a serif design for texts in the Grantha script. 
 
-It contains 479 glyphs and 24 OpenType features, and supports 121 characters from the Unicode blocks: Grantha, Vedic Extensions, Devanagari.
+Noto Serif Grantha contains 479 glyphs, 24 OpenType features, and supports 121 characters from 3 Unicode blocks: Grantha, Vedic Extensions, Devanagari.
 
 
 ## Supported writing systems

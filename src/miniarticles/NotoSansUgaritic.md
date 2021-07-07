@@ -1,9 +1,9 @@
 
 # Noto Sans Ugaritic
 
-Noto Sans Ugaritic is a sanserif design intended for general use for the Ugaritic script.
+Noto Sans Ugaritic is a sanserif design for texts in the historical Ugaritic script. 
 
-It contains 36 glyphs, and supports 35 characters from the Unicode blocks: Ugaritic.
+Noto Sans Ugaritic has multiple weights, contains 36 glyphs, and supports 35 characters: Ugaritic.
 
 
 ## Supported writing systems

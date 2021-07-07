@@ -1,9 +1,9 @@
 
 # Noto Music
 
-Noto Music is a Music design intended for general use for the Greek script.
+Noto Music is a font that contains symbols for the modern, Byzantine and Greek musical notations. 
 
-It contains 579 glyphs and 5 OpenType features, and supports 559 characters from the Unicode blocks: Byzantine Musical Symbols, Musical Symbols, Ancient Greek Musical Notation, Miscellaneous Symbols.
+Noto Music contains 579 glyphs, 5 OpenType features, and supports 559 characters from 4 Unicode blocks: Byzantine Musical Symbols, Musical Symbols, Ancient Greek Musical Notation, Miscellaneous Symbols.
 
 
 ## Supported writing systems

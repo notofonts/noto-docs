@@ -1,0 +1,1 @@
+Noto Sans Psalter Pahlavi is a sanserif design for texts in the historical Psalter Pahlavi script. It contains 98 glyphs, 7 OpenType features, and supports 37 characters.

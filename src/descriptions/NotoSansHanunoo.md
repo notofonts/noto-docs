@@ -1,0 +1,1 @@
+Noto Sans Hanunoo is a sanserif design for texts in the Hanunoo script. It contains 48 glyphs, 3 OpenType features, and supports 31 characters.

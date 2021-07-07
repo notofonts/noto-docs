@@ -1,9 +1,9 @@
 
 # Noto Sans Khojki
 
-Noto Sans Khojki is a sanserif design intended for general use for the Khojki script.
+Noto Sans Khojki is a sanserif design for texts in the Khojki script. 
 
-It contains 177 glyphs and 8 OpenType features, and supports 89 characters from the Unicode blocks: Khojki, Common Indic Number Forms.
+Noto Sans Khojki contains 177 glyphs, 8 OpenType features, and supports 89 characters from 2 Unicode blocks: Khojki, Common Indic Number Forms.
 
 
 ## Supported writing systems

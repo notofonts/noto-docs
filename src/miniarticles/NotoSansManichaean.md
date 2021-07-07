@@ -1,9 +1,9 @@
 
 # Noto Sans Manichaean
 
-Noto Sans Manichaean is a sanserif design intended for general use for the Manichaean script.
+Noto Sans Manichaean is a sanserif design for texts in the historical Manichaean script. 
 
-It contains 153 glyphs and 6 OpenType features, and supports 60 characters from the Unicode blocks: Manichaean.
+Noto Sans Manichaean contains 153 glyphs, 6 OpenType features, and supports 60 characters: Manichaean.
 
 
 ## Supported writing systems

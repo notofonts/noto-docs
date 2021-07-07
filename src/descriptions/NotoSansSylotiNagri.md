@@ -1,0 +1,1 @@
+Noto Sans Syloti Nagri is a sanserif design for texts in the Syloti Nagri script. It has multiple weights, contains 87 glyphs, 3 OpenType features, and supports 68 characters.

@@ -1,9 +1,9 @@
 
 # Noto Sans Samaritan
 
-Noto Sans Samaritan is a sanserif design intended for general use for the Samaritan script.
+Noto Sans Samaritan is a sanserif design for texts in the Samaritan script. 
 
-It contains 68 glyphs and 4 OpenType features, and supports 66 characters from the Unicode blocks: Samaritan.
+Noto Sans Samaritan has multiple weights, contains 68 glyphs, 4 OpenType features, and supports 66 characters: Samaritan.
 
 
 ## Supported writing systems

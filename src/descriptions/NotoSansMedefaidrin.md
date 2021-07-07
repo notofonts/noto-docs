@@ -1,0 +1,1 @@
+Noto Sans Medefaidrin is a sanserif design for texts in the Medefaidrin (Oberi Okaime) script. It has multiple weights, contains 97 glyphs, and supports 95 characters.

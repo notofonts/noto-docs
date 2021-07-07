@@ -1,0 +1,1 @@
+Noto Sans Inscriptional Parthian is a sanserif design for texts in the historical Inscriptional Parthian script. It contains 46 glyphs, 2 OpenType features, and supports 34 characters.

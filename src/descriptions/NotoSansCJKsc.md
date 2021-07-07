@@ -1,0 +1,1 @@
+Noto Sans CJK SC is an unmodulated design for languages in mainland China that use the Simplified Chinese variant of the Han ideograms. It covers all Han characters from the Basic Multilingual Plane of the Unicode Standard, and some additional ones. It contains 65,535 glyphs, 23 OpenType features, and supports 44,806 characters from 55 Unicode blocks.

@@ -1,9 +1,9 @@
 
 # Noto Sans Tai Tham
 
-Noto Sans Tai Tham is a sanserif design intended for general use for the Lanna (Tai Tham) script.
+Noto Sans Tai Tham is a sanserif design for texts in the Lanna (Tai Tham) script. 
 
-It contains 824 glyphs and 3 OpenType features, and supports 135 characters from the Unicode blocks: Tai Tham.
+Noto Sans Tai Tham has multiple weights, contains 824 glyphs, 3 OpenType features, and supports 135 characters: Tai Tham.
 
 
 ## Supported writing systems

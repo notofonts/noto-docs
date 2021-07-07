@@ -1,0 +1,1 @@
+Noto Serif Tibetan is a serif design for texts in the Tibetan script. It has multiple weights, contains 1,891 glyphs, 7 OpenType features, and supports 223 characters.

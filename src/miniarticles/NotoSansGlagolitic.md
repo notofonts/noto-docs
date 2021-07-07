@@ -1,9 +1,9 @@
 
 # Noto Sans Glagolitic
 
-Noto Sans Glagolitic is a sanserif design intended for general use for the Glagolitic script.
+Noto Sans Glagolitic is a sanserif design for texts in the historical Glagolitic script. 
 
-It contains 142 glyphs and 2 OpenType features, and supports 141 characters from the Unicode blocks: Glagolitic, Glagolitic Supplement.
+Noto Sans Glagolitic has multiple weights, contains 142 glyphs, 2 OpenType features, and supports 141 characters from 2 Unicode blocks: Glagolitic, Glagolitic Supplement.
 
 
 ## Supported writing systems

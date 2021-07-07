@@ -1,9 +1,9 @@
 
 # Noto Sans Gurmukhi UI
 
-Noto Sans Gurmukhi UI is a sanserif design optimized for user interface elements (menus, buttons, text boxes) in apps and on websites for the Gurmukhi script.
+Noto Sans Gurmukhi UI is a sanserif design for app and website user interfaces in the Gurmukhi script. 
 
-It contains 314 glyphs and 11 OpenType features, and supports 154 characters from the Unicode blocks: Gurmukhi, Basic Latin, General Punctuation, Devanagari, Common Indic Number Forms.
+Noto Sans Gurmukhi UI has multiple weights and widths, contains 344 glyphs, 11 OpenType features, and supports 154 characters from 5 Unicode blocks: Gurmukhi, Basic Latin, General Punctuation, Devanagari, Common Indic Number Forms.
 
 
 ## Supported writing systems

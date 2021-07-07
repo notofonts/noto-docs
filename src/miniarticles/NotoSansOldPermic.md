@@ -1,9 +1,9 @@
 
 # Noto Sans Old Permic
 
-Noto Sans Old Permic is a sanserif design intended for general use for the Old Permic script.
+Noto Sans Old Permic is a sanserif design for texts in the historical Old Permic script. 
 
-It contains 56 glyphs and 3 OpenType features, and supports 55 characters from the Unicode blocks: Old Permic, Combining Diacritical Marks.
+Noto Sans Old Permic contains 56 glyphs, 3 OpenType features, and supports 55 characters from 2 Unicode blocks: Old Permic, Combining Diacritical Marks.
 
 
 ## Supported writing systems

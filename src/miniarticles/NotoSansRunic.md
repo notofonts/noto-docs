@@ -1,9 +1,9 @@
 
 # Noto Sans Runic
 
-Noto Sans Runic is a sanserif design intended for general use for the Runic script.
+Noto Sans Runic is a sanserif design for texts in the historical Runic script. 
 
-It contains 94 glyphs, and supports 93 characters from the Unicode blocks: Runic.
+Noto Sans Runic has multiple weights, contains 94 glyphs, and supports 93 characters: Runic.
 
 
 ## Supported writing systems

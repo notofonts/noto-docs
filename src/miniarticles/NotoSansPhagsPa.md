@@ -1,9 +1,9 @@
 
 # Noto Sans PhagsPa
 
-Noto Sans PhagsPa is a sanserif design intended for general use for the Phags-pa script.
+Noto Sans PhagsPa is a sanserif design for texts in the historical Phags-pa script. 
 
-It contains 379 glyphs and 5 OpenType features, and supports 94 characters from the Unicode blocks: Phags-pa, CJK Symbols and Punctuation, Mongolian.
+Noto Sans PhagsPa contains 379 glyphs, 5 OpenType features, and supports 94 characters from 3 Unicode blocks: Phags-pa, CJK Symbols and Punctuation, Mongolian.
 
 
 ## Supported writing systems

@@ -1,9 +1,9 @@
 
 # Noto Looped Thai UI
 
-Noto Looped Thai UI is a Looped design optimized for user interface elements (menus, buttons, text boxes) in apps and on websites for the Thai script.
+Noto Looped Thai UI is an unmodulated design in the more traditional looped variant of the Thai script, suitable for app and website user interfaces. 
 
-It contains 157 glyphs and 7 OpenType features, and supports 126 characters from the Unicode blocks: Thai, Basic Latin, General Punctuation, Latin-1 Supplement.
+Noto Looped Thai UI contains 157 glyphs, 7 OpenType features, and supports 126 characters from 4 Unicode blocks: Thai, Basic Latin, General Punctuation, Latin-1 Supplement.
 
 
 ## Supported writing systems

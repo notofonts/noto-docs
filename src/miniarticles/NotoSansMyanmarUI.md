@@ -1,9 +1,9 @@
 
 # Noto Sans Myanmar UI
 
-Noto Sans Myanmar UI is a sanserif design optimized for user interface elements (menus, buttons, text boxes) in apps and on websites for the Myanmar script.
+Noto Sans Myanmar UI is a sanserif design for app and website user interfaces in the Myanmar script. 
 
-It contains 610 glyphs and 7 OpenType features, and supports 239 characters from the Unicode blocks: Myanmar, Myanmar Extended-A, Myanmar Extended-B, General Punctuation.
+Noto Sans Myanmar UI contains 610 glyphs, 7 OpenType features, and supports 239 characters from 4 Unicode blocks: Myanmar, Myanmar Extended-A, Myanmar Extended-B, General Punctuation.
 
 
 ## Supported writing systems

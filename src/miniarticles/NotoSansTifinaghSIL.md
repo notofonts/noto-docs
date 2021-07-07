@@ -1,9 +1,9 @@
 
 # Noto Sans Tifinagh SIL
 
-Noto Sans Tifinagh SIL is a sanserif design intended for general use for the Tifinagh script. This is the SIL of the family.
+Noto Sans Tifinagh SIL is a sanserif design in the SIL variant for texts in the Tifinagh script. 
 
-It contains 171 glyphs and 5 OpenType features, and supports 76 characters from the Unicode blocks: Tifinagh, Combining Diacritical Marks.
+Noto Sans Tifinagh SIL contains 171 glyphs, 5 OpenType features, and supports 76 characters from 2 Unicode blocks: Tifinagh, Combining Diacritical Marks.
 
 
 ## Supported writing systems

@@ -1,9 +1,9 @@
 
 # Noto Serif Kannada
 
-Noto Serif Kannada is a serif design intended for general use for the Kannada script.
+Noto Serif Kannada is a serif design for texts in the Kannada script. 
 
-It contains 417 glyphs and 11 OpenType features, and supports 164 characters from the Unicode blocks: Kannada, Basic Latin, General Punctuation, Vedic Extensions, Devanagari.
+Noto Serif Kannada has multiple weights, contains 417 glyphs, 11 OpenType features, and supports 164 characters from 5 Unicode blocks: Kannada, Basic Latin, General Punctuation, Vedic Extensions, Devanagari.
 
 
 ## Supported writing systems

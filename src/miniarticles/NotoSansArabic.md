@@ -1,9 +1,9 @@
 
 # Noto Sans Arabic
 
-Noto Sans Arabic is a sanserif design intended for general use for the Arabic script.
+Noto Sans Arabic is a sanserif design for texts in the Arabic script. 
 
-It contains 1661 glyphs and 11 OpenType features, and supports 1161 characters from the Unicode blocks: Arabic Presentation Forms-A, Arabic, Arabic Presentation Forms-B, Arabic Extended-A, Arabic Supplement, Basic Latin.
+Noto Sans Arabic has multiple weights and widths, contains 1,661 glyphs, 11 OpenType features, and supports 1,161 characters from 6 Unicode blocks: Arabic Presentation Forms-A, Arabic, Arabic Presentation Forms-B, Arabic Extended-A, Arabic Supplement, Basic Latin.
 
 
 ## Supported writing systems

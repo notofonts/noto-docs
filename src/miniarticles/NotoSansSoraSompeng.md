@@ -1,9 +1,9 @@
 
 # Noto Sans Sora Sompeng
 
-Noto Sans Sora Sompeng is a sanserif design intended for general use for the Sora Sompeng script.
+Noto Sans Sora Sompeng is a sanserif design for texts in the Sora Sompeng script. 
 
-It contains 42 glyphs, and supports 41 characters from the Unicode blocks: Sora Sompeng.
+Noto Sans Sora Sompeng has multiple weights, contains 42 glyphs, and supports 41 characters: Sora Sompeng.
 
 
 ## Supported writing systems

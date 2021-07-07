@@ -1,0 +1,1 @@
+Noto Sans Manichaean is a sanserif design for texts in the historical Manichaean script. It contains 153 glyphs, 6 OpenType features, and supports 60 characters.

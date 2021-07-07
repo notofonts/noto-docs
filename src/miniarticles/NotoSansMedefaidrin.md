@@ -1,9 +1,9 @@
 
 # Noto Sans Medefaidrin
 
-Noto Sans Medefaidrin is a sanserif design intended for general use for the Medefaidrin (Oberi Okaime) script.
+Noto Sans Medefaidrin is a sanserif design for texts in the Medefaidrin (Oberi Okaime) script. 
 
-It contains 97 glyphs and 1 OpenType features, and supports 95 characters from the Unicode blocks: Medefaidrin.
+Noto Sans Medefaidrin has multiple weights, contains 97 glyphs, and supports 95 characters: Medefaidrin.
 
 
 ## Supported writing systems

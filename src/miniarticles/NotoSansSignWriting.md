@@ -1,9 +1,9 @@
 
 # Noto Sans SignWriting
 
-Noto Sans SignWriting is a sanserif design intended for general use for the SignWriting script.
+Noto Sans SignWriting is a sanserif design for texts in the SignWriting script. 
 
-It contains 37886 glyphs and 4 OpenType features, and supports 679 characters from the Unicode blocks: Sutton SignWriting.
+Noto Sans SignWriting contains 37,886 glyphs, 4 OpenType features, and supports 679 characters: Sutton SignWriting.
 
 
 ## Supported writing systems

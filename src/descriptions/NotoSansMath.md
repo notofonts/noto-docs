@@ -1,0 +1,1 @@
+Noto Sans Math is a font that contains symbols for mathematical notation. It has multiple weights, contains 2,655 glyphs, 5 OpenType features, and supports 2,472 characters from 19 Unicode blocks.

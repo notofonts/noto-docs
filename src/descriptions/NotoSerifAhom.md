@@ -1,0 +1,1 @@
+Noto Serif Ahom is a serif design for texts in the Ahom script. It contains 76 glyphs, 7 OpenType features, and supports 63 characters.

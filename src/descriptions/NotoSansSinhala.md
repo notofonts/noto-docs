@@ -1,0 +1,1 @@
+Noto Sans Sinhala is a sanserif design for texts in the Sinhala script. It has multiple weights and widths, contains 645 glyphs, 11 OpenType features, and supports 170 characters from 3 Unicode blocks.

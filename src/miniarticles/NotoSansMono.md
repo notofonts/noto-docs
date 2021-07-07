@@ -1,9 +1,9 @@
 
 # Noto Sans Mono
 
-Noto Sans Mono is a monospaced sanserif design intended for general use for the Latin script and for Cyrillic.
+Noto Sans Mono is a monospaced design suitable for programming code and other uses where a fixed-width font is needed. It supports the Latin, Cyrillic and Greek scripts, and various symbols. 
 
-It contains 3787 glyphs and 17 OpenType features, and supports 3367 characters from the Unicode blocks: Latin Extended Additional, Cyrillic, Greek Extended, Latin Extended-B, Latin Extended-D, Phonetic Extensions, Latin Extended-A, Box Drawing, Greek and Coptic, Miscellaneous Technical, Combining Diacritical Marks, Mathematical Operators, IPA Extensions, Geometric Shapes, Cyrillic Extended-B, Latin-1 Supplement, General Punctuation, Basic Latin, Supplemental Punctuation, Spacing Modifier Letters, Letterlike Symbols, Phonetic Extensions Supplement, Combining Diacritical Marks Supplement, Latin Extended-E, Cyrillic Supplement, Currency Symbols, Block Elements, Latin Extended-C, Cyrillic Extended-A, Modifier Tone Letters, Superscripts and Subscripts, Arrows, Combining Diacritical Marks Extended, Combining Half Marks, Miscellaneous Mathematical Symbols-A, Cyrillic Extended-C, Dingbats, Miscellaneous Mathematical Symbols-B, Ornamental Dingbats.
+Noto Sans Mono has multiple weights and widths, contains 3,787 glyphs, 17 OpenType features, and supports 3,367 characters from 39 Unicode blocks: Latin Extended Additional, Cyrillic, Greek Extended, Latin Extended-B, Latin Extended-D, Latin Extended-A, Phonetic Extensions, Box Drawing, Greek and Coptic, Miscellaneous Technical, Combining Diacritical Marks, Mathematical Operators, IPA Extensions, Geometric Shapes, Cyrillic Extended-B, Latin-1 Supplement, General Punctuation, Basic Latin, Supplemental Punctuation, Spacing Modifier Letters, Letterlike Symbols, Phonetic Extensions Supplement, Combining Diacritical Marks Supplement, Latin Extended-E, Cyrillic Supplement, Currency Symbols, Block Elements, Latin Extended-C, Cyrillic Extended-A, Modifier Tone Letters, Superscripts and Subscripts, Arrows, Combining Diacritical Marks Extended, Combining Half Marks, Miscellaneous Mathematical Symbols-A, Cyrillic Extended-C, Dingbats, Miscellaneous Mathematical Symbols-B, Ornamental Dingbats.
 
 
 ## Supported writing systems

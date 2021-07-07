@@ -1,9 +1,9 @@
 
 # Noto Sans Siddham
 
-Noto Sans Siddham is a sanserif design intended for general use for the Siddham script.
+Noto Sans Siddham is a sanserif design for texts in the historical Siddham script. 
 
-It contains 505 glyphs and 13 OpenType features, and supports 99 characters from the Unicode blocks: Siddham.
+Noto Sans Siddham contains 505 glyphs, 13 OpenType features, and supports 99 characters: Siddham.
 
 
 ## Supported writing systems

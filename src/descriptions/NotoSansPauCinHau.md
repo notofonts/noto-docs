@@ -1,0 +1,1 @@
+Noto Sans Pau Cin Hau is a sanserif design for texts in the Pau Cin Hau script. It contains 62 glyphs, and supports 61 characters.

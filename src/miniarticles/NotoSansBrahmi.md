@@ -1,9 +1,9 @@
 
 # Noto Sans Brahmi
 
-Noto Sans Brahmi is a sanserif design intended for general use for the Brahmi script.
+Noto Sans Brahmi is a sanserif design for texts in the historical Brahmi script. 
 
-It contains 257 glyphs and 5 OpenType features, and supports 117 characters from the Unicode blocks: Brahmi.
+Noto Sans Brahmi contains 257 glyphs, 5 OpenType features, and supports 117 characters: Brahmi.
 
 
 ## Supported writing systems

@@ -1,0 +1,1 @@
+Noto Serif Yezidi is a serif design for texts in the Yezidi script. It has multiple weights, contains 56 glyphs, 2 OpenType features, and supports 55 characters from 2 Unicode blocks.

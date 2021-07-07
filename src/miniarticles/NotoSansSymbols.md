@@ -1,9 +1,9 @@
 
 # Noto Sans Symbols
 
-Noto Sans Symbols is a sanserif design intended for general use for Symbols.
+Noto Sans Symbols is a sanserif design for texts in Symbols. 
 
-It contains 1218 glyphs and 1 OpenType features, and supports 840 characters from the Unicode blocks: Enclosed Alphanumeric Supplement, Miscellaneous Symbols, Alchemical Symbols, Miscellaneous Technical, Enclosed Alphanumerics, Basic Latin, Arrows, Combining Diacritical Marks for Symbols, Dingbats, Miscellaneous Symbols and Pictographs.
+Noto Sans Symbols has multiple weights, contains 1,224 glyphs, and supports 840 characters from 10 Unicode blocks: Enclosed Alphanumeric Supplement, Miscellaneous Symbols, Alchemical Symbols, Miscellaneous Technical, Enclosed Alphanumerics, Basic Latin, Arrows, Combining Diacritical Marks for Symbols, Dingbats, Miscellaneous Symbols and Pictographs.
 
 
 ## Supported writing systems

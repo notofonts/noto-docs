@@ -1,9 +1,9 @@
 
 # Noto Sans Mahajani
 
-Noto Sans Mahajani is a sanserif design intended for general use for the Mahajani script.
+Noto Sans Mahajani is a sanserif design for texts in the historical Mahajani script. 
 
-It contains 69 glyphs and 2 OpenType features, and supports 68 characters from the Unicode blocks: Mahajani, Common Indic Number Forms.
+Noto Sans Mahajani contains 69 glyphs, 2 OpenType features, and supports 68 characters from 2 Unicode blocks: Mahajani, Common Indic Number Forms.
 
 
 ## Supported writing systems

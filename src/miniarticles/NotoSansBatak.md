@@ -1,9 +1,9 @@
 
 # Noto Sans Batak
 
-Noto Sans Batak is a sanserif design intended for general use for the Batak script.
+Noto Sans Batak is a sanserif design for texts in the Batak script. 
 
-It contains 66 glyphs and 3 OpenType features, and supports 64 characters from the Unicode blocks: Batak.
+Noto Sans Batak contains 66 glyphs, 3 OpenType features, and supports 64 characters: Batak.
 
 
 ## Supported writing systems

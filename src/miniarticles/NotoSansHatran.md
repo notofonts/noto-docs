@@ -1,9 +1,9 @@
 
 # Noto Sans Hatran
 
-Noto Sans Hatran is a sanserif design intended for general use for the Hatran script.
+Noto Sans Hatran is a sanserif design for texts in the historical Hatran script. 
 
-It contains 32 glyphs, and supports 31 characters from the Unicode blocks: Hatran.
+Noto Sans Hatran has multiple weights, contains 32 glyphs, and supports 31 characters: Hatran.
 
 
 ## Supported writing systems

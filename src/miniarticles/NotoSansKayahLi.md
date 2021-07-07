@@ -1,9 +1,9 @@
 
 # Noto Sans Kayah Li
 
-Noto Sans Kayah Li is a sanserif design intended for general use for the Kayah Li script.
+Noto Sans Kayah Li is a sanserif design for texts in the Kayah Li script. 
 
-It contains 60 glyphs and 3 OpenType features, and supports 57 characters from the Unicode blocks: Kayah Li.
+Noto Sans Kayah Li has multiple weights, contains 60 glyphs, 3 OpenType features, and supports 57 characters: Kayah Li.
 
 
 ## Supported writing systems

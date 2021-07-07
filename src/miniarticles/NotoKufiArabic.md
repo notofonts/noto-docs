@@ -1,9 +1,9 @@
 
 # Noto Kufi Arabic
 
-Noto Kufi Arabic is a Kufi design intended for general use for the Arabic script.
+Noto Kufi Arabic is a simplified Kufi design mainly for texts in larger font sizes in the Arabic script. 
 
-It contains 764 glyphs and 10 OpenType features, and supports 308 characters from the Unicode blocks: Arabic, Arabic Supplement, Arabic Presentation Forms-A, Arabic Presentation Forms-B.
+Noto Kufi Arabic has multiple weights, contains 850 glyphs, 10 OpenType features, and supports 348 characters from 4 Unicode blocks: Arabic, Arabic Supplement, Arabic Presentation Forms-A, Arabic Presentation Forms-B.
 
 
 ## Supported writing systems

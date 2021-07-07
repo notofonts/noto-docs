@@ -1,0 +1,1 @@
+Noto Sans Carian is a sanserif design for texts in the historical Carian script. It has multiple weights, contains 54 glyphs, and supports 53 characters.

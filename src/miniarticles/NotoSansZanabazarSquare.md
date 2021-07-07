@@ -1,9 +1,9 @@
 
 # Noto Sans Zanabazar Square
 
-Noto Sans Zanabazar Square is a sanserif design intended for general use for the Zanabazar Square script.
+Noto Sans Zanabazar Square is a sanserif design for texts in the historical Zanabazar Square script. 
 
-It contains 154 glyphs and 6 OpenType features, and supports 77 characters from the Unicode blocks: Zanabazar Square.
+Noto Sans Zanabazar Square has multiple weights, contains 154 glyphs, 6 OpenType features, and supports 77 characters: Zanabazar Square.
 
 
 ## Supported writing systems

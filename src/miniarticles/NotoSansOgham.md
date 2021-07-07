@@ -1,9 +1,9 @@
 
 # Noto Sans Ogham
 
-Noto Sans Ogham is a sanserif design intended for general use for the Ogham script.
+Noto Sans Ogham is a sanserif design for texts in the historical Ogham script. 
 
-It contains 34 glyphs, and supports 33 characters from the Unicode blocks: Ogham.
+Noto Sans Ogham has multiple weights, contains 34 glyphs, and supports 33 characters: Ogham.
 
 
 ## Supported writing systems

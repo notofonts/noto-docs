@@ -1,0 +1,1 @@
+Noto Sans Rejang is a sanserif design for texts in the Rejang script. It has multiple weights, contains 46 glyphs, and supports 45 characters.

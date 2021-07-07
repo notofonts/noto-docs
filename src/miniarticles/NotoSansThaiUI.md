@@ -1,9 +1,9 @@
 
 # Noto Sans Thai UI
 
-Noto Sans Thai UI is a sanserif design optimized for user interface elements (menus, buttons, text boxes) in apps and on websites for the Thai script.
+Noto Sans Thai UI is an unmodulated design in the more modern loopless variant of the Thai script, suitable for app and website user interfaces in the Thai script. 
 
-It contains 140 glyphs and 6 OpenType features, and supports 101 characters from the Unicode blocks: Thai.
+Noto Sans Thai UI has multiple weights and widths, contains 140 glyphs, 6 OpenType features, and supports 101 characters: Thai.
 
 
 ## Supported writing systems

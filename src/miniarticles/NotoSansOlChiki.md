@@ -1,9 +1,9 @@
 
 # Noto Sans Ol Chiki
 
-Noto Sans Ol Chiki is a sanserif design intended for general use for the Ol Chiki script.
+Noto Sans Ol Chiki is a sanserif design for texts in the Ol Chiki script. 
 
-It contains 55 glyphs, and supports 53 characters from the Unicode blocks: Ol Chiki.
+Noto Sans Ol Chiki has multiple weights, contains 55 glyphs, and supports 53 characters: Ol Chiki.
 
 
 ## Supported writing systems

@@ -1,9 +1,9 @@
 
 # Noto Sans Malayalam UI
 
-Noto Sans Malayalam UI is a sanserif design optimized for user interface elements (menus, buttons, text boxes) in apps and on websites for the Malayalam script.
+Noto Sans Malayalam UI is a sanserif design for app and website user interfaces in the Malayalam script. 
 
-It contains 354 glyphs and 10 OpenType features, and supports 187 characters from the Unicode blocks: Malayalam, Basic Latin, General Punctuation, Devanagari.
+Noto Sans Malayalam UI has multiple weights and widths, contains 364 glyphs, 10 OpenType features, and supports 187 characters from 4 Unicode blocks: Malayalam, Basic Latin, General Punctuation, Devanagari.
 
 
 ## Supported writing systems

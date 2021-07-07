@@ -1,0 +1,1 @@
+Noto Sans Chakma is a sanserif design for texts in the Chakma script. It contains 212 glyphs, 12 OpenType features, and supports 97 characters.

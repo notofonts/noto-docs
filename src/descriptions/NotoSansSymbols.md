@@ -1,0 +1,1 @@
+Noto Sans Symbols is a sanserif design for texts in Symbols. It has multiple weights, contains 1,224 glyphs, and supports 840 characters from 10 Unicode blocks.

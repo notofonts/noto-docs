@@ -1,9 +1,9 @@
 
 # Noto Sans Cham
 
-Noto Sans Cham is a sanserif design intended for general use for the Cham script.
+Noto Sans Cham is a sanserif design for texts in the Cham script. 
 
-It contains 131 glyphs and 11 OpenType features, and supports 104 characters from the Unicode blocks: Cham, Basic Latin.
+Noto Sans Cham has multiple weights, contains 131 glyphs, 11 OpenType features, and supports 104 characters from 2 Unicode blocks: Cham, Basic Latin.
 
 
 ## Supported writing systems

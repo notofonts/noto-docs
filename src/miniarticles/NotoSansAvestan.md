@@ -1,9 +1,9 @@
 
 # Noto Sans Avestan
 
-Noto Sans Avestan is a sanserif design intended for general use for the Avestan script.
+Noto Sans Avestan is a sanserif design for texts in the historical Avestan script. 
 
-It contains 76 glyphs and 1 OpenType features, and supports 71 characters from the Unicode blocks: Avestan.
+Noto Sans Avestan has multiple weights, contains 76 glyphs, and supports 71 characters: Avestan.
 
 
 ## Supported writing systems

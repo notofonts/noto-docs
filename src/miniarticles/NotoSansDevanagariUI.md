@@ -1,9 +1,9 @@
 
 # Noto Sans Devanagari UI
 
-Noto Sans Devanagari UI is a sanserif design optimized for user interface elements (menus, buttons, text boxes) in apps and on websites for the Devanagari script.
+Noto Sans Devanagari UI is a sanserif design for app and website user interfaces in the Devanagari script. 
 
-It contains 922 glyphs and 17 OpenType features, and supports 272 characters from the Unicode blocks: Devanagari, Vedic Extensions, Devanagari Extended, Basic Latin, General Punctuation, Common Indic Number Forms.
+Noto Sans Devanagari UI contains 922 glyphs, 17 OpenType features, and supports 272 characters from 6 Unicode blocks: Devanagari, Vedic Extensions, Devanagari Extended, Basic Latin, General Punctuation, Common Indic Number Forms.
 
 
 ## Supported writing systems

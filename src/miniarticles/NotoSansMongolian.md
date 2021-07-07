@@ -1,9 +1,9 @@
 
 # Noto Sans Mongolian
 
-Noto Sans Mongolian is a sanserif design intended for general use for the Mongolian script.
+Noto Sans Mongolian is a sanserif design for texts in the Mongolian script. 
 
-It contains 1563 glyphs and 7 OpenType features, and supports 224 characters from the Unicode blocks: Mongolian, Mongolian Supplement, CJK Symbols and Punctuation, Basic Latin, General Punctuation, CJK Compatibility Forms.
+Noto Sans Mongolian contains 1,563 glyphs, 7 OpenType features, and supports 224 characters from 6 Unicode blocks: Mongolian, Mongolian Supplement, CJK Symbols and Punctuation, Basic Latin, General Punctuation, CJK Compatibility Forms.
 
 
 ## Supported writing systems

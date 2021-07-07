@@ -1,0 +1,1 @@
+Noto Sans Bhaiksuki is a sanserif design for texts in the historical Bhaiksuki script. It contains 863 glyphs, 9 OpenType features, and supports 103 characters.

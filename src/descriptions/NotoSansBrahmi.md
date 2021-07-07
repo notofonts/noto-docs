@@ -1,0 +1,1 @@
+Noto Sans Brahmi is a sanserif design for texts in the historical Brahmi script. It contains 257 glyphs, 5 OpenType features, and supports 117 characters.

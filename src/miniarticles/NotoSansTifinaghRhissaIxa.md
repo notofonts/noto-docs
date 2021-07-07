@@ -1,9 +1,9 @@
 
 # Noto Sans Tifinagh Rhissa Ixa
 
-Noto Sans Tifinagh Rhissa Ixa is a sanserif design intended for general use for the Tifinagh script. This is the RhissaIxa of the family.
+Noto Sans Tifinagh Rhissa Ixa is a sanserif design in the RhissaIxa variant for texts in the Tifinagh script. 
 
-It contains 166 glyphs and 5 OpenType features, and supports 76 characters from the Unicode blocks: Tifinagh, Combining Diacritical Marks.
+Noto Sans Tifinagh Rhissa Ixa contains 166 glyphs, 5 OpenType features, and supports 76 characters from 2 Unicode blocks: Tifinagh, Combining Diacritical Marks.
 
 
 ## Supported writing systems

@@ -1,9 +1,9 @@
 
 # Noto Sans Georgian
 
-Noto Sans Georgian is a sanserif design intended for general use for the Georgian script.
+Noto Sans Georgian is a sanserif design for texts in the Georgian script. 
 
-It contains 225 glyphs and 6 OpenType features, and supports 186 characters from the Unicode blocks: Georgian, Georgian Extended, Georgian Supplement, Combining Diacritical Marks.
+Noto Sans Georgian has multiple weights and widths, contains 225 glyphs, 6 OpenType features, and supports 186 characters from 4 Unicode blocks: Georgian, Georgian Extended, Georgian Supplement, Combining Diacritical Marks.
 
 
 ## Supported writing systems

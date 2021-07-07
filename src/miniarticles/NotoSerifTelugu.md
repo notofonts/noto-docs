@@ -1,9 +1,9 @@
 
 # Noto Serif Telugu
 
-Noto Serif Telugu is a serif design intended for general use for the Telugu script.
+Noto Serif Telugu is a serif design for texts in the Telugu script. 
 
-It contains 728 glyphs and 11 OpenType features, and supports 163 characters from the Unicode blocks: Telugu, Basic Latin, General Punctuation, Devanagari.
+Noto Serif Telugu has multiple weights, contains 728 glyphs, 11 OpenType features, and supports 163 characters from 4 Unicode blocks: Telugu, Basic Latin, General Punctuation, Devanagari.
 
 
 ## Supported writing systems

@@ -1,0 +1,1 @@
+Noto Sans Kannada is a sanserif design for texts in the Kannada script. It has multiple weights and widths, contains 655 glyphs, 11 OpenType features, and supports 164 characters from 5 Unicode blocks.

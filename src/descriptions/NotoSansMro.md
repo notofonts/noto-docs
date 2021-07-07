@@ -1,0 +1,1 @@
+Noto Sans Mro is a sanserif design for texts in the Mro script. It has multiple weights, contains 48 glyphs, and supports 47 characters.

@@ -1,9 +1,9 @@
 
 # Noto Sans Mende Kikakui
 
-Noto Sans Mende Kikakui is a sanserif design intended for general use for the Mende script.
+Noto Sans Mende Kikakui is a sanserif design for texts in the Mende script. 
 
-It contains 228 glyphs and 3 OpenType features, and supports 218 characters from the Unicode blocks: Mende Kikakui.
+Noto Sans Mende Kikakui contains 228 glyphs, 3 OpenType features, and supports 218 characters: Mende Kikakui.
 
 
 ## Supported writing systems

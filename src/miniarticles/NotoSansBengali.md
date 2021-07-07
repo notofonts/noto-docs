@@ -1,9 +1,9 @@
 
 # Noto Sans Bengali
 
-Noto Sans Bengali is a sanserif design intended for general use for the Bangla (Bengali) script.
+Noto Sans Bengali is a sanserif design for texts in the Bangla (Bengali) script. 
 
-It contains 679 glyphs and 17 OpenType features, and supports 173 characters from the Unicode blocks: Bengali, Basic Latin, Vedic Extensions, General Punctuation, Devanagari.
+Noto Sans Bengali has multiple weights and widths, contains 695 glyphs, 17 OpenType features, and supports 173 characters from 5 Unicode blocks: Bengali, Basic Latin, Vedic Extensions, General Punctuation, Devanagari.
 
 
 ## Supported writing systems

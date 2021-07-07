@@ -1,0 +1,1 @@
+Noto Serif Telugu is a serif design for texts in the Telugu script. It has multiple weights, contains 728 glyphs, 11 OpenType features, and supports 163 characters from 4 Unicode blocks.

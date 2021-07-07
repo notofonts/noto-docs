@@ -1,9 +1,9 @@
 
 # Noto Serif Ethiopic
 
-Noto Serif Ethiopic is a serif design intended for general use for the Ethiopic script.
+Noto Serif Ethiopic is a serif design for texts in the Ethiopic script. 
 
-It contains 566 glyphs and 5 OpenType features, and supports 505 characters from the Unicode blocks: Ethiopic, Ethiopic Extended, Ethiopic Extended-A, Ethiopic Supplement.
+Noto Serif Ethiopic has multiple weights and widths, contains 566 glyphs, 5 OpenType features, and supports 505 characters from 4 Unicode blocks: Ethiopic, Ethiopic Extended, Ethiopic Extended-A, Ethiopic Supplement.
 
 
 ## Supported writing systems

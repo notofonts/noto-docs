@@ -1,0 +1,1 @@
+Noto Sans Gunjala Gondi is a sanserif design for texts in the Gunjala Gondi script. It contains 254 glyphs, 7 OpenType features, and supports 94 characters from 3 Unicode blocks.

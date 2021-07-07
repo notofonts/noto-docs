@@ -1,0 +1,1 @@
+Noto Sans Adlam is a joining (cursive) sanserif design for all texts in the Adlam script. It has multiple weights, contains 361 glyphs, 8 OpenType features, and supports 149 characters from 3 Unicode blocks.

@@ -1,9 +1,9 @@
 
 # Noto Sans Tagalog
 
-Noto Sans Tagalog is a sanserif design intended for general use for the Tagalog script.
+Noto Sans Tagalog is a sanserif design for texts in the historical Tagalog script. 
 
-It contains 31 glyphs and 1 OpenType features, and supports 30 characters from the Unicode blocks: Tagalog.
+Noto Sans Tagalog has multiple weights, contains 31 glyphs, and supports 30 characters: Tagalog.
 
 
 ## Supported writing systems

@@ -1,0 +1,1 @@
+Noto Sans Grantha is a sanserif design for texts in the Grantha script. It contains 478 glyphs, 24 OpenType features, and supports 121 characters from 3 Unicode blocks.

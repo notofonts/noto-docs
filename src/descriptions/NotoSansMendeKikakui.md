@@ -1,0 +1,1 @@
+Noto Sans Mende Kikakui is a sanserif design for texts in the Mende script. It contains 228 glyphs, 3 OpenType features, and supports 218 characters.

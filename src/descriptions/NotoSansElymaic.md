@@ -1,0 +1,1 @@
+Noto Sans Elymaic is a sanserif design for texts in the historical Elymaic script. It has an italic variant, multiple weights, contains 43 glyphs, 7 OpenType features, and supports 24 characters.

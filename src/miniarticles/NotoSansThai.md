@@ -1,9 +1,9 @@
 
 # Noto Sans Thai
 
-Noto Sans Thai is a sanserif design intended for general use for the Thai script.
+Noto Sans Thai is an unmodulated design in the more modern loopless variant of the Thai script, mainly suitable for headlines, packaging and advertising. 
 
-It contains 140 glyphs and 6 OpenType features, and supports 101 characters from the Unicode blocks: Thai.
+Noto Sans Thai has multiple weights and widths, contains 140 glyphs, 6 OpenType features, and supports 101 characters: Thai.
 
 
 ## Supported writing systems

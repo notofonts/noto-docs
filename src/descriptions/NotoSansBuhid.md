@@ -1,0 +1,1 @@
+Noto Sans Buhid is a sanserif design for texts in the Buhid script. It has multiple weights, contains 44 glyphs, 2 OpenType features, and supports 30 characters.

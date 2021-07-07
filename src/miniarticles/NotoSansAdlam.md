@@ -1,9 +1,9 @@
 
 # Noto Sans Adlam
 
-Noto Sans Adlam is a sanserif design intended for general use for the Adlam script.
+Noto Sans Adlam is a joining (cursive) sanserif design for all texts in the Adlam script. 
 
-It contains 361 glyphs and 8 OpenType features, and supports 149 characters from the Unicode blocks: Adlam, Basic Latin, General Punctuation.
+Noto Sans Adlam has multiple weights, contains 361 glyphs, 8 OpenType features, and supports 149 characters from 3 Unicode blocks: Adlam, Basic Latin, General Punctuation.
 
 
 ## Supported writing systems

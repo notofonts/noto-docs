@@ -1,0 +1,1 @@
+Noto Sans Tamil Supplement is a sanserif design in the Supplement variant for texts in the Tamil script. It has multiple weights, contains 54 glyphs, and supports 53 characters.

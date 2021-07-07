@@ -1,9 +1,9 @@
 
 # Noto Sans Hebrew
 
-Noto Sans Hebrew is a sanserif design intended for general use for the Hebrew script.
+Noto Sans Hebrew is a sanserif design for texts in the Hebrew script. 
 
-It contains 149 glyphs and 4 OpenType features, and supports 145 characters from the Unicode blocks: Hebrew, Alphabetic Presentation Forms.
+Noto Sans Hebrew has multiple weights and widths, contains 149 glyphs, 4 OpenType features, and supports 145 characters from 2 Unicode blocks: Hebrew, Alphabetic Presentation Forms.
 
 
 ## Supported writing systems

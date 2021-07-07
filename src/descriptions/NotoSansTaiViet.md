@@ -1,0 +1,1 @@
+Noto Sans Tai Viet is a sanserif design for texts in the Tai Viet script. It has multiple weights, contains 83 glyphs, and supports 82 characters.

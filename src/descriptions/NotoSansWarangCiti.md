@@ -1,0 +1,1 @@
+Noto Sans Warang Citi is a sanserif design for texts in the Varang Kshiti (Warang Citi) script. It has multiple weights, contains 181 glyphs, 3 OpenType features, and supports 89 characters.

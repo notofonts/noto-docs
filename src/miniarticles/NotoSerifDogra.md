@@ -1,9 +1,9 @@
 
 # Noto Serif Dogra
 
-Noto Serif Dogra is a serif design intended for general use for the Dogra script.
+Noto Serif Dogra is a serif design for texts in the historical Dogra script. 
 
-It contains 143 glyphs and 8 OpenType features, and supports 69 characters from the Unicode blocks: Dogra.
+Noto Serif Dogra contains 143 glyphs, 8 OpenType features, and supports 69 characters: Dogra.
 
 
 ## Supported writing systems

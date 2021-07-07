@@ -1,0 +1,1 @@
+Noto Serif Gurmukhi is a serif design for texts in the Gurmukhi script. It has multiple weights and widths, contains 294 glyphs, 11 OpenType features, and supports 154 characters from 5 Unicode blocks.

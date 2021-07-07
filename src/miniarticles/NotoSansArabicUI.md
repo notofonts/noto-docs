@@ -1,9 +1,9 @@
 
 # Noto Sans Arabic UI
 
-Noto Sans Arabic UI is a sanserif design optimized for user interface elements (menus, buttons, text boxes) in apps and on websites for the Arabic script.
+Noto Sans Arabic UI is a sanserif design for app and website user interfaces in the Arabic script. 
 
-It contains 1576 glyphs and 11 OpenType features, and supports 1161 characters from the Unicode blocks: Arabic Presentation Forms-A, Arabic, Arabic Presentation Forms-B, Arabic Extended-A, Arabic Supplement, Basic Latin.
+Noto Sans Arabic UI has multiple weights and widths, contains 1,576 glyphs, 11 OpenType features, and supports 1,161 characters from 6 Unicode blocks: Arabic Presentation Forms-A, Arabic, Arabic Presentation Forms-B, Arabic Extended-A, Arabic Supplement, Basic Latin.
 
 
 ## Supported writing systems

@@ -1,9 +1,9 @@
 
 # Noto Sans Old South Arabian
 
-Noto Sans Old South Arabian is a sanserif design intended for general use for the Old South Arabian script.
+Noto Sans Old South Arabian is a sanserif design for texts in the historical Old South Arabian script. 
 
-It contains 37 glyphs, and supports 36 characters from the Unicode blocks: Old South Arabian.
+Noto Sans Old South Arabian has multiple weights, contains 37 glyphs, and supports 36 characters: Old South Arabian.
 
 
 ## Supported writing systems

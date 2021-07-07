@@ -1,0 +1,1 @@
+Noto Serif is a serif design for all texts in the Latin, Cyrillic and Greek scripts, also suitable as the complementary font for other script-specific Noto Serif fonts. It has an italic variant, multiple weights and widths, contains 3,256 glyphs, 24 OpenType features, and supports 2,840 characters from 30 Unicode blocks.

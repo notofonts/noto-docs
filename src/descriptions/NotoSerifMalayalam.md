@@ -1,0 +1,1 @@
+Noto Serif Malayalam is a serif design for texts in the Malayalam script. It has multiple weights, contains 354 glyphs, 10 OpenType features, and supports 187 characters from 4 Unicode blocks.

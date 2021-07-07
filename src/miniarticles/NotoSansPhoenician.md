@@ -1,9 +1,9 @@
 
 # Noto Sans Phoenician
 
-Noto Sans Phoenician is a sanserif design intended for general use for the Phoenician script.
+Noto Sans Phoenician is a sanserif design for texts in the historical Phoenician script. 
 
-It contains 34 glyphs, and supports 33 characters from the Unicode blocks: Phoenician.
+Noto Sans Phoenician has multiple weights, contains 34 glyphs, and supports 33 characters: Phoenician.
 
 
 ## Supported writing systems

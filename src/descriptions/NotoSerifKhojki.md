@@ -1,0 +1,1 @@
+Noto Serif Khojki is a serif design for texts in the Khojki script. It has multiple weights, contains 421 glyphs, 11 OpenType features, and supports 144 characters from 4 Unicode blocks.

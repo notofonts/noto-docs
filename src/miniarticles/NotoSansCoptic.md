@@ -1,9 +1,9 @@
 
 # Noto Sans Coptic
 
-Noto Sans Coptic is a sanserif design intended for general use for the Coptic script.
+Noto Sans Coptic is a sanserif design for texts in the Coptic script. 
 
-It contains 224 glyphs and 3 OpenType features, and supports 188 characters from the Unicode blocks: Coptic, Greek and Coptic, Combining Diacritical Marks.
+Noto Sans Coptic has multiple weights, contains 224 glyphs, 3 OpenType features, and supports 188 characters from 3 Unicode blocks: Coptic, Greek and Coptic, Combining Diacritical Marks.
 
 
 ## Supported writing systems

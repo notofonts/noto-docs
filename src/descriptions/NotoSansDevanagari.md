@@ -1,0 +1,1 @@
+Noto Sans Devanagari is a sanserif design for texts in the Devanagari script. It contains 954 glyphs, 17 OpenType features, and supports 272 characters from 6 Unicode blocks.

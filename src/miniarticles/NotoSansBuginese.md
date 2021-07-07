@@ -1,9 +1,9 @@
 
 # Noto Sans Buginese
 
-Noto Sans Buginese is a sanserif design intended for general use for the Buginese script.
+Noto Sans Buginese is a sanserif design for texts in the Buginese script. 
 
-It contains 41 glyphs and 2 OpenType features, and supports 39 characters from the Unicode blocks: Buginese.
+Noto Sans Buginese has multiple weights, contains 41 glyphs, 2 OpenType features, and supports 39 characters: Buginese.
 
 
 ## Supported writing systems

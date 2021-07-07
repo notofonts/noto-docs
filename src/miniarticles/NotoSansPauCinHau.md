@@ -1,9 +1,9 @@
 
 # Noto Sans Pau Cin Hau
 
-Noto Sans Pau Cin Hau is a sanserif design intended for general use for the Pau Cin Hau script.
+Noto Sans Pau Cin Hau is a sanserif design for texts in the Pau Cin Hau script. 
 
-It contains 62 glyphs and 1 OpenType features, and supports 61 characters from the Unicode blocks: Pau Cin Hau.
+Noto Sans Pau Cin Hau contains 62 glyphs, and supports 61 characters: Pau Cin Hau.
 
 
 ## Supported writing systems

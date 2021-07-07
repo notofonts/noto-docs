@@ -1,0 +1,1 @@
+Noto Sans Limbu is a sanserif design for texts in the Limbu script. It contains 79 glyphs, 3 OpenType features, and supports 77 characters.

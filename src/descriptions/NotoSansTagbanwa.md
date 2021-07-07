@@ -1,0 +1,1 @@
+Noto Sans Tagbanwa is a sanserif design for texts in the Tagbanwa script. It has multiple weights, contains 29 glyphs, and supports 28 characters.

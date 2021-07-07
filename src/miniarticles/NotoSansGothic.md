@@ -1,9 +1,9 @@
 
 # Noto Sans Gothic
 
-Noto Sans Gothic is a sanserif design intended for general use for the Gothic script.
+Noto Sans Gothic is a sanserif design for texts in the historical Gothic script. 
 
-It contains 40 glyphs and 2 OpenType features, and supports 35 characters from the Unicode blocks: Gothic, Combining Diacritical Marks.
+Noto Sans Gothic has multiple weights, contains 40 glyphs, 2 OpenType features, and supports 35 characters from 2 Unicode blocks: Gothic, Combining Diacritical Marks.
 
 
 ## Supported writing systems

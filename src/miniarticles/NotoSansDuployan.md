@@ -1,9 +1,9 @@
 
 # Noto Sans Duployan
 
-Noto Sans Duployan is a sanserif design intended for general use for the Duployan shorthand script.
+Noto Sans Duployan is a sanserif design for texts in the Duployan shorthand script. 
 
-It contains 158 glyphs, and supports 154 characters from the Unicode blocks: Duployan.
+Noto Sans Duployan contains 158 glyphs, and supports 154 characters: Duployan.
 
 
 ## Supported writing systems

@@ -1,9 +1,9 @@
 
 # Noto Naskh Arabic
 
-Noto Naskh Arabic is a Naskh design intended for general use for the Arabic script.
+Noto Naskh Arabic is a modulated Naskh design, suitable for all texts in the Arabic script and for use together with serif fonts. 
 
-It contains 1613 glyphs and 12 OpenType features, and supports 1123 characters from the Unicode blocks: Arabic Presentation Forms-A, Arabic, Arabic Presentation Forms-B, Arabic Supplement, Arabic Extended-A, Basic Latin.
+Noto Naskh Arabic has multiple weights, contains 1,614 glyphs, 12 OpenType features, and supports 1,123 characters from 6 Unicode blocks: Arabic Presentation Forms-A, Arabic, Arabic Presentation Forms-B, Arabic Supplement, Arabic Extended-A, Basic Latin.
 
 
 ## Supported writing systems

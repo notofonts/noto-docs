@@ -1,0 +1,1 @@
+Noto Sans Palmyrene is a sanserif design for texts in the historical Palmyrene script. It has multiple weights, contains 57 glyphs, and supports 36 characters.

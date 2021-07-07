@@ -1,9 +1,9 @@
 
 # Noto Sans Display
 
-Noto Sans Display is a sanserif design optimized for larger font sizes for the Latin script and for Cyrillic, Greek.
+Noto Sans Display is a sanserif design for texts in larger font sizes in the Latin script and in Cyrillic, Greek. 
 
-It contains 3316 glyphs and 25 OpenType features, and supports 2840 characters from the Unicode blocks: Latin Extended Additional, Cyrillic, Greek Extended, Latin Extended-B, Latin Extended-D, Phonetic Extensions, Latin Extended-A, Greek and Coptic, Combining Diacritical Marks, IPA Extensions, Cyrillic Extended-B, Latin-1 Supplement, General Punctuation, Basic Latin, Supplemental Punctuation, Spacing Modifier Letters, Letterlike Symbols, Phonetic Extensions Supplement, Combining Diacritical Marks Supplement, Latin Extended-E, Cyrillic Supplement, Currency Symbols, Latin Extended-C, Cyrillic Extended-A, Modifier Tone Letters, Superscripts and Subscripts, Combining Diacritical Marks Extended, Combining Half Marks, Cyrillic Extended-C, Alphabetic Presentation Forms.
+Noto Sans Display has an italic variant, multiple weights and widths, contains 3,316 glyphs, 25 OpenType features, and supports 2,840 characters from 30 Unicode blocks: Latin Extended Additional, Cyrillic, Greek Extended, Latin Extended-B, Latin Extended-D, Latin Extended-A, Phonetic Extensions, Greek and Coptic, Combining Diacritical Marks, IPA Extensions, Cyrillic Extended-B, Latin-1 Supplement, General Punctuation, Basic Latin, Supplemental Punctuation, Spacing Modifier Letters, Letterlike Symbols, Phonetic Extensions Supplement, Combining Diacritical Marks Supplement, Latin Extended-E, Cyrillic Supplement, Currency Symbols, Latin Extended-C, Cyrillic Extended-A, Modifier Tone Letters, Superscripts and Subscripts, Combining Diacritical Marks Extended, Combining Half Marks, Cyrillic Extended-C, Alphabetic Presentation Forms.
 
 
 ## Supported writing systems

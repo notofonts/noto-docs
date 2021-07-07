@@ -1,0 +1,1 @@
+Noto Sans Duployan is a sanserif design for texts in the Duployan shorthand script. It contains 158 glyphs, and supports 154 characters.

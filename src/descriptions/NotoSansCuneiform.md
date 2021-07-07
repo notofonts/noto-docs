@@ -1,0 +1,1 @@
+Noto Sans Cuneiform is a sanserif design for texts in the historical Sumero-Akkadian cuneiform script. It has multiple weights, contains 1,239 glyphs, and supports 1,238 characters from 3 Unicode blocks.

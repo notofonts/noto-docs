@@ -1,0 +1,1 @@
+Noto Serif Thai is a serif design for texts in the Thai script. It has multiple weights and widths, contains 140 glyphs, 6 OpenType features, and supports 101 characters.

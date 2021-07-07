@@ -1,0 +1,1 @@
+Noto Sans Lisu is a sanserif design for texts in the Fraser script. It has multiple weights, contains 60 glyphs, and supports 59 characters.

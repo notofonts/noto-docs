@@ -1,0 +1,1 @@
+Noto Sans is a sanserif design for all texts in the Latin, Cyrillic and Greek scripts, also suitable as the complementary font for other script-specific Noto Sans fonts. It has an italic variant, multiple weights and widths, contains 3,741 glyphs, 28 OpenType features, and supports 2,840 characters from 30 Unicode blocks.

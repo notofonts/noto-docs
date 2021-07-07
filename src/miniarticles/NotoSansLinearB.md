@@ -1,9 +1,9 @@
 
 # Noto Sans Linear B
 
-Noto Sans Linear B is a sanserif design intended for general use for the Linear B script.
+Noto Sans Linear B is a sanserif design for texts in the historical Linear B script. 
 
-It contains 273 glyphs, and supports 272 characters from the Unicode blocks: Linear B Ideograms, Linear B Syllabary, Aegean Numbers.
+Noto Sans Linear B has multiple weights, contains 273 glyphs, and supports 272 characters from 3 Unicode blocks: Linear B Ideograms, Linear B Syllabary, Aegean Numbers.
 
 
 ## Supported writing systems

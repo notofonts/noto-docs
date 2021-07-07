@@ -1,9 +1,9 @@
 
 # Noto Sans Math
 
-Noto Sans Math is a sanserif design intended for general use for the Mathematical notation script.
+Noto Sans Math is a font that contains symbols for mathematical notation. 
 
-It contains 2655 glyphs and 5 OpenType features, and supports 2472 characters from the Unicode blocks: Mathematical Alphanumeric Symbols, Mathematical Operators, Supplemental Mathematical Operators, Arabic Mathematical Alphabetic Symbols, Supplemental Arrows-B, Miscellaneous Mathematical Symbols-B, Miscellaneous Technical, Arrows, Basic Latin, Greek and Coptic, Miscellaneous Mathematical Symbols-A, Letterlike Symbols, Miscellaneous Symbols and Arrows, Combining Diacritical Marks for Symbols, Supplemental Arrows-A, Geometric Shapes, General Punctuation, Latin-1 Supplement, Combining Diacritical Marks.
+Noto Sans Math has multiple weights, contains 2,655 glyphs, 5 OpenType features, and supports 2,472 characters from 19 Unicode blocks: Mathematical Alphanumeric Symbols, Mathematical Operators, Supplemental Mathematical Operators, Arabic Mathematical Alphabetic Symbols, Supplemental Arrows-B, Miscellaneous Mathematical Symbols-B, Miscellaneous Technical, Arrows, Basic Latin, Greek and Coptic, Miscellaneous Mathematical Symbols-A, Letterlike Symbols, Miscellaneous Symbols and Arrows, Combining Diacritical Marks for Symbols, Supplemental Arrows-A, Geometric Shapes, General Punctuation, Latin-1 Supplement, Combining Diacritical Marks.
 
 
 ## Supported writing systems

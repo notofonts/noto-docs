@@ -1,0 +1,1 @@
+Noto Sans Tamil is a sanserif design for texts in the Tamil script. It has multiple weights and widths, contains 244 glyphs, 11 OpenType features, and supports 147 characters from 5 Unicode blocks.

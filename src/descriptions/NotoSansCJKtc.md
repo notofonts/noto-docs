@@ -1,0 +1,1 @@
+Noto Sans CJK TC is an unmodulated design for languages in Taiwan and Macau that use the Traditional Chinese variant of the Han ideograms. It covers all Han characters from the Basic Multilingual Plane of the Unicode Standard, and some additional ones. It contains 65,535 glyphs, 23 OpenType features, and supports 44,806 characters from 55 Unicode blocks.

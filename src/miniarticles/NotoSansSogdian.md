@@ -1,9 +1,9 @@
 
 # Noto Sans Sogdian
 
-Noto Sans Sogdian is a sanserif design intended for general use for the Sogdian script.
+Noto Sans Sogdian is a sanserif design for texts in the historical Sogdian script. 
 
-It contains 345 glyphs and 26 OpenType features, and supports 49 characters from the Unicode blocks: Sogdian.
+Noto Sans Sogdian contains 345 glyphs, 26 OpenType features, and supports 49 characters: Sogdian.
 
 
 ## Supported writing systems

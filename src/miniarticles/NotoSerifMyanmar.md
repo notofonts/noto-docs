@@ -1,9 +1,9 @@
 
 # Noto Serif Myanmar
 
-Noto Serif Myanmar is a serif design intended for general use for the Myanmar script.
+Noto Serif Myanmar is a serif design for texts in the Myanmar script. 
 
-It contains 725 glyphs and 7 OpenType features, and supports 239 characters from the Unicode blocks: Myanmar, Myanmar Extended-A, Myanmar Extended-B, General Punctuation.
+Noto Serif Myanmar contains 725 glyphs, 7 OpenType features, and supports 239 characters from 4 Unicode blocks: Myanmar, Myanmar Extended-A, Myanmar Extended-B, General Punctuation.
 
 
 ## Supported writing systems

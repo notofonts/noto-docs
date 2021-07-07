@@ -1,0 +1,1 @@
+Noto Sans Javanese is a sanserif design for texts in the Javanese script. It contains 405 glyphs, 7 OpenType features, and supports 99 characters.

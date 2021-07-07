@@ -1,9 +1,9 @@
 
 # Noto Sans NKo
 
-Noto Sans NKo is a sanserif design intended for general use for the N’Ko script.
+Noto Sans NKo is a sanserif design for texts in the N’Ko script. 
 
-It contains 184 glyphs and 5 OpenType features, and supports 79 characters from the Unicode blocks: NKo, Arabic.
+Noto Sans NKo contains 184 glyphs, 5 OpenType features, and supports 79 characters from 2 Unicode blocks: NKo, Arabic.
 
 
 ## Supported writing systems

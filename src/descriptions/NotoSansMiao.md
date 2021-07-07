@@ -1,0 +1,1 @@
+Noto Sans Miao is a sanserif design for texts in the Pollard Phonetic script. It contains 365 glyphs, 4 OpenType features, and supports 154 characters.

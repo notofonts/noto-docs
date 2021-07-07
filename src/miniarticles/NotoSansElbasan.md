@@ -1,9 +1,9 @@
 
 # Noto Sans Elbasan
 
-Noto Sans Elbasan is a sanserif design intended for general use for the Elbasan script and for Greek.
+Noto Sans Elbasan is a sanserif design for texts in the historical Elbasan script and in Greek. 
 
-It contains 79 glyphs and 2 OpenType features, and supports 74 characters from the Unicode blocks: Elbasan, Greek and Coptic.
+Noto Sans Elbasan contains 79 glyphs, 2 OpenType features, and supports 74 characters from 2 Unicode blocks: Elbasan, Greek and Coptic.
 
 
 ## Supported writing systems
