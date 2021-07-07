@@ -1,1 +1,1 @@
-Noto Serif Display is a modulated (“serif”) design for texts in larger font sizes in the Latin script and in Cyrillic, Greek. It has an italic variant, multiple weights and widths, contains 3,256 glyphs, 24 OpenType features, and supports 2,840 characters from 30 Unicode blocks.
+Noto Serif Display is a modulated (“serif”) design for texts in larger font sizes in the European _Latin_ script and in _Cyrillic_, _Greek_. It has an italic variant, multiple weights and widths, contains 3,256 glyphs, 24 OpenType features, and supports 2,840 characters from 30 Unicode blocks.

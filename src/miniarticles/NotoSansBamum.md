@@ -1,7 +1,7 @@
 
 # Noto Sans Bamum
 
-Noto Sans Bamum is a unmodulated (“sans serif”) design for texts in the Bamum script. 
+Noto Sans Bamum is a unmodulated (“sans serif”) design for texts in the African _Bamum_ script. 
 
 Noto Sans Bamum has multiple weights, contains 662 glyphs, and supports 661 characters from 2 Unicode blocks: Bamum Supplement, Bamum.
 

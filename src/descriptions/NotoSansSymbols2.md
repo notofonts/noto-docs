@@ -1,1 +1,1 @@
-Noto Sans Symbols2 is a unmodulated (“sans serif”) design for texts in Symbols and in Emoji symbols. It has multiple widths, contains 2,397 glyphs, 3 OpenType features, and supports 2,378 characters from 24 Unicode blocks.
+Noto Sans Symbols2 is a unmodulated (“sans serif”) design for texts in Symbols and in _Emoji symbols_. It has multiple widths, contains 2,397 glyphs, 3 OpenType features, and supports 2,378 characters from 24 Unicode blocks.

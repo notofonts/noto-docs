@@ -1,7 +1,7 @@
 
 # Noto Sans Osage
 
-Noto Sans Osage is a unmodulated (“sans serif”) design for texts in the Osage script. 
+Noto Sans Osage is a unmodulated (“sans serif”) design for texts in the American _Osage_ script. 
 
 Noto Sans Osage contains 82 glyphs, 2 OpenType features, and supports 81 characters from 2 Unicode blocks: Osage, Combining Diacritical Marks.
 

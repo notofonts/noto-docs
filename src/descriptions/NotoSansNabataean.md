@@ -1,1 +1,1 @@
-Noto Sans Nabataean is a unmodulated (“sans serif”) design for texts in the historical Nabataean script. It has multiple weights, contains 45 glyphs, and supports 44 characters.
+Noto Sans Nabataean is a unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Nabataean_ script. It has multiple weights, contains 45 glyphs, and supports 44 characters.

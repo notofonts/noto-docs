@@ -1,1 +1,1 @@
-NotoSerifTamilSlanted is a slanted modulated (“serif”) design for texts in the Tamil script. It has an italic variant, multiple weights and widths, contains 222 glyphs, 10 OpenType features, and supports 147 characters from 5 Unicode blocks.
+NotoSerifTamilSlanted is a slanted modulated (“serif”) design for texts in the Indic _Tamil_ script. It has an italic variant, multiple weights and widths, contains 222 glyphs, 10 OpenType features, and supports 147 characters from 5 Unicode blocks.

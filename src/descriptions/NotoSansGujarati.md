@@ -1,1 +1,1 @@
-Noto Sans Gujarati is a unmodulated (“sans serif”) design for texts in the Gujarati script. It contains 798 glyphs, 16 OpenType features, and supports 164 characters from 5 Unicode blocks.
+Noto Sans Gujarati is a unmodulated (“sans serif”) design for texts in the Indic _Gujarati_ script. It contains 798 glyphs, 16 OpenType features, and supports 164 characters from 5 Unicode blocks.

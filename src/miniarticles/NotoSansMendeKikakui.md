@@ -1,7 +1,7 @@
 
 # Noto Sans Mende Kikakui
 
-Noto Sans Mende Kikakui is a unmodulated (“sans serif”) design for texts in the Mende script. 
+Noto Sans Mende Kikakui is a unmodulated (“sans serif”) design for texts in the African _Mende_ script. 
 
 Noto Sans Mende Kikakui contains 228 glyphs, 3 OpenType features, and supports 218 characters from the Unicode block Mende Kikakui.
 

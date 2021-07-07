@@ -1,7 +1,7 @@
 
 # Noto Sans Mro
 
-Noto Sans Mro is a unmodulated (“sans serif”) design for texts in the Mro script. 
+Noto Sans Mro is a unmodulated (“sans serif”) design for texts in the Indic _Mro_ script. 
 
 Noto Sans Mro has multiple weights, contains 48 glyphs, and supports 47 characters from the Unicode block Mro.
 

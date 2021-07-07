@@ -1,7 +1,7 @@
 
 # Noto Sans Adlam
 
-Noto Sans Adlam is a joining (cursive) unmodulated (“sans serif”) design for texts in the Adlam script. 
+Noto Sans Adlam is a joining (cursive) unmodulated (“sans serif”) design for texts in the African _Adlam_ script. 
 
 Noto Sans Adlam has multiple weights, contains 361 glyphs, 8 OpenType features, and supports 149 characters from 3 Unicode blocks: Adlam, Basic Latin, General Punctuation.
 

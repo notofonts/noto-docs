@@ -1,1 +1,1 @@
-Noto Sans Buginese is a unmodulated (“sans serif”) design for texts in the Buginese script. It has multiple weights, contains 41 glyphs, 2 OpenType features, and supports 39 characters.
+Noto Sans Buginese is a unmodulated (“sans serif”) design for texts in the Southeast Asian _Buginese_ script. It has multiple weights, contains 41 glyphs, 2 OpenType features, and supports 39 characters.

@@ -1,1 +1,1 @@
-Noto Sans MeeteiMayek is a unmodulated (“sans serif”) design for texts in the Meetei Mayek (Meitei) script. It has multiple weights, contains 92 glyphs, 2 OpenType features, and supports 87 characters from 2 Unicode blocks.
+Noto Sans MeeteiMayek is a unmodulated (“sans serif”) design for texts in the Indic _Meetei Mayek (Meitei)_ script. It has multiple weights, contains 92 glyphs, 2 OpenType features, and supports 87 characters from 2 Unicode blocks.

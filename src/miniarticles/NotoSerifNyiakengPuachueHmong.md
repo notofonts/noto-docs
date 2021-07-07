@@ -1,7 +1,7 @@
 
 # Noto Serif Nyiakeng Puachue Hmong
 
-Noto Serif Nyiakeng Puachue Hmong is a modulated (“serif”) design for texts in the Nyiakeng Puachue Hmong script. 
+Noto Serif Nyiakeng Puachue Hmong is a modulated (“serif”) design for texts in the _Nyiakeng Puachue Hmong_ script. 
 
 Noto Serif Nyiakeng Puachue Hmong has multiple weights, contains 76 glyphs, 2 OpenType features, and supports 75 characters from the Unicode block Nyiakeng Puachue Hmong.
 

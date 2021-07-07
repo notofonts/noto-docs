@@ -1,1 +1,1 @@
-Noto Sans Old Italic is a unmodulated (“sans serif”) design for texts in the historical Old Italic script. It contains 65 glyphs, and supports 43 characters.
+Noto Sans Old Italic is a unmodulated (“sans serif”) design for texts in the historical European _Old Italic_ script. It contains 65 glyphs, and supports 43 characters.

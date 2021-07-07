@@ -1,7 +1,7 @@
 
 # Noto Sans Bassa Vah
 
-Noto Sans Bassa Vah is a unmodulated (“sans serif”) design for texts in the Bassa Vah script. 
+Noto Sans Bassa Vah is a unmodulated (“sans serif”) design for texts in the African _Bassa Vah_ script. 
 
 Noto Sans Bassa Vah has multiple weights, contains 45 glyphs, 3 OpenType features, and supports 41 characters from the Unicode block Bassa Vah.
 

@@ -1,1 +1,1 @@
-Noto Serif Ahom is a modulated (“serif”) design for texts in the Ahom script. It contains 76 glyphs, 7 OpenType features, and supports 63 characters.
+Noto Serif Ahom is a modulated (“serif”) design for texts in the Southeast Asian _Ahom_ script. It contains 76 glyphs, 7 OpenType features, and supports 63 characters.

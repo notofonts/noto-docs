@@ -1,1 +1,1 @@
-Noto Sans Lisu is a unmodulated (“sans serif”) design for texts in the Fraser script. It has multiple weights, contains 60 glyphs, and supports 59 characters.
+Noto Sans Lisu is a unmodulated (“sans serif”) design for texts in the East Asian _Fraser_ script. It has multiple weights, contains 60 glyphs, and supports 59 characters.

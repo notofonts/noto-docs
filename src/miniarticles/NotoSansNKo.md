@@ -1,7 +1,7 @@
 
 # Noto Sans NKo
 
-Noto Sans NKo is a unmodulated (“sans serif”) design for texts in the N’Ko script. 
+Noto Sans NKo is a unmodulated (“sans serif”) design for texts in the African _N’Ko_ script. 
 
 Noto Sans NKo contains 184 glyphs, 5 OpenType features, and supports 79 characters from 2 Unicode blocks: NKo, Arabic.
 

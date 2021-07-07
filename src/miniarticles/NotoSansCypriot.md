@@ -1,7 +1,7 @@
 
 # Noto Sans Cypriot
 
-Noto Sans Cypriot is a unmodulated (“sans serif”) design for texts in the historical Cypriot script. 
+Noto Sans Cypriot is a unmodulated (“sans serif”) design for texts in the historical European _Cypriot_ script. 
 
 Noto Sans Cypriot has multiple weights, contains 60 glyphs, and supports 59 characters from the Unicode block Cypriot Syllabary.
 

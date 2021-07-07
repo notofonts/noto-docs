@@ -1,7 +1,7 @@
 
 # Noto Sans Lao
 
-Noto Sans Thai is an unmodulated (“sans serif”) design in the more modern, loopless variant of the Thai script, mainly suitable for headlines, packaging and advertising. 
+Noto Sans Lao is an unmodulated (“sans serif”) design in the more modern, loopless variant of the Southeast Asian _Lao_ script, mainly suitable for headlines, packaging and advertising. 
 
 Noto Sans Lao has multiple weights and widths, contains 116 glyphs, 4 OpenType features, and supports 76 characters from the Unicode block Lao.
 

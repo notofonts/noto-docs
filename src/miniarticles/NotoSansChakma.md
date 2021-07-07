@@ -1,7 +1,7 @@
 
 # Noto Sans Chakma
 
-Noto Sans Chakma is a unmodulated (“sans serif”) design for texts in the Chakma script. 
+Noto Sans Chakma is a unmodulated (“sans serif”) design for texts in the Indic _Chakma_ script. 
 
 Noto Sans Chakma contains 212 glyphs, 12 OpenType features, and supports 97 characters from the Unicode block Chakma.
 

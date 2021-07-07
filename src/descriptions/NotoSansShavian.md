@@ -1,1 +1,1 @@
-Noto Sans Shavian is a unmodulated (“sans serif”) design for texts in the historical Shavian script. It has multiple weights, contains 53 glyphs, and supports 52 characters.
+Noto Sans Shavian is a unmodulated (“sans serif”) design for texts in the historical artificial _Shavian_ script. It has multiple weights, contains 53 glyphs, and supports 52 characters.

@@ -1,1 +1,1 @@
-Noto Sans Tifinagh Tawellemmet is a unmodulated (“sans serif”) design in the Tawellemmet variant for texts in the Tifinagh script. It contains 169 glyphs, 5 OpenType features, and supports 76 characters from 2 Unicode blocks.
+Noto Sans Tifinagh Tawellemmet is a unmodulated (“sans serif”) design in the Tawellemmet variant for texts in the African _Tifinagh_ script. It contains 169 glyphs, 5 OpenType features, and supports 76 characters from 2 Unicode blocks.

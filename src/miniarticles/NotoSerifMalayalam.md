@@ -1,7 +1,7 @@
 
 # Noto Serif Malayalam
 
-Noto Serif Malayalam is a modulated (“serif”) design for texts in the Malayalam script. 
+Noto Serif Malayalam is a modulated (“serif”) design for texts in the Indic _Malayalam_ script. 
 
 Noto Serif Malayalam has multiple weights, contains 354 glyphs, 10 OpenType features, and supports 187 characters from 4 Unicode blocks: Malayalam, Basic Latin, General Punctuation, Devanagari.
 

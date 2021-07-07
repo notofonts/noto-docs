@@ -1,1 +1,1 @@
-Noto Looped Thai is an unmodulated (“sans serif”) design in the more traditional, looped variant of the Thai script, suitable for all texts. It contains 212 glyphs, 8 OpenType features, and supports 148 characters from 5 Unicode blocks.
+Noto Looped Thai is an unmodulated (“sans serif”) design in the more traditional, looped variant of the _Thai_ script, suitable for all texts. It contains 212 glyphs, 8 OpenType features, and supports 148 characters from 5 Unicode blocks.

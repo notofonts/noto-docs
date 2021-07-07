@@ -1,7 +1,7 @@
 
 # Noto Sans Javanese
 
-Noto Sans Javanese is a unmodulated (“sans serif”) design for texts in the Javanese script. 
+Noto Sans Javanese is a unmodulated (“sans serif”) design for texts in the Southeast Asian _Javanese_ script. 
 
 Noto Sans Javanese contains 405 glyphs, 7 OpenType features, and supports 99 characters from the Unicode block Javanese.
 

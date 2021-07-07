@@ -1,7 +1,7 @@
 
 # Noto Sans Meroitic
 
-Noto Sans Meroitic is an unmodulated (“sans serif”) design for texts in the historical Meroitic Hieroglyphs and Cursive scripts. 
+Noto Sans Meroitic is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Meroitic Hieroglyphs_ and _Cursive_ scripts. 
 
 Noto Sans Meroitic has multiple weights, contains 133 glyphs, 2 OpenType features, and supports 129 characters from 2 Unicode blocks: Meroitic Hieroglyphs, Meroitic Cursive.
 

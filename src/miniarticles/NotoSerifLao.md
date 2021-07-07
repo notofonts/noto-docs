@@ -1,7 +1,7 @@
 
 # Noto Serif Lao
 
-Noto Serif Lao is a modulated (“serif”) design for texts in the Lao script. 
+Noto Serif Lao is a modulated (“serif”) design for texts in the Southeast Asian _Lao_ script. 
 
 Noto Serif Lao has multiple weights and widths, contains 117 glyphs, 5 OpenType features, and supports 76 characters from the Unicode block Lao.
 

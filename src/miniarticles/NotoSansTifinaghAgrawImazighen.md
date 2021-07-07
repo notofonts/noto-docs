@@ -1,7 +1,7 @@
 
 # Noto Sans Tifinagh Agraw Imazighen
 
-Noto Sans Tifinagh Agraw Imazighen is a unmodulated (“sans serif”) design in the AgrawImazighen variant for texts in the Tifinagh script. 
+Noto Sans Tifinagh Agraw Imazighen is a unmodulated (“sans serif”) design in the AgrawImazighen variant for texts in the African _Tifinagh_ script. 
 
 Noto Sans Tifinagh Agraw Imazighen contains 168 glyphs, 5 OpenType features, and supports 76 characters from 2 Unicode blocks: Tifinagh, Combining Diacritical Marks.
 

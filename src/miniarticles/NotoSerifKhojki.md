@@ -1,7 +1,7 @@
 
 # Noto Serif Khojki
 
-Noto Serif Khojki is a modulated (“serif”) design for texts in the Khojki script. 
+Noto Serif Khojki is a modulated (“serif”) design for texts in the Indic _Khojki_ script. 
 
 Noto Serif Khojki has multiple weights, contains 421 glyphs, 11 OpenType features, and supports 144 characters from 4 Unicode blocks: Khojki, Basic Latin, General Punctuation, Common Indic Number Forms.
 

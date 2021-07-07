@@ -1,1 +1,1 @@
-Noto Sans Takri is a unmodulated (“sans serif”) design for texts in the historical Takri script. It has multiple weights, contains 95 glyphs, 8 OpenType features, and supports 86 characters from 2 Unicode blocks.
+Noto Sans Takri is a unmodulated (“sans serif”) design for texts in the historical Indic _Takri_ script. It has multiple weights, contains 95 glyphs, 8 OpenType features, and supports 86 characters from 2 Unicode blocks.

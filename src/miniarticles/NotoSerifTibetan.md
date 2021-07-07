@@ -1,7 +1,7 @@
 
 # Noto Serif Tibetan
 
-Noto Serif Tibetan is a modulated (“serif”) design for texts in the Tibetan script. 
+Noto Serif Tibetan is a modulated (“serif”) design for texts in the Central Asian _Tibetan_ script. 
 
 Noto Serif Tibetan has multiple weights, contains 1,891 glyphs, 7 OpenType features, and supports 223 characters from the Unicode block Tibetan.
 

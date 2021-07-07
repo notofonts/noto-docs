@@ -1,7 +1,7 @@
 
 # Noto Sans Phoenician
 
-Noto Sans Phoenician is a unmodulated (“sans serif”) design for texts in the historical Phoenician script. 
+Noto Sans Phoenician is a unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Phoenician_ script. 
 
 Noto Sans Phoenician has multiple weights, contains 34 glyphs, and supports 33 characters from the Unicode block Phoenician.
 

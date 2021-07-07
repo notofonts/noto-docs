@@ -1,7 +1,7 @@
 
 # Noto Sans Nushu
 
-Noto Sans Nushu is an unmodulated (“sans serif”) design for the Nüshu script with a simplified, modernized skeleton and relatively large counters. It is suitable for shorter texts, especially in smaller font sizes and user interface contexts. 
+Noto Sans Nushu is an unmodulated (“sans serif”) design for the East Asian _Nüshu_ script with a simplified, modernized skeleton and relatively large counters. It is suitable for shorter texts, especially in smaller font sizes and user interface contexts. 
 
 Noto Sans Nushu contains 402 glyphs, and supports 401 characters from the Unicode block Nushu.
 
