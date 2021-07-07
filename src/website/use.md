@@ -338,11 +338,11 @@ The Noto collection includes two font families Chinese, Japanese and Korean lang
 
 - [Noto Sans CJK JP](../noto/Noto+Sans+CJK+JP/) and [Noto Serif CJK JP](../noto/Noto+Serif+CJK+JP/) for the Japanese language.
 
-- [Noto Sans CJK KR](../noto/Noto+Sans+CJK+KR/) and [Noto Serif CJK KR(../noto/Noto+Serif+CJK+KR/)] for the Korean language.
+- [Noto Sans CJK KR](../noto/Noto+Sans+CJK+KR/) and [Noto Serif CJK KR](../noto/Noto+Serif+CJK+KR/) for the Korean language.
 
-- [Noto Sans CJK SC](../noto/Noto+Sans+CJK+SC/) and [Noto Serif CJK SC(../noto/Noto+Serif+CJK+SC/)] for the Simplified Chinese language variant used in the mainland People’s Republic of China.
+- [Noto Sans CJK SC](../noto/Noto+Sans+CJK+SC/) and [Noto Serif CJK SC](../noto/Noto+Serif+CJK+SC/) for the Simplified Chinese language variant used in the mainland People’s Republic of China.
 
-- [Noto Sans CJK TC](../noto/Noto+Sans+CJK+TC/) and [Noto Serif CJK TC(../noto/Noto+Serif+CJK+TC/)] for the Traditional Chinese language variant used in Taiwan.
+- [Noto Sans CJK TC](../noto/Noto+Sans+CJK+TC/) and [Noto Serif CJK TC](../noto/Noto+Serif+CJK+TC/) for the Traditional Chinese language variant used in Taiwan.
 
 The Noto Sans CJK fonts contain all Han ideographs included in the Basic Multilingual Plane (BMP) of the Unicode Standard plus over 2,000 non-BMP Han ideographs.
 
