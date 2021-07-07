@@ -1,1 +1,1 @@
-Noto Sans Canadian Aboriginal is a sans serif design for texts in the Canadian Aboriginal syllabics script. It has multiple weights, contains 746 glyphs, and supports 722 characters from 3 Unicode blocks.
+Noto Sans Canadian Aboriginal is a unmodulated (“sans serif”) design for texts in the Canadian Aboriginal syllabics script. It has multiple weights, contains 746 glyphs, and supports 722 characters from 3 Unicode blocks.

@@ -1,7 +1,7 @@
 
 # Noto Sans Palmyrene
 
-Noto Sans Palmyrene is a sans serif design for texts in the historical Palmyrene script. 
+Noto Sans Palmyrene is a unmodulated (“sans serif”) design for texts in the historical Palmyrene script. 
 
 Noto Sans Palmyrene has multiple weights, contains 57 glyphs, and supports 36 characters from the Unicode block Palmyrene.
 

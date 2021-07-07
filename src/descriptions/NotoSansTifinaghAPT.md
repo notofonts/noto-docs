@@ -1,1 +1,1 @@
-Noto Sans Tifinagh APT is a sans serif design in the APT variant for texts in the Tifinagh script. It contains 167 glyphs, 5 OpenType features, and supports 76 characters from 2 Unicode blocks.
+Noto Sans Tifinagh APT is a unmodulated (“sans serif”) design in the APT variant for texts in the Tifinagh script. It contains 167 glyphs, 5 OpenType features, and supports 76 characters from 2 Unicode blocks.

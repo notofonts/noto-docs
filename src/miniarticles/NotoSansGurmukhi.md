@@ -1,7 +1,7 @@
 
 # Noto Sans Gurmukhi
 
-Noto Sans Gurmukhi is a sans serif design for texts in the Gurmukhi script. 
+Noto Sans Gurmukhi is a unmodulated (“sans serif”) design for texts in the Gurmukhi script. 
 
 Noto Sans Gurmukhi has multiple weights and widths, contains 344 glyphs, 11 OpenType features, and supports 154 characters from 5 Unicode blocks: Gurmukhi, Basic Latin, General Punctuation, Devanagari, Common Indic Number Forms.
 

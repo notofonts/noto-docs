@@ -1,1 +1,1 @@
-Noto Sans Saurashtra is a sans serif design for texts in the Saurashtra script. It has multiple weights, contains 96 glyphs, 3 OpenType features, and supports 90 characters.
+Noto Sans Saurashtra is a unmodulated (“sans serif”) design for texts in the Saurashtra script. It has multiple weights, contains 96 glyphs, 3 OpenType features, and supports 90 characters.

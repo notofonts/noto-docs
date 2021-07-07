@@ -1,7 +1,7 @@
 
 # Noto Sans Miao
 
-Noto Sans Miao is a sans serif design for texts in the Pollard Phonetic script. 
+Noto Sans Miao is a unmodulated (“sans serif”) design for texts in the Pollard Phonetic script. 
 
 Noto Sans Miao contains 365 glyphs, 4 OpenType features, and supports 154 characters from the Unicode block Miao.
 

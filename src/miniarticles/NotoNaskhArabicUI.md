@@ -1,7 +1,7 @@
 
 # Noto Naskh Arabic UI
 
-Noto Naskh Arabic UI is a modulated Naskh design for app and website user interfaces in the Arabic script. 
+Noto Naskh Arabic UI is a modulated (“serif”) Naskh design for app and website user interfaces in the Arabic script. 
 
 Noto Naskh Arabic UI has multiple weights, contains 1,614 glyphs, 12 OpenType features, and supports 1,123 characters from 6 Unicode blocks: Arabic Presentation Forms-A, Arabic, Arabic Presentation Forms-B, Arabic Supplement, Arabic Extended-A, Basic Latin.
 

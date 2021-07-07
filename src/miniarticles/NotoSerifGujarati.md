@@ -1,7 +1,7 @@
 
 # Noto Serif Gujarati
 
-Noto Serif Gujarati is a serif design for texts in the Gujarati script. 
+Noto Serif Gujarati is a modulated (“serif”) design for texts in the Gujarati script. 
 
 Noto Serif Gujarati has multiple weights, contains 456 glyphs, 17 OpenType features, and supports 164 characters from 5 Unicode blocks: Gujarati, Basic Latin, General Punctuation, Devanagari, Common Indic Number Forms.
 

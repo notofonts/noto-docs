@@ -1,1 +1,1 @@
-Noto Sans Multani is a sans serif design for texts in the historical Multani script. It has multiple weights, contains 53 glyphs, and supports 52 characters.
+Noto Sans Multani is a unmodulated (“sans serif”) design for texts in the historical Multani script. It has multiple weights, contains 53 glyphs, and supports 52 characters.

@@ -1,1 +1,1 @@
-Noto Serif Lao is a serif design for texts in the Lao script. It has multiple weights and widths, contains 117 glyphs, 5 OpenType features, and supports 76 characters.
+Noto Serif Lao is a modulated (“serif”) design for texts in the Lao script. It has multiple weights and widths, contains 117 glyphs, 5 OpenType features, and supports 76 characters.

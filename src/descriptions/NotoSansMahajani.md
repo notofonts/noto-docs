@@ -1,1 +1,1 @@
-Noto Sans Mahajani is a sans serif design for texts in the historical Mahajani script. It contains 69 glyphs, 2 OpenType features, and supports 68 characters from 2 Unicode blocks.
+Noto Sans Mahajani is a unmodulated (“sans serif”) design for texts in the historical Mahajani script. It contains 69 glyphs, 2 OpenType features, and supports 68 characters from 2 Unicode blocks.

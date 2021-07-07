@@ -1,1 +1,1 @@
-Noto Sans Display is a sans serif design for texts in larger font sizes in the Latin script and in Cyrillic, Greek. It has an italic variant, multiple weights and widths, contains 3,316 glyphs, 25 OpenType features, and supports 2,840 characters from 30 Unicode blocks.
+Noto Sans Display is a unmodulated (“sans serif”) design for texts in larger font sizes in the Latin script and in Cyrillic, Greek. It has an italic variant, multiple weights and widths, contains 3,316 glyphs, 25 OpenType features, and supports 2,840 characters from 30 Unicode blocks.

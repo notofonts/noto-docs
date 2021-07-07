@@ -1,7 +1,7 @@
 
 # Noto Sans Marchen
 
-Noto Sans Marchen is a sans serif design for texts in the historical Marchen script. 
+Noto Sans Marchen is a unmodulated (“sans serif”) design for texts in the historical Marchen script. 
 
 Noto Sans Marchen has multiple weights, contains 748 glyphs, 6 OpenType features, and supports 73 characters from the Unicode block Marchen.
 

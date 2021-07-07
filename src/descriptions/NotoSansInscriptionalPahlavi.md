@@ -1,1 +1,1 @@
-Noto Sans Inscriptional Pahlavi is a sans serif design for texts in the historical Inscriptional Pahlavi script. It contains 35 glyphs, 2 OpenType features, and supports 31 characters.
+Noto Sans Inscriptional Pahlavi is a unmodulated (“sans serif”) design for texts in the historical Inscriptional Pahlavi script. It contains 35 glyphs, 2 OpenType features, and supports 31 characters.

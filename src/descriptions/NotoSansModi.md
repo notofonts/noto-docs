@@ -1,1 +1,1 @@
-Noto Sans Modi is a sans serif design for texts in the Modi script. It contains 209 glyphs, 7 OpenType features, and supports 96 characters from 2 Unicode blocks.
+Noto Sans Modi is a unmodulated (“sans serif”) design for texts in the Modi script. It contains 209 glyphs, 7 OpenType features, and supports 96 characters from 2 Unicode blocks.

@@ -1,7 +1,7 @@
 
 # Noto Sans Cuneiform
 
-Noto Sans Cuneiform is a sans serif design for texts in the historical Sumero-Akkadian cuneiform script. 
+Noto Sans Cuneiform is a unmodulated (“sans serif”) design for texts in the historical Sumero-Akkadian cuneiform script. 
 
 Noto Sans Cuneiform has multiple weights, contains 1,239 glyphs, and supports 1,238 characters from 3 Unicode blocks: Cuneiform, Early Dynastic Cuneiform, Cuneiform Numbers and Punctuation.
 

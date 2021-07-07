@@ -1,7 +1,7 @@
 
 # Noto Serif Georgian
 
-Noto Serif Georgian is a serif design for texts in the Georgian script. 
+Noto Serif Georgian is a modulated (“serif”) design for texts in the Georgian script. 
 
 Noto Serif Georgian has multiple weights and widths, contains 225 glyphs, 6 OpenType features, and supports 186 characters from 4 Unicode blocks: Georgian, Georgian Extended, Georgian Supplement, Combining Diacritical Marks.
 

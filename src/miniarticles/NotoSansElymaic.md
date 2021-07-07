@@ -1,7 +1,7 @@
 
 # Noto Sans Elymaic
 
-Noto Sans Elymaic is a sans serif design for texts in the historical Elymaic script. 
+Noto Sans Elymaic is a unmodulated (“sans serif”) design for texts in the historical Elymaic script. 
 
 Noto Sans Elymaic has an italic variant, multiple weights, contains 43 glyphs, 7 OpenType features, and supports 24 characters from the Unicode block Elymaic.
 

@@ -1,7 +1,7 @@
 
 # Noto Serif Balinese
 
-Noto Serif Balinese is a serif design for texts in the Balinese script. 
+Noto Serif Balinese is a modulated (“serif”) design for texts in the Balinese script. 
 
 Noto Serif Balinese contains 217 glyphs, 6 OpenType features, and supports 129 characters from the Unicode block Balinese.
 

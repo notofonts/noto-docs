@@ -1,1 +1,1 @@
-Noto Sans Thaana is a sans serif design for texts in the Thaana script. It has multiple weights, contains 90 glyphs, and supports 89 characters from 4 Unicode blocks.
+Noto Sans Thaana is a unmodulated (“sans serif”) design for texts in the Thaana script. It has multiple weights, contains 90 glyphs, and supports 89 characters from 4 Unicode blocks.

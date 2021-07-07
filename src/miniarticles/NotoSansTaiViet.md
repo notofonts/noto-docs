@@ -1,7 +1,7 @@
 
 # Noto Sans Tai Viet
 
-Noto Sans Tai Viet is a sans serif design for texts in the Tai Viet script. 
+Noto Sans Tai Viet is a unmodulated (“sans serif”) design for texts in the Tai Viet script. 
 
 Noto Sans Tai Viet has multiple weights, contains 83 glyphs, and supports 82 characters from the Unicode block Tai Viet.
 

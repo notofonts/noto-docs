@@ -1,1 +1,1 @@
-Noto Sans Cham is a sans serif design for texts in the Cham script. It has multiple weights, contains 131 glyphs, 11 OpenType features, and supports 104 characters from 2 Unicode blocks.
+Noto Sans Cham is a unmodulated (“sans serif”) design for texts in the Cham script. It has multiple weights, contains 131 glyphs, 11 OpenType features, and supports 104 characters from 2 Unicode blocks.

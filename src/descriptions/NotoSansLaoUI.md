@@ -1,1 +1,1 @@
-Noto Sans Lao UI is an unmodulated design in the more modern, loopless variant of the Thai script, suitable for app and website user interfaces in the Lao script. It has multiple weights and widths, contains 118 glyphs, 4 OpenType features, and supports 76 characters.
+Noto Sans Lao UI is an unmodulated (“sans serif”) design in the more modern, loopless variant of the Thai script, suitable for app and website user interfaces in the Lao script. It has multiple weights and widths, contains 118 glyphs, 4 OpenType features, and supports 76 characters.

@@ -1,7 +1,7 @@
 
 # Noto Looped Lao UI
 
-Noto Looped Lao UI is an unmodulated design in the more traditional, looped variant of the Lao script, suitable for app and website user interfaces. 
+Noto Looped Lao UI is an unmodulated (“sans serif”) design in the more traditional, looped variant of the Lao script, suitable for app and website user interfaces. 
 
 Noto Looped Lao UI contains 151 glyphs, 9 OpenType features, and supports 106 characters from 4 Unicode blocks: Lao, Basic Latin, General Punctuation, Latin-1 Supplement.
 

@@ -1,7 +1,7 @@
 
 # Noto Sans Limbu
 
-Noto Sans Limbu is a sans serif design for texts in the Limbu script. 
+Noto Sans Limbu is a unmodulated (“sans serif”) design for texts in the Limbu script. 
 
 Noto Sans Limbu contains 79 glyphs, 3 OpenType features, and supports 77 characters from the Unicode block Limbu.
 

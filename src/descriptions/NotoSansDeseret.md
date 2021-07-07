@@ -1,1 +1,1 @@
-Noto Sans Deseret is a sans serif design for texts in the historical Deseret script. It has multiple weights, contains 85 glyphs, and supports 84 characters.
+Noto Sans Deseret is a unmodulated (“sans serif”) design for texts in the historical Deseret script. It has multiple weights, contains 85 glyphs, and supports 84 characters.

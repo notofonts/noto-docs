@@ -1,1 +1,1 @@
-Noto Sans Avestan is a sans serif design for texts in the historical Avestan script. It has multiple weights, contains 76 glyphs, and supports 71 characters.
+Noto Sans Avestan is a unmodulated (“sans serif”) design for texts in the historical Avestan script. It has multiple weights, contains 76 glyphs, and supports 71 characters.

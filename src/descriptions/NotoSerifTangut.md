@@ -1,1 +1,1 @@
-Noto Serif Tangut is a serif design for texts in the historical Tangut script. It contains 7,142 glyphs, 2 OpenType features, and supports 7,139 characters from 9 Unicode blocks.
+Noto Serif Tangut is a modulated (“serif”) design for texts in the historical Tangut script. It contains 7,142 glyphs, 2 OpenType features, and supports 7,139 characters from 9 Unicode blocks.

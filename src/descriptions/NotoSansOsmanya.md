@@ -1,1 +1,1 @@
-Noto Sans Osmanya is a sans serif design for texts in the historical Osmanya script. It has multiple weights, contains 45 glyphs, and supports 44 characters.
+Noto Sans Osmanya is a unmodulated (“sans serif”) design for texts in the historical Osmanya script. It has multiple weights, contains 45 glyphs, and supports 44 characters.

@@ -1,7 +1,7 @@
 
 # Noto Sans Duployan
 
-Noto Sans Duployan is a sans serif design for texts in the Duployan shorthand script. 
+Noto Sans Duployan is a unmodulated (“sans serif”) design for texts in the Duployan shorthand script. 
 
 Noto Sans Duployan contains 158 glyphs, and supports 154 characters from the Unicode block Duployan.
 

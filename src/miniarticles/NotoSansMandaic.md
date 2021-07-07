@@ -1,7 +1,7 @@
 
 # Noto Sans Mandaic
 
-Noto Sans Mandaic is a sans serif design for texts in the historical Mandaean (Mandaic) script. 
+Noto Sans Mandaic is a unmodulated (“sans serif”) design for texts in the historical Mandaean (Mandaic) script. 
 
 Noto Sans Mandaic has multiple weights, contains 132 glyphs, 7 OpenType features, and supports 37 characters from the Unicode block Mandaic.
 

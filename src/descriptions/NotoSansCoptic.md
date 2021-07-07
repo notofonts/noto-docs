@@ -1,1 +1,1 @@
-Noto Sans Coptic is a sans serif design for texts in the Coptic script. It has multiple weights, contains 224 glyphs, 3 OpenType features, and supports 188 characters from 3 Unicode blocks.
+Noto Sans Coptic is a unmodulated (“sans serif”) design for texts in the Coptic script. It has multiple weights, contains 224 glyphs, 3 OpenType features, and supports 188 characters from 3 Unicode blocks.
