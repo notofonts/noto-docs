@@ -1,7 +1,7 @@
 
 # Noto Sans Vai
 
-Noto Sans Vai is a unmodulated (“sans serif”) design for texts in the African _Vai_ script. 
+Noto Sans Vai is an unmodulated (“sans serif”) design for texts in the African _Vai_ script. 
 
 Noto Sans Vai has multiple weights, contains 305 glyphs, and supports 304 characters from the Unicode block Vai.
 

@@ -1,7 +1,7 @@
 
 # Noto Sans Psalter Pahlavi
 
-Noto Sans Psalter Pahlavi is a unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Psalter Pahlavi_ script. 
+Noto Sans Psalter Pahlavi is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Psalter Pahlavi_ script. 
 
 Noto Sans Psalter Pahlavi contains 98 glyphs, 7 OpenType features, and supports 37 characters from the Unicode block Psalter Pahlavi.
 

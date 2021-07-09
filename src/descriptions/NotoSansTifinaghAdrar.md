@@ -1,1 +1,1 @@
-Noto Sans Tifinagh Adrar is a unmodulated (“sans serif”) design in the Adrar variant for texts in the African _Tifinagh_ script. It contains 164 glyphs, 5 OpenType features, and supports 76 characters from 2 Unicode blocks.
+Noto Sans Tifinagh Adrar is an unmodulated (“sans serif”) design in the Adrar variant for texts in the African _Tifinagh_ script. It contains 164 glyphs, 5 OpenType features, and supports 76 characters from 2 Unicode blocks.

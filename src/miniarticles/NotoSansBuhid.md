@@ -1,7 +1,7 @@
 
 # Noto Sans Buhid
 
-Noto Sans Buhid is a unmodulated (“sans serif”) design for texts in the Southeast Asian _Buhid_ script. 
+Noto Sans Buhid is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Buhid_ script. 
 
 Noto Sans Buhid has multiple weights, contains 44 glyphs, 2 OpenType features, and supports 30 characters from the Unicode block Buhid.
 

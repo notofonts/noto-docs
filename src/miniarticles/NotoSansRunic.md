@@ -1,7 +1,7 @@
 
 # Noto Sans Runic
 
-Noto Sans Runic is a unmodulated (“sans serif”) design for texts in the historical European _Runic_ script. 
+Noto Sans Runic is an unmodulated (“sans serif”) design for texts in the historical European _Runic_ script. 
 
 Noto Sans Runic has multiple weights, contains 94 glyphs, and supports 93 characters from the Unicode block Runic.
 

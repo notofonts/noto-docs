@@ -1,1 +1,1 @@
-Noto Sans Khojki is a unmodulated (“sans serif”) design for texts in the Indic _Khojki_ script. It contains 177 glyphs, 8 OpenType features, and supports 89 characters from 2 Unicode blocks.
+Noto Sans Khojki is an unmodulated (“sans serif”) design for texts in the Indic _Khojki_ script. It contains 177 glyphs, 8 OpenType features, and supports 89 characters from 2 Unicode blocks.

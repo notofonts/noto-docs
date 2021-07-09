@@ -1,1 +1,1 @@
-Noto Sans Lycian is a unmodulated (“sans serif”) design for texts in the historical European _Lycian_ script. It has multiple weights, contains 34 glyphs, and supports 33 characters.
+Noto Sans Lycian is an unmodulated (“sans serif”) design for texts in the historical European _Lycian_ script. It has multiple weights, contains 34 glyphs, and supports 33 characters.

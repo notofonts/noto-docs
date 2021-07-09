@@ -1,1 +1,1 @@
-Noto Sans Wancho is a unmodulated (“sans serif”) design for texts in the Indic _Wancho_ script. It has multiple weights, contains 95 glyphs, 3 OpenType features, and supports 79 characters from 2 Unicode blocks.
+Noto Sans Wancho is an unmodulated (“sans serif”) design for texts in the Indic _Wancho_ script. It has multiple weights, contains 95 glyphs, 3 OpenType features, and supports 79 characters from 2 Unicode blocks.

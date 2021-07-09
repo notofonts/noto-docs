@@ -1,7 +1,7 @@
 
 # Noto Sans Soyombo
 
-Noto Sans Soyombo is a unmodulated (“sans serif”) design for texts in the Indic _Soyombo_ script. 
+Noto Sans Soyombo is an unmodulated (“sans serif”) design for texts in the Indic _Soyombo_ script. 
 
 Noto Sans Soyombo has multiple weights, contains 323 glyphs, 7 OpenType features, and supports 88 characters from the Unicode block Soyombo.
 

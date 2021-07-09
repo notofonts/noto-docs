@@ -1,7 +1,7 @@
 
 # Noto Sans Avestan
 
-Noto Sans Avestan is a unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Avestan_ script. 
+Noto Sans Avestan is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Avestan_ script. 
 
 Noto Sans Avestan has multiple weights, contains 76 glyphs, and supports 71 characters from the Unicode block Avestan.
 

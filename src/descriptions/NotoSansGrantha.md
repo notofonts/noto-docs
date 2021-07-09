@@ -1,1 +1,1 @@
-Noto Sans Grantha is a unmodulated (“sans serif”) design for texts in the Indic _Grantha_ script. It contains 478 glyphs, 24 OpenType features, and supports 121 characters from 3 Unicode blocks.
+Noto Sans Grantha is an unmodulated (“sans serif”) design for texts in the Indic _Grantha_ script. It contains 478 glyphs, 24 OpenType features, and supports 121 characters from 3 Unicode blocks.

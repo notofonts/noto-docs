@@ -1,1 +1,1 @@
-Noto Sans Telugu is a unmodulated (“sans serif”) design for texts in the Indic _Telugu_ script. It has multiple weights and widths, contains 958 glyphs, 11 OpenType features, and supports 163 characters from 4 Unicode blocks.
+Noto Sans Telugu is an unmodulated (“sans serif”) design for texts in the Indic _Telugu_ script. It has multiple weights and widths, contains 958 glyphs, 11 OpenType features, and supports 163 characters from 4 Unicode blocks.

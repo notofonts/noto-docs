@@ -1,7 +1,7 @@
 
 # Noto Sans Tifinagh Rhissa Ixa
 
-Noto Sans Tifinagh Rhissa Ixa is a unmodulated (“sans serif”) design in the RhissaIxa variant for texts in the African _Tifinagh_ script. 
+Noto Sans Tifinagh Rhissa Ixa is an unmodulated (“sans serif”) design in the RhissaIxa variant for texts in the African _Tifinagh_ script. 
 
 Noto Sans Tifinagh Rhissa Ixa contains 166 glyphs, 5 OpenType features, and supports 76 characters from 2 Unicode blocks: Tifinagh, Combining Diacritical Marks.
 

@@ -1,7 +1,7 @@
 
 # Noto Sans Sinhala
 
-Noto Sans Sinhala is a unmodulated (“sans serif”) design for texts in the Indic _Sinhala_ script. 
+Noto Sans Sinhala is an unmodulated (“sans serif”) design for texts in the Indic _Sinhala_ script. 
 
 Noto Sans Sinhala has multiple weights and widths, contains 645 glyphs, 11 OpenType features, and supports 170 characters from 3 Unicode blocks: Sinhala, Basic Latin, General Punctuation.
 

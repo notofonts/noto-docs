@@ -1,7 +1,7 @@
 
 # Noto Sans Brahmi
 
-Noto Sans Brahmi is a unmodulated (“sans serif”) design for texts in the historical Indic _Brahmi_ script. 
+Noto Sans Brahmi is an unmodulated (“sans serif”) design for texts in the historical Indic _Brahmi_ script. 
 
 Noto Sans Brahmi contains 257 glyphs, 5 OpenType features, and supports 117 characters from the Unicode block Brahmi.
 

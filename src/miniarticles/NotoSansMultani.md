@@ -1,7 +1,7 @@
 
 # Noto Sans Multani
 
-Noto Sans Multani is a unmodulated (“sans serif”) design for texts in the historical Indic _Multani_ script. 
+Noto Sans Multani is an unmodulated (“sans serif”) design for texts in the historical Indic _Multani_ script. 
 
 Noto Sans Multani has multiple weights, contains 53 glyphs, and supports 52 characters from the Unicode block Multani.
 

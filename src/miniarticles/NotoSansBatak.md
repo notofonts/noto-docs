@@ -1,7 +1,7 @@
 
 # Noto Sans Batak
 
-Noto Sans Batak is a unmodulated (“sans serif”) design for texts in the Southeast Asian _Batak_ script. 
+Noto Sans Batak is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Batak_ script. 
 
 Noto Sans Batak contains 66 glyphs, 3 OpenType features, and supports 64 characters from the Unicode block Batak.
 

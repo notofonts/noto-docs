@@ -1,1 +1,1 @@
-Noto Sans Devanagari is a unmodulated (“sans serif”) design for texts in the Indic _Devanagari_ script. It contains 954 glyphs, 17 OpenType features, and supports 272 characters from 6 Unicode blocks.
+Noto Sans Devanagari is an unmodulated (“sans serif”) design for texts in the Indic _Devanagari_ script. It contains 954 glyphs, 17 OpenType features, and supports 272 characters from 6 Unicode blocks.

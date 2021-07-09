@@ -1,7 +1,7 @@
 
 # Noto Sans Inscriptional Parthian
 
-Noto Sans Inscriptional Parthian is a unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Inscriptional Parthian_ script. 
+Noto Sans Inscriptional Parthian is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Inscriptional Parthian_ script. 
 
 Noto Sans Inscriptional Parthian contains 46 glyphs, 2 OpenType features, and supports 34 characters from the Unicode block Inscriptional Parthian.
 

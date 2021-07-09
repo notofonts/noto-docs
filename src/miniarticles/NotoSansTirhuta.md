@@ -1,7 +1,7 @@
 
 # Noto Sans Tirhuta
 
-Noto Sans Tirhuta is a unmodulated (“sans serif”) design for texts in the Indic _Tirhuta_ script. 
+Noto Sans Tirhuta is an unmodulated (“sans serif”) design for texts in the Indic _Tirhuta_ script. 
 
 Noto Sans Tirhuta contains 262 glyphs, 13 OpenType features, and supports 108 characters from 3 Unicode blocks: Tirhuta, Devanagari, Common Indic Number Forms.
 

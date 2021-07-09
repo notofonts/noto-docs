@@ -1,7 +1,7 @@
 
 # Noto Sans Pau Cin Hau
 
-Noto Sans Pau Cin Hau is a unmodulated (“sans serif”) design for texts in the Southeast Asian _Pau Cin Hau_ script. 
+Noto Sans Pau Cin Hau is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Pau Cin Hau_ script. 
 
 Noto Sans Pau Cin Hau contains 62 glyphs, and supports 61 characters from the Unicode block Pau Cin Hau.
 

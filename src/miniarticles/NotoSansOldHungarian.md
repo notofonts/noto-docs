@@ -1,7 +1,7 @@
 
 # Noto Sans Old Hungarian
 
-Noto Sans Old Hungarian is a unmodulated (“sans serif”) design for texts in the historical European _Old Hungarian (Hungarian runic)_ script. 
+Noto Sans Old Hungarian is an unmodulated (“sans serif”) design for texts in the historical European _Old Hungarian (Hungarian runic)_ script. 
 
 Noto Sans Old Hungarian contains 360 glyphs, 4 OpenType features, and supports 113 characters from the Unicode block Old Hungarian.
 

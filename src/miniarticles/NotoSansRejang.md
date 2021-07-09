@@ -1,7 +1,7 @@
 
 # Noto Sans Rejang
 
-Noto Sans Rejang is a unmodulated (“sans serif”) design for texts in the Southeast Asian _Rejang_ script. 
+Noto Sans Rejang is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Rejang_ script. 
 
 Noto Sans Rejang has multiple weights, contains 46 glyphs, and supports 45 characters from the Unicode block Rejang.
 

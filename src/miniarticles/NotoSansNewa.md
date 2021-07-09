@@ -1,7 +1,7 @@
 
 # Noto Sans Newa
 
-Noto Sans Newa is a unmodulated (“sans serif”) design for texts in the Indic _Newa (Newari)_ script. 
+Noto Sans Newa is an unmodulated (“sans serif”) design for texts in the Indic _Newa (Newari)_ script. 
 
 Noto Sans Newa contains 614 glyphs, 13 OpenType features, and supports 106 characters from the Unicode block Newa.
 

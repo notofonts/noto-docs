@@ -1,1 +1,1 @@
-Noto Sans Egyptian Hieroglyphs is a unmodulated (“sans serif”) design for texts in the historical African _Egyptian hieroglyphs_ script. It has multiple weights, contains 1,079 glyphs, and supports 1,078 characters.
+Noto Sans Egyptian Hieroglyphs is an unmodulated (“sans serif”) design for texts in the historical African _Egyptian hieroglyphs_ script. It has multiple weights, contains 1,079 glyphs, and supports 1,078 characters.

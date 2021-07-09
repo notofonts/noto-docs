@@ -1,1 +1,1 @@
-Noto Sans Samaritan is a unmodulated (“sans serif”) design for texts in the Middle Eastern _Samaritan_ script. It has multiple weights, contains 68 glyphs, 4 OpenType features, and supports 66 characters.
+Noto Sans Samaritan is an unmodulated (“sans serif”) design for texts in the Middle Eastern _Samaritan_ script. It has multiple weights, contains 68 glyphs, 4 OpenType features, and supports 66 characters.

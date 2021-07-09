@@ -1,7 +1,7 @@
 
 # Noto Sans Ugaritic
 
-Noto Sans Ugaritic is a unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Ugaritic_ script. 
+Noto Sans Ugaritic is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Ugaritic_ script. 
 
 Noto Sans Ugaritic has multiple weights, contains 36 glyphs, and supports 35 characters from the Unicode block Ugaritic.
 

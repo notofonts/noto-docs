@@ -1,1 +1,1 @@
-Noto Sans Sora Sompeng is a unmodulated (“sans serif”) design for texts in the Indic _Sora Sompeng_ script. It has multiple weights, contains 42 glyphs, and supports 41 characters.
+Noto Sans Sora Sompeng is an unmodulated (“sans serif”) design for texts in the Indic _Sora Sompeng_ script. It has multiple weights, contains 42 glyphs, and supports 41 characters.

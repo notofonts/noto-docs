@@ -1,7 +1,7 @@
 
 # Noto Sans Siddham
 
-Noto Sans Siddham is a unmodulated (“sans serif”) design for texts in the historical Indic _Siddham_ script. 
+Noto Sans Siddham is an unmodulated (“sans serif”) design for texts in the historical Indic _Siddham_ script. 
 
 Noto Sans Siddham contains 505 glyphs, 13 OpenType features, and supports 99 characters from the Unicode block Siddham.
 

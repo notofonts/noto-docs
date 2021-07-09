@@ -1,7 +1,7 @@
 
 # Noto Sans Osmanya
 
-Noto Sans Osmanya is a unmodulated (“sans serif”) design for texts in the historical African _Osmanya_ script. 
+Noto Sans Osmanya is an unmodulated (“sans serif”) design for texts in the historical African _Osmanya_ script. 
 
 Noto Sans Osmanya has multiple weights, contains 45 glyphs, and supports 44 characters from the Unicode block Osmanya.
 
