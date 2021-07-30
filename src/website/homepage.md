@@ -10,7 +10,7 @@
 
 Noto is a collection of high-quality free fonts for writing in all modern and ancient languages. With multiple weights and widths in sans, serif, mono, and other styles, Noto fonts are perfect for harmonious, typographically correct communication in more than 1,000 languages and over 150 writing systems.
 
-“Noto” means “I write, I mark, I note” in Latin. The name is also short for “no tofu”, as the project aims to eliminate 'tofu': blank rectangles shown when no font is available for your text.
+“Noto” means “I write, I mark, I note” in Latin. The name is also short for “no tofu,” as the project aims to eliminate 'tofu': blank rectangles shown when no font is available for your text.
 
 ### Read and write text in any language
 
@@ -62,13 +62,13 @@ Without the right font for the right language, the design of an app can quickl
 
 [![The road to Noto](img/1440x810/the-road-to-noto-1440x810.png)](https://youtu.be/HHIFL7DxOP0)
 
-“The scope of the project was so big, it’s really a change in mindset in how you’re going to work. You know you’re not going to be done tomorrow or next week. You have to give it time.” Steve Matteson, lead type designer ([42-minute video](https://youtu.be/HHIFL7DxOP0)).
+“The scope of the project was so big, it’s really a change in mindset in how you’re going to work. You know you’re not going to be done tomorrow or next week. You have to give it time.” Steve Matteson, lead type designer ([42-minute video](https://youtu.be/HHIFL7DxOP0))
 
 ### Invisible letters, invisible language
 
 [![Invisible letters, invisible language](img/1440x810/invisible-letters-invisible-language-1440x810.jpg)](https://youtu.be/PcS_mE5dDCw)
 
-43% of the 6,000 languages spoken in the world are endangered. “In an increasingly computerized world, many languages remain invisible.” Zachary Scheuren ([20-minute video](https://youtu.be/PcS_mE5dDCw)).
+43% of the 6,000 languages spoken in the world are endangered. “In an increasingly computerized world, many languages remain invisible.” Zachary Scheuren ([20-minute video](https://youtu.be/PcS_mE5dDCw))
 
 ### Endangered languages and accessibility
 
