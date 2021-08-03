@@ -137,7 +137,7 @@ Commissioned by Google, the ‘noto-hinted’ project (set up at github) was the
 - Publisher: ATypI
 - Event: ATypI 2016 Warsaw, Poland
 
-The Open Source Python Font Production Pipeline is a set of tools build by the open source community, including Google developers. It has been used by Google to produce Google's Noto font families. It can be used by anybody to automate their font production as well. The pipeline takes various inputs (e.g., \*.glyphs files) and compiles them into multiple binaries (\*.TTF and \*.OTF files among others). This presentation is about why Google wanted to have an open source font toolchain, how the toolchain (aka pipeline) was architected, engineered and debugged and how Google uses it to produce and validate Noto fonts.
+The Open Source Python Font Production Pipeline is a set of tools build by the open source community, including Google developers. It has been used by Google to produce Google's Noto font families. It can be used by anybody to automate their font production. The pipeline takes various inputs (e.g., \*.glyphs files) and compiles them into multiple binaries (\*.TTF and \*.OTF files among others). This presentation is about why Google wanted to have an open source font toolchain, how the toolchain (aka pipeline) was architected, engineered and debugged and how Google uses it to produce and validate Noto fonts.
 
 ## Creating Noto for Google
 
@@ -183,7 +183,7 @@ Using Noto is easy. If you are developing a mobile app, simply bundle the fonts 
 
 First displayed at Resonate Belgrade, Glyph.Index is an infinite interactive journey through the vast spectrum of Unicode glyphs in the Noto Sans typeface and its 96 font variations. Noto Sans is the only typeface designed to represent every symbol in every language— over 60k characters. Glyph.Index celebrates the global community and its cultural diversity in playful, rhythmical, ever-changing patterns.
 
-Type Reinvented. In todays information-dense digital landscape, typography is the key communicator to reach across all media. Monotype’s Type Reinvented explores the future of typography in a series of interactive digital artworks created in partnership with FIELD: How can typography become responsive, emotional, platform-adaptive, whilst remaining a powerful messenger of information, style and identity?
+Type Reinvented. In today's information-dense digital landscape, typography is the key communicator to reach across all media. Monotype’s Type Reinvented explores the future of typography in a series of interactive digital artworks created in partnership with FIELD. How can typography become responsive, emotional, platform-adaptive, whilst remaining a powerful messenger of information, style and identity?
 
 ## Making Noto Sans Tibetan
 
