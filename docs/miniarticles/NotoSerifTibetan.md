@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Serif Tibetan"
+nav_order: 100
 ---
 Noto Serif Tibetan is a modulated (“serif”) design for texts in the Central Asian _Tibetan_ script. 
 

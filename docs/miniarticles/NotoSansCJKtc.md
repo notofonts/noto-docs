@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans CJK TC"
+nav_order: 100
 ---
 Noto Sans TC is an unmodulated (“sans serif”) design for languages in Taiwan and Macau that use the _Traditional Chinese_ variant of the Han ideograms. It also supports _Hiragana, Katakana, Latin, Cyrillic, Greek_ and _Hangul_. 
 

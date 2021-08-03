@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Tifinagh Hawad"
+nav_order: 100
 ---
 Noto Sans Tifinagh Hawad is an unmodulated (“sans serif”) design in the Hawad variant for texts in the African _Tifinagh_ script. 
 

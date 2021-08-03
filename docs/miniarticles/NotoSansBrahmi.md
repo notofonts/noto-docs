@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Brahmi"
+nav_order: 100
 ---
 Noto Sans Brahmi is an unmodulated (“sans serif”) design for texts in the historical Indic _Brahmi_ script. 
 

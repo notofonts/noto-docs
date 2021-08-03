@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Old Persian"
+nav_order: 100
 ---
 Noto Sans Old Persian is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Old Persian_ script. 
 

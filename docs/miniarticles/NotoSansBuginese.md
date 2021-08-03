@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Buginese"
+nav_order: 100
 ---
 Noto Sans Buginese is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Buginese_ script. 
 

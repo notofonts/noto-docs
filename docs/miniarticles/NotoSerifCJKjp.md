@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Serif CJK JP"
+nav_order: 100
 ---
 Noto Serif JP is a modulated (“serif”) design for the _Japanese_ language and other languages used in Japan. It supports _Hiragana_, _Katakana_, _Kanji_, _Latin, Cyrillic, Greek_ and _Hangul_. 
 

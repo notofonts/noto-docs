@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Mongolian"
+nav_order: 100
 ---
 Noto Sans Mongolian is an unmodulated (“sans serif”) design for texts in the Central Asian _Mongolian_ script. 
 

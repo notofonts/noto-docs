@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans MeeteiMayek"
+nav_order: 100
 ---
 Noto Sans MeeteiMayek is an unmodulated (“sans serif”) design for texts in the Indic _Meetei Mayek (Meitei)_ script. 
 

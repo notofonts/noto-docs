@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Tai Le"
+nav_order: 100
 ---
 Noto Sans Tai Le is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Tai Le_ script. 
 

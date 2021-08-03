@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Gothic"
+nav_order: 100
 ---
 Noto Sans Gothic is an unmodulated (“sans serif”) design for texts in the historical European _Gothic_ script. 
 

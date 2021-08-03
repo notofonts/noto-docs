@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Gunjala Gondi"
+nav_order: 100
 ---
 Noto Sans Gunjala Gondi is an unmodulated (“sans serif”) design for texts in the Indic _Gunjala Gondi_ script. 
 

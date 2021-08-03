@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Naskh Arabic"
+nav_order: 100
 ---
 Noto Naskh Arabic is a modulated (“serif”) Naskh design, suitable for texts in the Middle Eastern _Arabic_ script and for use together with serif fonts. 
 

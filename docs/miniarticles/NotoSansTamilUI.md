@@ -1,10 +1,11 @@
 ---
 layout: default
 title: "Noto Sans Tamil UI"
+nav_order: 100
 ---
 Noto Sans Tamil UI is an unmodulated (“sans serif”) design for app and website user interfaces in the Indic _Tamil_ script. 
 
-Noto Sans Tamil UI has multiple weights and widths,, contains 244 glyphs, 11 OpenType features, and supports 147 characters from 5 Unicode blocks: Tamil, Basic Latin, General Punctuation, Devanagari, Grantha.
+Noto Sans Tamil UI has multiple weights and widths, contains 244 glyphs, 11 OpenType features, and supports 147 characters from 5 Unicode blocks: Tamil, Basic Latin, General Punctuation, Devanagari, Grantha.
 
 
 ### Supported writing systems

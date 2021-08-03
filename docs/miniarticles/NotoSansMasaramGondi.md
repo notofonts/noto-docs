@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Masaram Gondi"
+nav_order: 100
 ---
 Noto Sans Masaram Gondi is an unmodulated (“sans serif”) design for texts in the Indic _Masaram Gondi_ script. 
 

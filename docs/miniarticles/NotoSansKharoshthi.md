@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Kharoshthi"
+nav_order: 100
 ---
 Noto Sans Kharoshthi is an unmodulated (“sans serif”) design for texts in the historical Indic _Kharoshthi_ script. 
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Manichaean"
+nav_order: 100
 ---
 Noto Sans Manichaean is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Manichaean_ script. 
 

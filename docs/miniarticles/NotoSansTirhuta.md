@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Tirhuta"
+nav_order: 100
 ---
 Noto Sans Tirhuta is an unmodulated (“sans serif”) design for texts in the Indic _Tirhuta_ script. 
 

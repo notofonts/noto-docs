@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Math"
+nav_order: 100
 ---
 Noto Sans Math is a font that contains symbols for _mathematical notation_. 
 

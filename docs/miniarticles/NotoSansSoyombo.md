@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Soyombo"
+nav_order: 100
 ---
 Noto Sans Soyombo is an unmodulated (“sans serif”) design for texts in the Indic _Soyombo_ script. 
 

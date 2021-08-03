@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Serif Gujarati"
+nav_order: 100
 ---
 Noto Serif Gujarati is a modulated (“serif”) design for texts in the Indic _Gujarati_ script. 
 

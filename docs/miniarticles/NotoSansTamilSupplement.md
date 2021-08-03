@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Tamil Supplement"
+nav_order: 100
 ---
 Noto Sans Tamil Supplement is an unmodulated (“sans serif”) design in the Supplement variant for texts in the Indic _Tamil_ script. 
 

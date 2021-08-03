@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Medefaidrin"
+nav_order: 100
 ---
 Noto Sans Medefaidrin is an unmodulated (“sans serif”) design for texts in the African _Medefaidrin (Oberi Okaime)_ script. 
 

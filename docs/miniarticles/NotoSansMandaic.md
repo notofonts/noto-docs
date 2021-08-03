@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Mandaic"
+nav_order: 100
 ---
 Noto Sans Mandaic is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Mandaean (Mandaic)_ script. 
 

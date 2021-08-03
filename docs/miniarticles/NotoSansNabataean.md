@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Nabataean"
+nav_order: 100
 ---
 Noto Sans Nabataean is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Nabataean_ script. 
 

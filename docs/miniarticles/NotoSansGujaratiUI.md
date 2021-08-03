@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Gujarati UI"
+nav_order: 100
 ---
 Noto Sans Gujarati UI is an unmodulated (“sans serif”) design for app and website user interfaces in the Indic _Gujarati_ script. 
 

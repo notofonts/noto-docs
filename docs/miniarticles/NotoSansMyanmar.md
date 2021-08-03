@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Myanmar"
+nav_order: 100
 ---
 Noto Sans Myanmar is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Myanmar_ script. 
 

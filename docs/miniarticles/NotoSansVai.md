@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Vai"
+nav_order: 100
 ---
 Noto Sans Vai is an unmodulated (“sans serif”) design for texts in the African _Vai_ script. 
 

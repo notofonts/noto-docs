@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Miao"
+nav_order: 100
 ---
 Noto Sans Miao is an unmodulated (“sans serif”) design for texts in the East Asian _Pollard Phonetic_ script. 
 

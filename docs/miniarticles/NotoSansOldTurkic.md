@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Old Turkic"
+nav_order: 100
 ---
 Noto Sans Old Turkic is an unmodulated (“sans serif”) design for texts in the historical Central Asian _Orkhon runic (Old Turkic)_ script. 
 

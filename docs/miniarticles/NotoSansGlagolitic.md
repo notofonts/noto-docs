@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Glagolitic"
+nav_order: 100
 ---
 Noto Sans Glagolitic is an unmodulated (“sans serif”) design for texts in the historical European _Glagolitic_ script. 
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Adlam Unjoined"
+nav_order: 100
 ---
 Noto Sans Adlam Unjoined is an unjoined unmodulated (“sans serif”) design suitable for headlines and for educational content in the African _Adlam_ script. 
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Takri"
+nav_order: 100
 ---
 Noto Sans Takri is an unmodulated (“sans serif”) design for texts in the historical Indic _Takri_ script. 
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Sogdian"
+nav_order: 100
 ---
 Noto Sans Sogdian is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Sogdian_ script. 
 

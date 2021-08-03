@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Sora Sompeng"
+nav_order: 100
 ---
 Noto Sans Sora Sompeng is an unmodulated (“sans serif”) design for texts in the Indic _Sora Sompeng_ script. 
 

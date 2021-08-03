@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Balinese"
+nav_order: 100
 ---
 Noto Sans Balinese is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Balinese_ script. 
 

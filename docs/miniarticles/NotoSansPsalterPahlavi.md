@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Psalter Pahlavi"
+nav_order: 100
 ---
 Noto Sans Psalter Pahlavi is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Psalter Pahlavi_ script. 
 

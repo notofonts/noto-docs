@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Serif Dogra"
+nav_order: 100
 ---
 Noto Serif Dogra is a modulated (“serif”) design for texts in the historical Indic _Dogra_ script. 
 

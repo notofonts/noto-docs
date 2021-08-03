@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Kufi Arabic"
+nav_order: 100
 ---
 Noto Kufi Arabic is a simplified, unmodulated (“sans serif”) Kufi design mainly for texts in larger font sizes in the Middle Eastern _Arabic_ script. 
 

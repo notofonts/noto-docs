@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Grantha"
+nav_order: 100
 ---
 Noto Sans Grantha is an unmodulated (“sans serif”) design for texts in the Indic _Grantha_ script. 
 

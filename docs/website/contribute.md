@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Contribute to Noto fonts"
+title: "Contribute"
+nav_order: 22
 ---
 # Contribute to Noto fonts
 

@@ -1,10 +1,11 @@
 ---
 layout: default
 title: "Noto Sans Malayalam"
+nav_order: 100
 ---
 Noto Sans Malayalam is an unmodulated (“sans serif”) design for texts in the Indic _Malayalam_ script. 
 
-Noto Sans Malayalam has multiple weights and widths,, contains 364 glyphs, 10 OpenType features, and supports 187 characters from 4 Unicode blocks: Malayalam, Basic Latin, General Punctuation, Devanagari.
+Noto Sans Malayalam has multiple weights and widths, contains 364 glyphs, 10 OpenType features, and supports 187 characters from 4 Unicode blocks: Malayalam, Basic Latin, General Punctuation, Devanagari.
 
 
 ### Supported writing systems

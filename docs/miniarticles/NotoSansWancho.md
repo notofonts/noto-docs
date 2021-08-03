@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Wancho"
+nav_order: 100
 ---
 Noto Sans Wancho is an unmodulated (“sans serif”) design for texts in the Indic _Wancho_ script. 
 

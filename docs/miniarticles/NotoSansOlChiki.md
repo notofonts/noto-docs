@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Ol Chiki"
+nav_order: 100
 ---
 Noto Sans Ol Chiki is an unmodulated (“sans serif”) design for texts in the Indic _Ol Chiki_ script. 
 

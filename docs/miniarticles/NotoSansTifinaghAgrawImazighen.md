@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Tifinagh Agraw Imazighen"
+nav_order: 100
 ---
 Noto Sans Tifinagh Agraw Imazighen is an unmodulated (“sans serif”) design in the AgrawImazighen variant for texts in the African _Tifinagh_ script. 
 

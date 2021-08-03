@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Noto naming specification"
+title: "Naming"
+nav_order: 210
 ---
 # Noto Weight & Width naming & numbering and Style naming specification
 

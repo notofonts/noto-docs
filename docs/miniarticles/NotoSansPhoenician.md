@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Phoenician"
+nav_order: 100
 ---
 Noto Sans Phoenician is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Phoenician_ script. 
 

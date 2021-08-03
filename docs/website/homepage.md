@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Noto fonts"
-nav_order: 1
-permalink: /
+title: "Noto web"
+nav_order: 20
 ---
 # Noto: A typeface for the world
 

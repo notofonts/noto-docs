@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Duployan"
+nav_order: 100
 ---
 Noto Sans Duployan is an unmodulated (“sans serif”) design for texts in the American _Duployan shorthand_ script. 
 

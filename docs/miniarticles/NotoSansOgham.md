@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Ogham"
+nav_order: 100
 ---
 Noto Sans Ogham is an unmodulated (“sans serif”) design for texts in the historical European _Ogham_ script. 
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Warang Citi"
+nav_order: 100
 ---
 Noto Sans Warang Citi is an unmodulated (“sans serif”) design for texts in the Indic _Varang Kshiti (Warang Citi)_ script. 
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Siddham"
+nav_order: 100
 ---
 Noto Sans Siddham is an unmodulated (“sans serif”) design for texts in the historical Indic _Siddham_ script. 
 

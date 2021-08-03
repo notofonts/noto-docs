@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Pau Cin Hau"
+nav_order: 100
 ---
 Noto Sans Pau Cin Hau is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Pau Cin Hau_ script. 
 

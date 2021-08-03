@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Lycian"
+nav_order: 100
 ---
 Noto Sans Lycian is an unmodulated (“sans serif”) design for texts in the historical European _Lycian_ script. 
 

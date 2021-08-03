@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Kayah Li"
+nav_order: 100
 ---
 Noto Sans Kayah Li is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Kayah Li_ script. 
 

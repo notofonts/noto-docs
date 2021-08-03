@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans NKo"
+nav_order: 100
 ---
 Noto Sans NKo is an unmodulated (“sans serif”) design for texts in the African _N’Ko_ script. 
 

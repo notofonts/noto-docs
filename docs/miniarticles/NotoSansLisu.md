@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Lisu"
+nav_order: 100
 ---
 Noto Sans Lisu is an unmodulated (“sans serif”) design for texts in the East Asian _Fraser_ script. 
 

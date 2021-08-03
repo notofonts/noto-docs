@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Sharada"
+nav_order: 100
 ---
 Noto Sans Sharada is an unmodulated (“sans serif”) design for texts in the Indic _Sharada_ script. 
 

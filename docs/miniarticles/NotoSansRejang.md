@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Rejang"
+nav_order: 100
 ---
 Noto Sans Rejang is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Rejang_ script. 
 

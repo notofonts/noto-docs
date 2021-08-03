@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Symbols"
+nav_order: 100
 ---
 Noto Sans Symbols is an unmodulated (“sans serif”) design for texts in Symbols. 
 

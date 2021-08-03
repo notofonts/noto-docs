@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto writing guide"
+nav_order: 220
 ---
 # Writing guide for the Noto project
 

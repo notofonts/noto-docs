@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Anatolian Hieroglyphs"
+nav_order: 100
 ---
 Noto Sans Anatolian Hieroglyphs is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Anatolian hieroglyphs_ script. 
 

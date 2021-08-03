@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Symbols2"
+nav_order: 100
 ---
 Noto Sans Symbols2 is an unmodulated (“sans serif”) design for texts in Symbols and in _Emoji symbols_. 
 

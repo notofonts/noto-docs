@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Tifinagh Rhissa Ixa"
+nav_order: 100
 ---
 Noto Sans Tifinagh Rhissa Ixa is an unmodulated (“sans serif”) design in the RhissaIxa variant for texts in the African _Tifinagh_ script. 
 

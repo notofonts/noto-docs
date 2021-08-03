@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Serif Kannada"
+nav_order: 100
 ---
 Noto Serif Kannada is a modulated (“serif”) design for texts in the Indic _Kannada_ script. 
 

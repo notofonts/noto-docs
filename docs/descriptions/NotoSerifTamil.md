@@ -1,1 +1,1 @@
-Noto Serif Tamil is a modulated (“serif”) design for texts in the Indic _Tamil_ script. It has multiple italic styles, weights and widths, and 222 glyphs.
+Noto Serif Tamil is a modulated (“serif”) design for texts in the Indic _Tamil_ script. It has italic styles, multiple weights and widths, and 222 glyphs.

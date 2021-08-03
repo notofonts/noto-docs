@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Egyptian Hieroglyphs"
+nav_order: 100
 ---
 Noto Sans Egyptian Hieroglyphs is an unmodulated (“sans serif”) design for texts in the historical African _Egyptian hieroglyphs_ script. 
 

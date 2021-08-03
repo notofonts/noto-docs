@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Saurashtra"
+nav_order: 100
 ---
 Noto Sans Saurashtra is an unmodulated (“sans serif”) design for texts in the Indic _Saurashtra_ script. 
 

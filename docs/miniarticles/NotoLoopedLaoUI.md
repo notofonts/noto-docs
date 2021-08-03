@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Looped Lao UI"
+nav_order: 100
 ---
 Noto Sans Lao Looped UI is an unmodulated (“sans serif”) design in the more traditional, looped variant of the Southeast Asian _Lao_ script, suitable for app and website user interfaces. 
 

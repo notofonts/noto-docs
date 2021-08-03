@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Cham"
+nav_order: 100
 ---
 Noto Sans Cham is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Cham_ script. 
 

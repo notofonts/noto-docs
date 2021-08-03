@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Old Hungarian"
+nav_order: 100
 ---
 Noto Sans Old Hungarian is an unmodulated (“sans serif”) design for texts in the historical European _Old Hungarian (Hungarian runic)_ script. 
 

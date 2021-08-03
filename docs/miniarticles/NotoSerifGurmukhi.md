@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Serif Gurmukhi"
+nav_order: 100
 ---
 Noto Serif Gurmukhi is a modulated (“serif”) design for texts in the Indic _Gurmukhi_ script. 
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Serif CJK KR"
+nav_order: 100
 ---
 Noto Serif KR is a modulated (“serif”) design for the _Korean_ language using _Hangul_ and the _Korean Hanja_ scripts. It also supports _Hiragana, Katakana, Latin, Cyrillic_ and _Greek_. 
 

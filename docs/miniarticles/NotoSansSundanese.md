@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Sundanese"
+nav_order: 100
 ---
 Noto Sans Sundanese is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Sundanese_ script. 
 

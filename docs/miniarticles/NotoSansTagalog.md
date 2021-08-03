@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Tagalog"
+nav_order: 100
 ---
 Noto Sans Tagalog is an unmodulated (“sans serif”) design for texts in the historical Southeast Asian _Tagalog_ script. 
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Devanagari"
+nav_order: 100
 ---
 Noto Sans Devanagari is an unmodulated (“sans serif”) design for texts in the Indic _Devanagari_ script. 
 

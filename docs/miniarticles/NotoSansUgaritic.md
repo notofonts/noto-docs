@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Ugaritic"
+nav_order: 100
 ---
 Noto Sans Ugaritic is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Ugaritic_ script. 
 

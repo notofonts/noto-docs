@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Modi"
+nav_order: 100
 ---
 Noto Sans Modi is an unmodulated (“sans serif”) design for texts in the Indic _Modi_ script. 
 

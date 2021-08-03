@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Linear A"
+nav_order: 100
 ---
 Noto Sans Linear A is an unmodulated (“sans serif”) design for texts in the historical European _Linear A_ script. 
 

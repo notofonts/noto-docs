@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Serif Yezidi"
+nav_order: 100
 ---
 Noto Serif Yezidi is a modulated (“serif”) design for texts in the Middle Eastern _Yezidi_ script. 
 

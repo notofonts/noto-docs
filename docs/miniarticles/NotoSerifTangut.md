@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Serif Tangut"
+nav_order: 100
 ---
 Noto Serif Tangut is a modulated (“serif”) design for texts in the historical East Asian _Tangut_ script. 
 

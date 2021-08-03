@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Looped Lao"
+nav_order: 100
 ---
 Noto Sans Lao Looped is an unmodulated design in the more traditional, looped variant of the Southeast Asian _Lao_ script, suitable for all texts. 
 

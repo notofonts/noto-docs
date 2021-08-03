@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Hanifi Rohingya"
+nav_order: 100
 ---
 Noto Sans Hanifi Rohingya is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Hanifi Rohingya_ script. 
 

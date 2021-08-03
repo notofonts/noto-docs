@@ -1,10 +1,11 @@
 ---
 layout: default
 title: "Noto Serif Sinhala"
+nav_order: 100
 ---
 Noto Serif Sinhala is a modulated (“serif”) design for texts in the Indic _Sinhala_ script. 
 
-Noto Serif Sinhala has multiple weights and widths,, contains 645 glyphs, 11 OpenType features, and supports 170 characters from 3 Unicode blocks: Sinhala, Basic Latin, General Punctuation.
+Noto Serif Sinhala has multiple weights and widths, contains 645 glyphs, 11 OpenType features, and supports 170 characters from 3 Unicode blocks: Sinhala, Basic Latin, General Punctuation.
 
 
 ### Supported writing systems

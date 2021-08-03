@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Mende Kikakui"
+nav_order: 100
 ---
 Noto Sans Mende Kikakui is an unmodulated (“sans serif”) design for texts in the African _Mende_ script. 
 

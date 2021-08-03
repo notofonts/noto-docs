@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Runic"
+nav_order: 100
 ---
 Noto Sans Runic is an unmodulated (“sans serif”) design for texts in the historical European _Runic_ script. 
 

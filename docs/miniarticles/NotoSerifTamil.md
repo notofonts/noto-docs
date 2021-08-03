@@ -1,10 +1,11 @@
 ---
 layout: default
 title: "Noto Serif Tamil"
+nav_order: 100
 ---
 Noto Serif Tamil is a modulated (“serif”) design for texts in the Indic _Tamil_ script. 
 
-Noto Serif Tamil has multiple italic styles, weights and widths,, contains 222 glyphs, 10 OpenType features, and supports 147 characters from 5 Unicode blocks: Tamil, Basic Latin, General Punctuation, Devanagari, Grantha.
+Noto Serif Tamil has italic styles, multiple weights and widths, contains 222 glyphs, 10 OpenType features, and supports 147 characters from 5 Unicode blocks: Tamil, Basic Latin, General Punctuation, Devanagari, Grantha.
 
 
 ### Supported writing systems

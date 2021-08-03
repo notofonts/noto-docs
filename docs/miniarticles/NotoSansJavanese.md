@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Javanese"
+nav_order: 100
 ---
 Noto Sans Javanese is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Javanese_ script. 
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Cherokee"
+nav_order: 100
 ---
 Noto Sans Cherokee is an unmodulated (“sans serif”) design for texts in the American _Cherokee_ script. 
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Nastaliq Urdu"
+nav_order: 100
 ---
 Noto Nastaliq Urdu is a cursive, modulated (“serif”) Nastaliq design for texts in the Middle Eastern _Arabic_ script, especially in the Urdu language. 
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans SignWriting"
+nav_order: 100
 ---
 Noto Sans SignWriting is an unmodulated (“sans serif”) design for texts in the Sign-Language _SignWriting_ script. 
 

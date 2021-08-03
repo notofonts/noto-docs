@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans CJK JP"
+nav_order: 100
 ---
 Noto Sans JP is an unmodulated (“sans serif”) design for the _Japanese_ language and other languages used in Japan. It covers _Hiragana_, _Katakana_ and _Kanji_. It also supports _Latin, Cyrillic, Greek_ and _Hangul_. 
 

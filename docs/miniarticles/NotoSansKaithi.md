@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Kaithi"
+nav_order: 100
 ---
 Noto Sans Kaithi is an unmodulated (“sans serif”) design for texts in the Indic _Kaithi_ script. 
 

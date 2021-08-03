@@ -1,10 +1,11 @@
 ---
 layout: default
 title: "Noto Serif Bengali"
+nav_order: 100
 ---
 Noto Serif Bengali is a modulated (“serif”) design for texts in the Indic _Bangla (Bengali)_ script. 
 
-Noto Serif Bengali has multiple weights and widths,, contains 640 glyphs, 19 OpenType features, and supports 173 characters from 5 Unicode blocks: Bengali, Basic Latin, Vedic Extensions, General Punctuation, Devanagari.
+Noto Serif Bengali has multiple weights and widths, contains 640 glyphs, 19 OpenType features, and supports 173 characters from 5 Unicode blocks: Bengali, Basic Latin, Vedic Extensions, General Punctuation, Devanagari.
 
 
 ### Supported writing systems

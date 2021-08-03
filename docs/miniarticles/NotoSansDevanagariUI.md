@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Devanagari UI"
+nav_order: 100
 ---
 Noto Sans Devanagari UI is an unmodulated (“sans serif”) design for app and website user interfaces in the Indic _Devanagari_ script. 
 

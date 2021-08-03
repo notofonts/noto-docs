@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Rashi Hebrew"
+nav_order: 100
 ---
 Noto Rashi Hebrew is modulated (“serif”) design for the Middle Eastern _Hebrew_ script with a semi-cursive skeleton based on 15th-century Sephardic writing. It can be used for emphasis, complementing Noto Serif Hebrew. Similar designs were used for religious commentary. 
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Cypriot"
+nav_order: 100
 ---
 Noto Sans Cypriot is an unmodulated (“sans serif”) design for texts in the historical European _Cypriot_ script. 
 

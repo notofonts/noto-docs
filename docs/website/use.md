@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Use Noto fonts"
+title: "Use Noto"
+nav_order: 21
 ---
 # Use Noto fonts
 

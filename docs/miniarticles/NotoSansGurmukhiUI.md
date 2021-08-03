@@ -1,10 +1,11 @@
 ---
 layout: default
 title: "Noto Sans Gurmukhi UI"
+nav_order: 100
 ---
 Noto Sans Gurmukhi UI is an unmodulated (“sans serif”) design for app and website user interfaces in the Indic _Gurmukhi_ script. 
 
-Noto Sans Gurmukhi UI has multiple weights and widths,, contains 344 glyphs, 11 OpenType features, and supports 154 characters from 5 Unicode blocks: Gurmukhi, Basic Latin, General Punctuation, Devanagari, Common Indic Number Forms.
+Noto Sans Gurmukhi UI has multiple weights and widths, contains 344 glyphs, 11 OpenType features, and supports 154 characters from 5 Unicode blocks: Gurmukhi, Basic Latin, General Punctuation, Devanagari, Common Indic Number Forms.
 
 
 ### Supported writing systems

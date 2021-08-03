@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Noto submission requirements"
+title: "Submission requirements"
+nav_order: 210
 ---
 # Noto Font Submission Requirements
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Tifinagh Adrar"
+nav_order: 100
 ---
 Noto Sans Tifinagh Adrar is an unmodulated (“sans serif”) design in the Adrar variant for texts in the African _Tifinagh_ script. 
 

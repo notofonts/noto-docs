@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Tai Viet"
+nav_order: 100
 ---
 Noto Sans Tai Viet is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Tai Viet_ script. 
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans New Tai Lue"
+nav_order: 100
 ---
 Noto Sans New Tai Lue is an unmodulated (“sans serif”) design for texts in the Southeast Asian _New Tai Lue_ script. 
 

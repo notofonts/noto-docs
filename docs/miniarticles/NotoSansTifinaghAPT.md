@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Tifinagh APT"
+nav_order: 100
 ---
 Noto Sans Tifinagh APT is an unmodulated (“sans serif”) design in the APT variant for texts in the African _Tifinagh_ script. 
 

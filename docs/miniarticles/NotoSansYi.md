@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Yi"
+nav_order: 100
 ---
 Noto Sans Yi is an unmodulated (“sans serif”) design for texts in the East Asian _Yi_ script. 
 

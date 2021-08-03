@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Thai Looped"
+nav_order: 100
 ---
 Noto Sans Thai Looped is an unmodulated (“sans serif”) design in the Looped variant for texts in the Southeast Asian _Thai_ script. 
 

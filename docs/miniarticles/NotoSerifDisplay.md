@@ -1,10 +1,11 @@
 ---
 layout: default
 title: "Noto Serif Display"
+nav_order: 100
 ---
 Noto Serif Display is a modulated (“serif”) design for texts in larger font sizes in the European _Latin_ script and in _Cyrillic_, _Greek_. 
 
-Noto Serif Display has multiple italic styles, weights and widths,, contains 3,256 glyphs, 24 OpenType features, and supports 2,840 characters from 30 Unicode blocks: Latin Extended Additional, Cyrillic, Greek Extended, Latin Extended-B, Latin Extended-D, Latin Extended-A, Phonetic Extensions, Greek and Coptic, Combining Diacritical Marks, IPA Extensions, Cyrillic Extended-B, Latin-1 Supplement, General Punctuation, Basic Latin, Supplemental Punctuation, Spacing Modifier Letters, Letterlike Symbols, Phonetic Extensions Supplement, Combining Diacritical Marks Supplement, Latin Extended-E, Cyrillic Supplement, Currency Symbols, Latin Extended-C, Cyrillic Extended-A, Modifier Tone Letters, Superscripts and Subscripts, Combining Diacritical Marks Extended, Combining Half Marks, Cyrillic Extended-C, Alphabetic Presentation Forms.
+Noto Serif Display has italic styles, multiple weights and widths, contains 3,256 glyphs, 24 OpenType features, and supports 2,840 characters from 30 Unicode blocks: Latin Extended Additional, Cyrillic, Greek Extended, Latin Extended-B, Latin Extended-D, Latin Extended-A, Phonetic Extensions, Greek and Coptic, Combining Diacritical Marks, IPA Extensions, Cyrillic Extended-B, Latin-1 Supplement, General Punctuation, Basic Latin, Supplemental Punctuation, Spacing Modifier Letters, Letterlike Symbols, Phonetic Extensions Supplement, Combining Diacritical Marks Supplement, Latin Extended-E, Cyrillic Supplement, Currency Symbols, Latin Extended-C, Cyrillic Extended-A, Modifier Tone Letters, Superscripts and Subscripts, Combining Diacritical Marks Extended, Combining Half Marks, Cyrillic Extended-C, Alphabetic Presentation Forms.
 
 
 ### Supported writing systems

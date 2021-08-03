@@ -1,10 +1,11 @@
 ---
 layout: default
 title: "Noto Serif Khmer"
+nav_order: 100
 ---
 Noto Serif Khmer is a modulated (“serif”) design for texts in the Southeast Asian _Khmer_ script. 
 
-Noto Serif Khmer has multiple weights and widths,, contains 361 glyphs, 13 OpenType features, and supports 175 characters from 4 Unicode blocks: Khmer, Khmer Symbols, Basic Latin, General Punctuation.
+Noto Serif Khmer has multiple weights and widths, contains 361 glyphs, 13 OpenType features, and supports 175 characters from 4 Unicode blocks: Khmer, Khmer Symbols, Basic Latin, General Punctuation.
 
 
 ### Supported writing systems

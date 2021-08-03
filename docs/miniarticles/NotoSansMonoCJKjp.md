@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Mono CJK JP"
+nav_order: 100
 ---
 Noto Sans Mono JP is a monospaced, unmodulated (“sans serif”) design suitable for programming code and other uses where a fixed-width font is needed. It supports _Katakana, Hiragana_, _Japanese Kanji_ ideograms, _Latin, Cyrillic, Greek_, and _Hangul_. 
 

@@ -1,10 +1,11 @@
 ---
 layout: default
 title: "Noto Sans Tamil"
+nav_order: 100
 ---
 Noto Sans Tamil is an unmodulated (“sans serif”) design for texts in the Indic _Tamil_ script. 
 
-Noto Sans Tamil has multiple weights and widths,, contains 244 glyphs, 11 OpenType features, and supports 147 characters from 5 Unicode blocks: Tamil, Basic Latin, General Punctuation, Devanagari, Grantha.
+Noto Sans Tamil has multiple weights and widths, contains 244 glyphs, 11 OpenType features, and supports 147 characters from 5 Unicode blocks: Tamil, Basic Latin, General Punctuation, Devanagari, Grantha.
 
 
 ### Supported writing systems

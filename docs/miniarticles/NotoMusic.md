@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Music"
+nav_order: 100
 ---
 Noto Music is a font that contains symbols for the modern, Byzantine and Greek _musical notations_. 
 

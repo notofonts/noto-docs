@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Shavian"
+nav_order: 100
 ---
 Noto Sans Shavian is an unmodulated (“sans serif”) design for texts in the historical artificial _Shavian_ script. 
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Limbu"
+nav_order: 100
 ---
 Noto Sans Limbu is an unmodulated (“sans serif”) design for texts in the Indic _Limbu_ script. 
 

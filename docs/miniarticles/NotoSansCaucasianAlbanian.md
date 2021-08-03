@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Caucasian Albanian"
+nav_order: 100
 ---
 Noto Sans Caucasian Albanian is an unmodulated (“sans serif”) design for texts in the historical European _Caucasian Albanian_ script. 
 

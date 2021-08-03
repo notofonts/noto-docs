@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Noto videos"
+title: "Videos"
+nav_order: 31
 ---
 # Videos about the Noto Project
 

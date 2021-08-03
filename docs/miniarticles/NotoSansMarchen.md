@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Marchen"
+nav_order: 100
 ---
 Noto Sans Marchen is an unmodulated (“sans serif”) design for texts in the historical Indic _Marchen_ script. 
 

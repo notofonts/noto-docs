@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Imperial Aramaic"
+nav_order: 100
 ---
 Noto Sans Imperial Aramaic is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Imperial Aramaic_ script. 
 

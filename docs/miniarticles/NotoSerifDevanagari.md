@@ -1,10 +1,11 @@
 ---
 layout: default
 title: "Noto Serif Devanagari"
+nav_order: 100
 ---
 Noto Serif Devanagari is a modulated (“serif”) design for texts in the Indic _Devanagari_ script. 
 
-Noto Serif Devanagari has multiple weights and widths,, contains 871 glyphs, 18 OpenType features, and supports 272 characters from 6 Unicode blocks: Devanagari, Vedic Extensions, Devanagari Extended, Basic Latin, General Punctuation, Common Indic Number Forms.
+Noto Serif Devanagari has multiple weights and widths, contains 871 glyphs, 18 OpenType features, and supports 272 characters from 6 Unicode blocks: Devanagari, Vedic Extensions, Devanagari Extended, Basic Latin, General Punctuation, Common Indic Number Forms.
 
 
 ### Supported writing systems

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Inscriptional Parthian"
+nav_order: 100
 ---
 Noto Sans Inscriptional Parthian is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Inscriptional Parthian_ script. 
 

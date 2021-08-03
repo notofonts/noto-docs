@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Serif Ahom"
+nav_order: 100
 ---
 Noto Serif Ahom is a modulated (“serif”) design for texts in the Southeast Asian _Ahom_ script. 
 

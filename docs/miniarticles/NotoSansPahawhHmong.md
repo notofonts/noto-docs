@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Pahawh Hmong"
+nav_order: 100
 ---
 Noto Sans Pahawh Hmong is an unmodulated (“sans serif”) design for texts in the East Asian _Pahawh Hmong_ script. 
 

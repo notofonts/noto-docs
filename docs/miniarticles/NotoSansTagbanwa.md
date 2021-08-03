@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Tagbanwa"
+nav_order: 100
 ---
 Noto Sans Tagbanwa is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Tagbanwa_ script. 
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Canadian Aboriginal"
+nav_order: 100
 ---
 Noto Sans Canadian Aboriginal is an unmodulated (“sans serif”) design for texts in the American _Canadian Aboriginal syllabics_ script. 
 

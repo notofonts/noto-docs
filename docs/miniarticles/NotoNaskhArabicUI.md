@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Naskh Arabic UI"
+nav_order: 100
 ---
 Noto Naskh Arabic UI is a modulated (“serif”) Naskh design for app and website user interfaces in the Middle Eastern _Arabic_ script. 
 

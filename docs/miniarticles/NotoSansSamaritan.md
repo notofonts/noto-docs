@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Samaritan"
+nav_order: 100
 ---
 Noto Sans Samaritan is an unmodulated (“sans serif”) design for texts in the Middle Eastern _Samaritan_ script. 
 

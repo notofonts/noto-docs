@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Traditional Nushu"
+nav_order: 100
 ---
 Noto Traditional Nushu is an unmodulated (“sans serif”) design in multiple weights for the East Asian _Nüshu_ script, with a calligraphic skeleton and a compact appearance. It is suitable for texts in medium font sizes, and for headlines. 
 

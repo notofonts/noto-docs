@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Serif CJK SC"
+nav_order: 100
 ---
 Noto Serif SC is a modulated (“serif”) design for languages in mainland China that use the _Simplified Chinese_ variant of the Han ideograms. It also supports _Hiragana, Katakana, Latin, Cyrillic, Greek_ and _Hangul_. 
 

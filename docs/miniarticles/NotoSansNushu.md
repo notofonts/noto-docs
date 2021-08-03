@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Nushu"
+nav_order: 100
 ---
 Noto Sans Nushu is an unmodulated (“sans serif”) design for the East Asian _Nüshu_ script with a simplified skeleton and large counters. It is suitable for shorter texts, especially in smaller font sizes and user interface contexts. 
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Batak"
+nav_order: 100
 ---
 Noto Sans Batak is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Batak_ script. 
 

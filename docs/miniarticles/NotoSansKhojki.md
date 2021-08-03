@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Khojki"
+nav_order: 100
 ---
 Noto Sans Khojki is an unmodulated (“sans serif”) design for texts in the Indic _Khojki_ script. 
 

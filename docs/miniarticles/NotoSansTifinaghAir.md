@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Tifinagh Air"
+nav_order: 100
 ---
 Noto Sans Tifinagh Air is an unmodulated (“sans serif”) design in the Air variant for texts in the African _Tifinagh_ script. 
 

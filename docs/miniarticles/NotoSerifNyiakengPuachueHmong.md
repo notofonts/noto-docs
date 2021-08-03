@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Serif Nyiakeng Puachue Hmong"
+nav_order: 100
 ---
 Noto Serif Nyiakeng Puachue Hmong is a modulated (“serif”) design for texts in the _Nyiakeng Puachue Hmong_ script. 
 

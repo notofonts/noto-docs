@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Multani"
+nav_order: 100
 ---
 Noto Sans Multani is an unmodulated (“sans serif”) design for texts in the historical Indic _Multani_ script. 
 

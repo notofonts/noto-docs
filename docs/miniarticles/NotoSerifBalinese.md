@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Serif Balinese"
+nav_order: 100
 ---
 Noto Serif Balinese is a modulated (“serif”) design for texts in the Southeast Asian _Balinese_ script. 
 

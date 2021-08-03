@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Linear B"
+nav_order: 100
 ---
 Noto Sans Linear B is an unmodulated (“sans serif”) design for texts in the historical European _Linear B_ script. 
 

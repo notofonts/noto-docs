@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Newa"
+nav_order: 100
 ---
 Noto Sans Newa is an unmodulated (“sans serif”) design for texts in the Indic _Newa (Newari)_ script. 
 

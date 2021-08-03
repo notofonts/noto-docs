@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Bhaiksuki"
+nav_order: 100
 ---
 Noto Sans Bhaiksuki is an unmodulated (“sans serif”) design for texts in the historical Indic _Bhaiksuki_ script. 
 

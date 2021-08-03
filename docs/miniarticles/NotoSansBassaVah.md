@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Bassa Vah"
+nav_order: 100
 ---
 Noto Sans Bassa Vah is an unmodulated (“sans serif”) design for texts in the African _Bassa Vah_ script. 
 

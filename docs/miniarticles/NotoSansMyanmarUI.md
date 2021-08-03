@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Myanmar UI"
+nav_order: 100
 ---
 Noto Sans Myanmar UI is an unmodulated (“sans serif”) design for app and website user interfaces in the Southeast Asian _Myanmar_ script. 
 

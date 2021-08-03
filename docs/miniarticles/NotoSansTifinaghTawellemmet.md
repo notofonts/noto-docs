@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Tifinagh Tawellemmet"
+nav_order: 100
 ---
 Noto Sans Tifinagh Tawellemmet is an unmodulated (“sans serif”) design in the Tawellemmet variant for texts in the African _Tifinagh_ script. 
 

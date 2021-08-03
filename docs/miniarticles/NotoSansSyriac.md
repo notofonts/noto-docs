@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Syriac"
+nav_order: 100
 ---
 Noto Sans Syriac is an unmodulated (“sans serif”) design for texts in the Middle Eastern _Syriac_ script. 
 

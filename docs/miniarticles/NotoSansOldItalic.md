@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Old Italic"
+nav_order: 100
 ---
 Noto Sans Old Italic is an unmodulated (“sans serif”) design for texts in the historical European _Old Italic_ script. 
 

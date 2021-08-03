@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Old Permic"
+nav_order: 100
 ---
 Noto Sans Old Permic is an unmodulated (“sans serif”) design for texts in the historical European _Old Permic_ script. 
 

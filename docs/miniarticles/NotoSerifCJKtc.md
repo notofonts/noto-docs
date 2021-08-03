@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Serif CJK TC"
+nav_order: 100
 ---
 Noto Serif TC is a modulated (“serif”) design for languages in Taiwan, Hong Kong and Macau that use the _Traditional Chinese_ variant of the Han ideograms. It also supports _Hiragana, Katakana, Latin, Cyrillic, Greek_ and _Hangul_. 
 

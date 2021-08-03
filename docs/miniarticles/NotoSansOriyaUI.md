@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Oriya UI"
+nav_order: 100
 ---
 Noto Sans Oriya UI is an unmodulated (“sans serif”) design for app and website user interfaces in the Indic _Odia (Oriya)_ script. 
 

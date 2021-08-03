@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Noto Sans Tifinagh Ghat"
+nav_order: 100
 ---
 Noto Sans Tifinagh Ghat is an unmodulated (“sans serif”) design in the Ghat variant for texts in the African _Tifinagh_ script. 
 
