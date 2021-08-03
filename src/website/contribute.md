@@ -58,7 +58,7 @@ Since Noto is available in many places, when you report a problem with a par
 
 - To report a problem with any Noto font except CJK and emoji, [open an issue](https://github.com/googlefonts/noto-fonts/issues) in the [noto-fonts](https://github.com/googlefonts/noto-fonts/) repository.
 
-- To report a problem with Noto Sans CJK or Noto Serif CJK, [open an issue](https://github.com/googlefonts/noto-cjk/issues) in the [noto-cjk](https://github.com/googlefonts/noto-cjk/) repository.
+- To report a problem with Noto Sans CJK or Noto Serif CJK (SC, TC, JP, KR, HK), [open an issue](https://github.com/googlefonts/noto-cjk/issues) in the [noto-cjk](https://github.com/googlefonts/noto-cjk/) repository.
 
 - To report a problem with Noto Color Emoji or Noto Emoji, or with the tools used to build these fonts, [open an issue](https://github.com/googlefonts/noto-emoji/issues) in the [noto-emoji](https://github.com/googlefonts/noto-emoji/) repository.
 

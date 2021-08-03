@@ -26,17 +26,17 @@ For Arabic, Indic, and Southeast Asian scripts, the additional **Noto Sans UI** 
 
 ### Noto families
 
-The Noto font collection is modular. The **main** [Noto Sans](../noto/Noto+Sans) and [Noto Serif](../noto/Noto+Serif) families (without any suffixes) have letters for languages that use the Latin, Cyrillic, and Greek alphabets. If you have text any language that uses these scripts (like English, German, Polish, Russian, Greek), use these fonts. They also contain many characters used across scripts, like punctuation, European digits, currency symbols, or diacrtitical marks. The fonts also contain the phonetic alphabet (IPA), and characters used in linguistic research.
+The Noto font collection is modular. The **main** [Noto Sans](../specimen/Noto+Sans) and [Noto Serif](../specimen/Noto+Serif) families (without any suffixes) have letters for languages that use the Latin, Cyrillic, and Greek alphabets. If you have text any language that uses these scripts (like English, German, Polish, Russian, Greek), use these fonts. They also contain many characters used across scripts, like punctuation, European digits, currency symbols, or diacrtitical marks. The fonts also contain the phonetic alphabet (IPA), and characters used in linguistic research.
 
 The main Noto Sans and Noto Serif families include **italic** fonts intended for emphasis. Both also have corresponding **Display** families intended for larger optical sizes (like headlines and titles).
 
 If you have text in another language, find the Noto font that supports that language, and use it together with the corresponding main font.
 
-If you have text in multiple languages that use different scripts, either the app or the person who typesets the text needs to switch between the different fonts accordingly. For example, [Noto Sans Armenian](../noto/Noto+Sans+Armenian) only has Armenian-script letters. But Armenian text also contains digits, punctuation, it may also contain terms written in Latin or Cyrillic scripts, so you also need the main Noto Sans fonts.
+If you have text in multiple languages that use different scripts, either the app or the person who typesets the text needs to switch between the different fonts accordingly. For example, [Noto Sans Armenian](../specimen/Noto+Sans+Armenian) only has Armenian-script letters. But Armenian text also contains digits, punctuation, it may also contain terms written in Latin or Cyrillic scripts, so you also need the main Noto Sans fonts.
 
 Some apps can switch fonts automatically. For example in CSS, you can specify multiple font families in a “stack”, and the browser will use the next font if the previous font does not support the necessary characters. In other apps like Microsoft Word or Adobe InDesign you can define a separate “character style” for each script.
 
-Use [Noto Sans Symbols](../noto/Noto+Sans+Symbols) for boxed and circled letters, astronomical, chemical, and alchemical symbols, and [Noto Sans Symbols2](../noto/Noto+Sans+Symbols2) for Braille letters, dingbats, arrows, and chess symbols.
+Use [Noto Sans Symbols](../specimen/Noto+Sans+Symbols) for boxed and circled letters, astronomical, chemical, and alchemical symbols, and [Noto Sans Symbols 2](../specimen/Noto+Sans+Symbols+2) for Braille letters, dingbats, arrows, and chess symbols.
 
 If you want fonts for continuous reading, like blog posts, articles or essays, you may choose Noto Serif. If a script or a language doesn’t have a Noto Serif design, use the corresponding Noto Sans font.
 
@@ -66,7 +66,7 @@ If you’re not sure that your app or system supports variable fonts, install th
 
 To use Noto fonts on your computer (a notebook or desktop), you should download the font families you’re interested in and install them.
 
-1. Click the <samp>Fonts</samp> tab to go to the Noto [font selector](../noto/), which shows samples of all fonts from the Noto font collection.
+1. Click the <samp>Fonts</samp> tab to go to the Noto [font selector](../), which shows samples of all fonts from the Noto font collection.
 
 2. In the search box, type the name of the style (like <samp>Serif</samp>) or script (like <samp>Devanagari</samp>) or language (like <samp>Russian</samp>) or region (like <samp>India</samp>), or click the region or language dropdown to filter the collection.
 
@@ -154,7 +154,7 @@ When readers visit your website, their browsers will automatically download the 
 
 ### Select the fonts
 
-1. Click the <samp>Fonts</samp> tab to go to the Noto [font selector](../noto/), which shows samples of all fonts from the Noto font collection.
+1. Click the <samp>Fonts</samp> tab to go to the Noto [font selector](../), which shows samples of all fonts from the Noto font collection.
 
 2. In the search box, type the name of the style (like <samp>Serif</samp>) or script (like <samp>Devanagari</samp>) or language (like <samp>Russian</samp>) or region (like <samp>India</samp>), or click the region or language dropdown to filter the collection.
 
@@ -186,11 +186,11 @@ The Noto collection has separate fonts for different scripts, so you should only
 
 In the CSS `font-family` property, you can specify a “family stack”: multiple font families separated by commas. When the first font does not contain characters necessary to render the text, the browser uses font **fallback**: it tries the second font, then third and so on. When none of the fonts support a particular character, the browser uses the default system font.
 
-If your website is in a non-European language (for example Hindi) and you’re using a sans serif design, select the appropriate style (like Regular) from the script-specific family (like [Noto Sans Devanagari](../noto/Noto+Sans+Devanagari)), and the corresponding style from the main [Noto Sans](../noto/Noto+Sans) family. The Noto Sans family has punctuation signs, digits and other characters that your text may use. Also select [Noto Sans Symbols2](../noto/Noto+Sans+Symbols2) if your website text uses arrows or dingbats.
+If your website is in a non-European language (for example Hindi) and you’re using a sans serif design, select the appropriate style (like Regular) from the script-specific family (like [Noto Sans Devanagari](../specimen/Noto+Sans+Devanagari)), and the corresponding style from the main [Noto Sans](../specimen/Noto+Sans) family. The Noto Sans family has punctuation signs, digits and other characters that your text may use. Also select [Noto Sans Symbols 2](../specimen/Noto+Sans+Symbols+2) if your website text uses arrows or dingbats.
 
-If you’re using a serif design, select the script-specifc serif font like [Noto Serif Devanagari](../noto/Noto+Serif+Devanagari), and the matching font from the main [Noto Serif](../noto/Noto+Serif) family.
+If you’re using a serif design, select the script-specifc serif font like [Noto Serif Devanagari](../specimen/Noto+Serif+Devanagari), and the matching font from the main [Noto Serif](../specimen/Noto+Serif) family.
 
-In the `font-family` property, put the font family for your most important script/language at the very beginning. However, for Chinese, Japanese or Korean, it’s recommended that you put `Noto Sans` before `Noto Sans CJK`, and put `Noto Serif` before `Noto Serif CJK`.
+In the `font-family` property, put the font family for your most important script/language at the very beginning. However, for Chinese, Japanese or Korean, it’s recommended that you put `Noto Sans` before `Noto Sans TC` (or `SC`, `JP` etc.), and put `Noto Serif` before `Noto Serif TC`.
 
 ### Web font use examples
 
@@ -200,20 +200,20 @@ For example, the CSS portion for a website in Hindi and Tamil could look like th
 
 ```css
 body {
-  font-family: 'Noto Sans Devanagari', 'Noto Sans Tamil', 'Noto Sans', 'Noto Sans Symbols2', sans-serif;
+  font-family: 'Noto Sans Devanagari', 'Noto Sans Tamil', 'Noto Sans', 'Noto Sans Symbols 2', sans-serif;
 }
 ```
 
 For a Japanese website, the `font-family` property would be:
 
 ```css
-font-family: 'Noto Sans', 'Noto Sans CJK JP', sans-serif;
+font-family: 'Noto Sans', 'Noto Sans JP', sans-serif;
 ```
 
 For buttons and other UI elements of an Arabic website:
 
 ```css
-font-family: 'Noto Sans Arabic UI', 'Noto Sans UI', sans-serif;
+font-family: 'Noto Sans Arabic UI', 'Noto Sans', sans-serif;
 ```
 
 For a website targeting Armenian and Georgian users who prefer serif style:
@@ -301,48 +301,48 @@ However, letters in Arabic, Indic, and Southeast Asian scripts often connect bot
 
 | **Languages or scripts** | **Noto fonts to use** |
 |---|---|
-| Latin, Cyrillic, or Greek scripts | [Noto Sans](../noto/Noto+Sans) for user interfaces and for documents |
-| [Bengali](../noto/Noto+Sans+Bengali+UI/), [Devanagari](../noto/Noto+Sans+Devanagari+UI/), [Gujarati](../noto/Noto+Sans+Gujarati+UI/), [Gurmukhi](../noto/Noto+Sans+Gurmukhi+UI/), [Kannada](../noto/Noto+Sans+Kannada+UI/), [Khmer](../noto/Noto+Sans+Khmer+UI/), [Lao](../noto/Noto+Sans+Lao+UI/), [Malayalam](../noto/Noto+Sans+Malayalam+UI/), [Myanmar](../noto/Noto+Sans+Myanmar+UI/), [Oriya](../noto/Noto+Sans+Oriya+UI/), [Sinhala](../noto/Noto+Sans+Sinhala+UI/), [Tamil](../noto/Noto+Sans+Tamil+UI/), [Telugu](../noto/Noto+Sans+Telugu+UI/), [Thai](../noto/Noto+Sans+Thai+UI/) | Noto Sans with the script and “UI” suffixes for user interfaces with limited vertical space, fonts without the “UI” suffix for documents |
-| Arabic | [Noto Sans Arabic UI](../noto/Noto+Sans+Arabic+UI/) or [Noto Naskh Arabic UI](../noto/Noto+Naskh+Arabic+UI/) for user interfaces with limited vertical space, fonts without the UI suffix for documents |
+| Latin, Cyrillic, or Greek scripts | [Noto Sans](../specimen/Noto+Sans) for user interfaces and for documents |
+| [Bengali](../specimen/Noto+Sans+Bengali+UI/), [Devanagari](../specimen/Noto+Sans+Devanagari+UI/), [Gujarati](../specimen/Noto+Sans+Gujarati+UI/), [Gurmukhi](../specimen/Noto+Sans+Gurmukhi+UI/), [Kannada](../specimen/Noto+Sans+Kannada+UI/), [Khmer](../specimen/Noto+Sans+Khmer+UI/), [Lao](../specimen/Noto+Sans+Lao+UI/), [Malayalam](../specimen/Noto+Sans+Malayalam+UI/), [Myanmar](../specimen/Noto+Sans+Myanmar+UI/), [Oriya](../specimen/Noto+Sans+Oriya+UI/), [Sinhala](../specimen/Noto+Sans+Sinhala+UI/), [Tamil](../specimen/Noto+Sans+Tamil+UI/), [Telugu](../specimen/Noto+Sans+Telugu+UI/), [Thai](../specimen/Noto+Sans+Thai+UI/) | Noto Sans with the script and “UI” suffixes for user interfaces with limited vertical space, fonts without the “UI” suffix for documents |
+| Arabic | [Noto Sans Arabic UI](../specimen/Noto+Sans+Arabic+UI/) or [Noto Naskh Arabic UI](../specimen/Noto+Naskh+Arabic+UI/) for user interfaces with limited vertical space, fonts without the UI suffix for documents |
 | Armenian, Cherokee, Ethiopic, Georgian, Hebrew, and other scripts | Noto Sans with the script suffix for user interfaces and for documents |
 
 ### Which Noto fonts should I use for the Adlam script?
 
 Noto has two Noto Sans fonts for the Adlam script that is used to write the Fulani language of Central and West Africa:
 
-- [Noto Sans Adlam](../noto/Noto+Sans+Adlam/), an unmodulated design with joining (cursive) letters, suitable for most texts.
+- [Noto Sans Adlam](../specimen/Noto+Sans+Adlam/), an unmodulated design with joining (cursive) letters, suitable for most texts.
 
-- [Noto Sans Adlam Unjoined](../noto/Noto+Sans+Adlam+Unjoined/), an unmodulated design with unjoined (block) letters, suitable for headlines and for educational content.
+- [Noto Sans Adlam Unjoined](../specimen/Noto+Sans+Adlam+Unjoined/), an unmodulated design with unjoined (block) letters, suitable for headlines and for educational content.
 
 ### Which Noto fonts should I use for the Arabic script?
 
 Noto has six font families for the Arabic script:
 
-- [Noto Sans Arabic](../noto/Noto+Sans+Arabic/), an unmodulated design, suitable for all uses.
+- [Noto Sans Arabic](../specimen/Noto+Sans+Arabic/), an unmodulated design, suitable for all uses.
 
-- [Noto Sans Arabic UI](../noto/Noto+Sans+Arabic+UI/), a variant of the Sans design for user interfaces with limited vertical space.
+- [Noto Sans Arabic UI](../specimen/Noto+Sans+Arabic+UI/), a variant of the Sans design for user interfaces with limited vertical space.
 
-- [Noto Kufi Arabic](../noto/Noto+Kufi+Arabic/), a simplified unmodulated design in the Kufi (or Kufic) style of Arabic lettering. Noto Kufi Arabic is more simplified than Noto Sans Arabic, and is suitable for headlines and short texts for example in packaging or advertising.
+- [Noto Kufi Arabic](../specimen/Noto+Kufi+Arabic/), a simplified unmodulated design in the Kufi (or Kufic) style of Arabic lettering. Noto Kufi Arabic is more simplified than Noto Sans Arabic, and is suitable for headlines and short texts for example in packaging or advertising.
 
-- [Noto Naskh Arabic](../noto/Noto+Naskh+Arabic/), a modulated font in the Naskh style of Arabic calligraphy, which is suitable for longer texts. Noto Naskh Arabic can be used together with Noto Serif fonts for other scripts.
+- [Noto Naskh Arabic](../specimen/Noto+Naskh+Arabic/), a modulated font in the Naskh style of Arabic calligraphy, which is suitable for longer texts. Noto Naskh Arabic can be used together with Noto Serif fonts for other scripts.
 
-- [Noto Naskh Arabic UI](../noto/Noto+Naskh+Arabic+UI/), a variant of the Naskh design for user interfaces with limited vertical space.
+- [Noto Naskh Arabic UI](../specimen/Noto+Naskh+Arabic+UI/), a variant of the Naskh design for user interfaces with limited vertical space.
 
-- [Noto Nastaliq Urdu](../noto/Noto+Nastaliq+Urdu/), a modulated cursive font in the Nastaliq style of Persian calligraphy, predominantly used for the Urdu language. The Nastaliq style was developed in Iran in the 15th century, and is used for the Persian, Urdu and Turkic languages that use the Arabic script.
+- [Noto Nastaliq Urdu](../specimen/Noto+Nastaliq+Urdu/), a modulated cursive font in the Nastaliq style of Persian calligraphy, predominantly used for the Urdu language. The Nastaliq style was developed in Iran in the 15th century, and is used for the Persian, Urdu and Turkic languages that use the Arabic script.
 
 ### Which Noto fonts should I use for Chinese, Japanese or Korean?
 
 The Noto collection includes two font families Chinese, Japanese and Korean languages: Noto Sans CJK, an unmodulated design, and Noto Serif CJK, a modulated design. Each of these families has 7 weights, and Noto Sans CJK is also available as a variable font. These fonts are available in language variants:
 
-- [Noto Sans CJK HK](../noto/Noto+Sans+CJK+HK/) for the Traditional Chinese language variant used in Hong Kong.
+- [Noto Sans JP](../specimen/Noto+Sans+JP/) and [Noto Serif JP](../specimen/Noto+Serif+JP/) for the Japanese language.
 
-- [Noto Sans CJK JP](../noto/Noto+Sans+CJK+JP/) and [Noto Serif CJK JP](../noto/Noto+Serif+CJK+JP/) for the Japanese language.
+- [Noto Sans SC](../specimen/Noto+Sans+SC/) and [Noto Serif SC](../specimen/Noto+Serif+SC/) for the Simplified Chinese language variant used in the mainland People’s Republic of China.
 
-- [Noto Sans CJK KR](../noto/Noto+Sans+CJK+KR/) and [Noto Serif CJK KR](../noto/Noto+Serif+CJK+KR/) for the Korean language.
+- [Noto Sans TC](../specimen/Noto+Sans+TC/) and [Noto Serif TC](../specimen/Noto+Serif+TC/) for the Traditional Chinese language variant used in Taiwan.
 
-- [Noto Sans CJK SC](../noto/Noto+Sans+CJK+SC/) and [Noto Serif CJK SC](../noto/Noto+Serif+CJK+SC/) for the Simplified Chinese language variant used in the mainland People’s Republic of China.
+- [Noto Sans HK](../specimen/Noto+Sans+HK/) for the Traditional Chinese language variant used in Hong Kong.
 
-- [Noto Sans CJK TC](../noto/Noto+Sans+CJK+TC/) and [Noto Serif CJK TC](../noto/Noto+Serif+CJK+TC/) for the Traditional Chinese language variant used in Taiwan.
+- [Noto Sans KR](../specimen/Noto+Sans+KR/) and [Noto Serif KR](../specimen/Noto+Serif+KR/) for the Korean language.
 
 The Noto Sans CJK fonts contain all Han ideographs included in the Basic Multilingual Plane (BMP) of the Unicode Standard plus over 2,000 non-BMP Han ideographs.
 
@@ -350,11 +350,11 @@ The Noto Sans CJK fonts contain all Han ideographs included in the Basic Multili
 
 Noto has three font families for the Hebrew script:
 
-- [Noto Sans Hebrew](../noto/Noto+Sans+Hebrew/), an unmodulated design with a “square” skeleton and no stroke modulation, suitable for all uses.
+- [Noto Sans Hebrew](../specimen/Noto+Sans+Hebrew/), an unmodulated design with a “square” skeleton and no stroke modulation, suitable for all uses.
 
-- [Noto Serif Hebrew](../noto/Noto+Serif+Hebrew/), a modulated design with a “square” skeleton, suitable for longer texts.
+- [Noto Serif Hebrew](../specimen/Noto+Serif+Hebrew/), a modulated design with a “square” skeleton, suitable for longer texts.
 
-- [Noto Rashi Hebrew](../noto/Noto+Rashi+Hebrew/), a modulated design with a semi-cursive skeleton based on 15th-century Sephardic writing. It can be used for emphasis, complementing Noto Serif Hebrew. This type of design was used by early Hebrew typographers to set rabbinic commentary in the Talmud and Tanakh, while the primary text was set in a “square” Serif typeface.
+- [Noto Rashi Hebrew](../specimen/Noto+Rashi+Hebrew/), a modulated design with a semi-cursive skeleton based on 15th-century Sephardic writing. It can be used for emphasis, complementing Noto Serif Hebrew. This type of design was used by early Hebrew typographers to set rabbinic commentary in the Talmud and Tanakh, while the primary text was set in a “square” Serif typeface.
 
 ### Which fonts should I use for the emoji characters?
 
@@ -362,7 +362,7 @@ Unicode includes over 3,500 emoji characters. Each operating system uses a diffe
 
 The Noto collection includes two fonts that contain emoji characters:
 
-- [Noto Emoji](../noto/Noto+Emoji/), a monochrome (non-color) font in TrueType-flavored OpenType format. It only contains about 25% of all encoded emoji but has scalable monochrome glyphs. It is intended for limited use in print publications, on monochrome displays, and in other scenarios where multiple colors cannot be reproduced.
+- [Noto Emoji](../specimen/Noto+Emoji/), a monochrome (non-color) font in TrueType-flavored OpenType format. It only contains about 25% of all encoded emoji but has scalable monochrome glyphs. It is intended for limited use in print publications, on monochrome displays, and in other scenarios where multiple colors cannot be reproduced.
 
 - _Noto Color Emoji_, a multi-color font in the OpenType CBDT format. The font supports all emoji in Unicode 13 and beyond, but only works in Android, in Google Chrome and in apps that support the CBDT format. There is also a version of this font that works on Windows 10.
 
@@ -372,23 +372,23 @@ If you want to use the Noto Color Emoji fonts, [download them](https://github.co
 
 Noto has five font families for the Lao script, and five for the Thai script:
 
-- [Noto Looped Lao](../noto/Noto+Looped+Lao/) and [Noto Looped Thai](../noto/Noto+Looped+Thai/), unmodulated designs in the more traditional style that includes loops, suitable for all uses including longer texts.
+- [Noto Looped Lao](../specimen/Noto+Looped+Lao/) and [Noto Looped Thai](../specimen/Noto+Looped+Thai/), unmodulated designs in the more traditional style that includes loops, suitable for all uses including longer texts.
 
-- [Noto Looped Lao UI](../noto/Noto+Looped+Lao+UI/) and [Noto Looped Thai UI](../noto/Noto+Looped+Thai+UI/), variants of the Looped designs for user interfaces with limited vertical space.
+- [Noto Looped Lao UI](../specimen/Noto+Looped+Lao+UI/) and [Noto Looped Thai UI](../specimen/Noto+Looped+Thai+UI/), variants of the Looped designs for user interfaces with limited vertical space.
 
-- [Noto Sans Lao](../noto/Noto+Sans+Lao/) and [Noto Sans Thai](../noto/Noto+Sans+Thai/), unmodulated designs in the more modern loopless style, suitable for all uses, particularly headlines, packaging and advertising.
+- [Noto Sans Lao](../specimen/Noto+Sans+Lao/) and [Noto Sans Thai](../specimen/Noto+Sans+Thai/), unmodulated designs in the more modern loopless style, suitable for all uses, particularly headlines, packaging and advertising.
 
-- [Noto Sans Lao UI](../noto/Noto+Sans+Lao+UI/) and [Noto Sans Thai UI](../noto/Noto+Sans+Thai+UI/), variants of the Sans designs for user interfaces with limited vertical space.
+- [Noto Sans Lao UI](../specimen/Noto+Sans+Lao+UI/) and [Noto Sans Thai UI](../specimen/Noto+Sans+Thai+UI/), variants of the Sans designs for user interfaces with limited vertical space.
 
-- [Noto Serif Lao](../noto/Noto+Serif+Lao/) and [Noto Serif Thai](../noto/Noto+Serif+Thai/), modulated looped designs suitable for longer texts.
+- [Noto Serif Lao](../specimen/Noto+Serif+Lao/) and [Noto Serif Thai](../specimen/Noto+Serif+Thai/), modulated looped designs suitable for longer texts.
 
 ### Which Noto fonts should I use for the Nüshu script?
 
 Noto has two font families for the Nüshu script:
 
-- [Noto Sans Nushu](../noto/Noto+Sans+Nushu/), an unmodulated design in one weight, with a simplified, modernized skeleton and relatively large counters. It is suitable for shorter texts, especially in smaller font sizes and user interface contexts.
+- [Noto Sans Nushu](../specimen/Noto+Sans+Nushu/), an unmodulated design in one weight, with a simplified, modernized skeleton and relatively large counters. It is suitable for shorter texts, especially in smaller font sizes and user interface contexts.
 
-- [Noto Traditional Nushu](../noto/Noto+Traditional+Nushu/), an unmodulated design in three weights, with a more calligraphic skeleton and a more compact appearance. It is suitable for longer texts, especially those set in medium font sizes, and for headlines.
+- [Noto Traditional Nushu](../specimen/Noto+Traditional+Nushu/), an unmodulated design in three weights, with a more calligraphic skeleton and a more compact appearance. It is suitable for longer texts, especially those set in medium font sizes, and for headlines.
 
 ### Why do some Noto Sans fonts have modulated strokes?
 
@@ -400,19 +400,19 @@ Not all writing systems have the same history. Users of some scripts prefer to a
 
 ### Which Noto monospace fonts should I use?
 
-Noto has several monospace fonts:
+On the Google Fonts website,
 
-- [Noto Sans Mono](../noto/Noto+Sans+Mono/), a monospace font for languages written in Latin, Cyrillic and Greek scripts, in multiple weights.
+- [Noto Sans Mono](../specimen/Noto+Sans+Mono/), a monospace font for languages written in Latin, Cyrillic and Greek scripts, in multiple weights.
 
-- [Noto Sans Mono CJK HK](../noto/Noto+Sans+Mono+CJK+HK/), a monospace font for the Traditional Chinese language variant used in Hong Kong, in two weights.
+- [Noto Sans Mono CJK HK](../specimen/Noto+Sans+Mono+CJK+HK/), a monospace font for the Traditional Chinese language variant used in Hong Kong, in two weights.
 
-- [Noto Sans Mono CJK JP](../noto/Noto+Sans+Mono+CJK+JP/), a monospace font for the Japanese language, in two weights.
+- [Noto Sans Mono CJK JP](../specimen/Noto+Sans+Mono+CJK+JP/), a monospace font for the Japanese language, in two weights.
 
-- [Noto Sans Mono CJK KR](../noto/Noto+Sans+Mono+CJK+KR/), a monospace font for the Korean language, in two weights.
+- [Noto Sans Mono CJK KR](../specimen/Noto+Sans+Mono+CJK+KR/), a monospace font for the Korean language, in two weights.
 
-- [Noto Sans Mono CJK SC](../noto/Noto+Sans+Mono+CJK+SC/), a monospace font for the Simplified Chinese language variant used in the People’s Republic of China, in two weights.
+- [Noto Sans Mono CJK SC](../specimen/Noto+Sans+Mono+CJK+SC/), a monospace font for the Simplified Chinese language variant used in the People’s Republic of China, in two weights.
 
-- [Noto Sans Mono CJK TC](../noto/Noto+Sans+Mono+CJK+TC/), a monospace font for the Traditional Chinese language variant used in Taiwan, in two weights.
+- [Noto Sans Mono CJK TC](../specimen/Noto+Sans+Mono+CJK+TC/), a monospace font for the Traditional Chinese language variant used in Taiwan, in two weights.
 
 For most use cases such as programming code, use Noto Sans Mono.
 
