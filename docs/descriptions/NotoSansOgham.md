@@ -1,0 +1,1 @@
+Noto Sans Ogham is an unmodulated (“sans serif”) design for texts in the historical European _Ogham_ script. It has 34 glyphs.

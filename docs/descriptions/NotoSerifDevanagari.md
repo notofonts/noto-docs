@@ -1,0 +1,1 @@
+Noto Serif Devanagari is a modulated (“serif”) design for texts in the Indic _Devanagari_ script. It has multiple weights and widths, and 871 glyphs.

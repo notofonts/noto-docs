@@ -1,0 +1,1 @@
+Noto Sans Tagbanwa is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Tagbanwa_ script. It has 29 glyphs.

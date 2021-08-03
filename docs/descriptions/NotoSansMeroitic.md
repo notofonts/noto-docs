@@ -1,0 +1,1 @@
+Noto Sans Meroitic is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Meroitic Hieroglyphs_ and _Cursive_ scripts. It has 133 glyphs.

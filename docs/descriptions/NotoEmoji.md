@@ -1,0 +1,1 @@
+Noto Emoji is a monochrome (non-color) scalable OpenType format. It only contains about 25% of all encoded _emoji_ symbols, and is intended for limited use in print publications and where multiple colors cannot be reproduced. It has 888 glyphs.

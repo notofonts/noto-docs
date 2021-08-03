@@ -1,0 +1,1 @@
+Noto Sans Cham is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Cham_ script. It has multiple weights and 131 glyphs.

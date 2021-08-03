@@ -1,1 +1,0 @@
-Noto Sans Gujarati UI is an unmodulated (“sans serif”) design for app and website user interfaces in the Indic _Gujarati_ script. It contains 816 glyphs, 16 OpenType features, and supports 164 characters from 5 Unicode blocks.

@@ -1,0 +1,1 @@
+Noto Sans Ol Chiki is an unmodulated (“sans serif”) design for texts in the Indic _Ol Chiki_ script. It has multiple weights and 55 glyphs.

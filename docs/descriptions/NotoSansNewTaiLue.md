@@ -1,0 +1,1 @@
+Noto Sans New Tai Lue is an unmodulated (“sans serif”) design for texts in the Southeast Asian _New Tai Lue_ script. It has 95 glyphs.

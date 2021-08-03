@@ -1,1 +1,0 @@
-Noto Looped Lao UI is an unmodulated (“sans serif”) design in the more traditional, looped variant of the Southeast Asian _Lao_ script, suitable for app and website user interfaces. It contains 151 glyphs, 9 OpenType features, and supports 106 characters from 4 Unicode blocks.

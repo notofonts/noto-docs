@@ -1,0 +1,1 @@
+Noto Sans Limbu is an unmodulated (“sans serif”) design for texts in the Indic _Limbu_ script. It has 79 glyphs.

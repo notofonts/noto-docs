@@ -1,0 +1,1 @@
+Noto Sans Balinese is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Balinese_ script. It has multiple weights and 361 glyphs.

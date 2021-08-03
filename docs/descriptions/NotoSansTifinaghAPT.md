@@ -1,0 +1,1 @@
+Noto Sans Tifinagh APT is an unmodulated (“sans serif”) design in the APT variant for texts in the African _Tifinagh_ script. It has 167 glyphs.

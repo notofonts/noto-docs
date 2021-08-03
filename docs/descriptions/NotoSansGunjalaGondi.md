@@ -1,0 +1,1 @@
+Noto Sans Gunjala Gondi is an unmodulated (“sans serif”) design for texts in the Indic _Gunjala Gondi_ script. It has 254 glyphs.

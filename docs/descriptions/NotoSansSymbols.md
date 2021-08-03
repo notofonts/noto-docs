@@ -1,0 +1,1 @@
+Noto Sans Symbols is an unmodulated (“sans serif”) design for texts in Symbols. It has multiple weights and 1,224 glyphs.

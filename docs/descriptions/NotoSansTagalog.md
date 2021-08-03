@@ -1,0 +1,1 @@
+Noto Sans Tagalog is an unmodulated (“sans serif”) design for texts in the historical Southeast Asian _Tagalog_ script. It has 31 glyphs.

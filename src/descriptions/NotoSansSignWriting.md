@@ -1,1 +1,0 @@
-Noto Sans SignWriting is an unmodulated (“sans serif”) design for texts in the Sign-Language _SignWriting_ script. It contains 37,886 glyphs, 4 OpenType features, and supports 679 characters.

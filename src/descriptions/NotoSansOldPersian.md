@@ -1,1 +1,0 @@
-Noto Sans Old Persian is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Old Persian_ script. It has multiple weights, contains 55 glyphs, and supports 54 characters.

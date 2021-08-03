@@ -1,0 +1,1 @@
+Noto Sans Anatolian Hieroglyphs is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Anatolian hieroglyphs_ script. It has 589 glyphs.

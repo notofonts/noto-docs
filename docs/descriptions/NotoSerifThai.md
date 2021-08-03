@@ -1,0 +1,1 @@
+Noto Serif Thai is a modulated (“serif”) design for texts in the Southeast Asian _Thai_ script. It has multiple weights and widths, and 140 glyphs.

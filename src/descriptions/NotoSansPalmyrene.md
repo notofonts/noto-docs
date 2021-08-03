@@ -1,1 +1,0 @@
-Noto Sans Palmyrene is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Palmyrene_ script. It has multiple weights, contains 57 glyphs, and supports 36 characters.

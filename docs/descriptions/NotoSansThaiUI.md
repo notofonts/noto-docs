@@ -1,0 +1,1 @@
+Noto Sans Thai UI is an unmodulated (“sans serif”) design in the more modern, loopless variant of the Southeast Asian _Thai_ script, suitable for app and website user interfaces in the Thai script. It has multiple weights and widths, and 140 glyphs.

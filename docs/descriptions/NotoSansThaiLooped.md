@@ -1,0 +1,1 @@
+Noto Sans Thai Looped is an unmodulated (“sans serif”) design in the Looped variant for texts in the Southeast Asian _Thai_ script. It has 212 glyphs.

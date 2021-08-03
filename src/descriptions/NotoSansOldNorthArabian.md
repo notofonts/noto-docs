@@ -1,1 +1,0 @@
-Noto Sans Old North Arabian is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Old North Arabian_ script. It has multiple weights, contains 37 glyphs, and supports 36 characters.

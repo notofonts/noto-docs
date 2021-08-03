@@ -1,0 +1,1 @@
+Noto Sans Elbasan is an unmodulated (“sans serif”) design for texts in the historical European _Elbasan_ script and in _Greek_. It has 79 glyphs.

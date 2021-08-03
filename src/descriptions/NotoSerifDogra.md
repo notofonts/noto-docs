@@ -1,1 +1,0 @@
-Noto Serif Dogra is a modulated (“serif”) design for texts in the historical Indic _Dogra_ script. It contains 143 glyphs, 8 OpenType features, and supports 69 characters.

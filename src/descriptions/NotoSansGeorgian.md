@@ -1,1 +1,0 @@
-Noto Sans Georgian is an unmodulated (“sans serif”) design for texts in the European _Georgian_ script. It has multiple weights and widths, contains 225 glyphs, 6 OpenType features, and supports 186 characters from 4 Unicode blocks.

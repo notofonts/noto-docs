@@ -1,0 +1,1 @@
+Noto Sans Kayah Li is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Kayah Li_ script. It has multiple weights and 60 glyphs.

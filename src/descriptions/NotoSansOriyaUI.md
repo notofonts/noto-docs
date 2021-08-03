@@ -1,1 +1,0 @@
-Noto Sans Oriya UI is an unmodulated (“sans serif”) design for app and website user interfaces in the Indic _Odia (Oriya)_ script. It has multiple weights and widths, contains 513 glyphs, 20 OpenType features, and supports 150 characters from 3 Unicode blocks.

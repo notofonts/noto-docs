@@ -1,1 +1,0 @@
-Noto Sans Sharada is an unmodulated (“sans serif”) design for texts in the Indic _Sharada_ script. It contains 239 glyphs, 6 OpenType features, and supports 109 characters from 2 Unicode blocks.

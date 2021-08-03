@@ -1,0 +1,1 @@
+Noto Kufi Arabic is a simplified, unmodulated (“sans serif”) Kufi design mainly for texts in larger font sizes in the Middle Eastern _Arabic_ script. It has multiple weights and 733 glyphs.

@@ -1,0 +1,1 @@
+Noto Sans Saurashtra is an unmodulated (“sans serif”) design for texts in the Indic _Saurashtra_ script. It has 96 glyphs.

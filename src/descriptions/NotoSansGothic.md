@@ -1,1 +1,0 @@
-Noto Sans Gothic is an unmodulated (“sans serif”) design for texts in the historical European _Gothic_ script. It has multiple weights, contains 40 glyphs, 2 OpenType features, and supports 35 characters from 2 Unicode blocks.

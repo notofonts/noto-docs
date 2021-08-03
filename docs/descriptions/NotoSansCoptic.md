@@ -1,0 +1,1 @@
+Noto Sans Coptic is an unmodulated (“sans serif”) design for texts in the European _Coptic_ script. It has 224 glyphs.

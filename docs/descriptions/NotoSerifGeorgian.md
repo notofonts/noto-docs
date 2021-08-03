@@ -1,0 +1,1 @@
+Noto Serif Georgian is a modulated (“serif”) design for texts in the European _Georgian_ script. It has multiple weights and widths, and 225 glyphs.

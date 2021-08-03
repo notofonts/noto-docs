@@ -1,0 +1,1 @@
+Noto Serif Khmer is a modulated (“serif”) design for texts in the Southeast Asian _Khmer_ script. It has multiple weights and widths, and 361 glyphs.

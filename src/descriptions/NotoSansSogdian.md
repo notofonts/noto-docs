@@ -1,1 +1,0 @@
-Noto Sans Sogdian is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Sogdian_ script. It contains 345 glyphs, 26 OpenType features, and supports 49 characters.

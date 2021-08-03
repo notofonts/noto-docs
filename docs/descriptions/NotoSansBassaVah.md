@@ -1,0 +1,1 @@
+Noto Sans Bassa Vah is an unmodulated (“sans serif”) design for texts in the African _Bassa Vah_ script. It has 45 glyphs.

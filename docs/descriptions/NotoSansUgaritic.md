@@ -1,0 +1,1 @@
+Noto Sans Ugaritic is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Ugaritic_ script. It has 36 glyphs.

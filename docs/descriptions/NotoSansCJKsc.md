@@ -1,0 +1,1 @@
+Noto Sans SC is an unmodulated (“sans serif”) design for languages in mainland China that use the _Simplified Chinese_ variant of the Han ideograms. It also supports _Hiragana, Katakana, Latin, Cyrillic, Greek_ and _Hangul_. It has 65,535 glyphs.

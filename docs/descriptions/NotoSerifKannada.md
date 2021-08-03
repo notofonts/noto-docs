@@ -1,0 +1,1 @@
+Noto Serif Kannada is a modulated (“serif”) design for texts in the Indic _Kannada_ script. It has multiple weights and 417 glyphs.

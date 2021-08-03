@@ -1,0 +1,1 @@
+Noto Serif JP is a modulated (“serif”) design for the _Japanese_ language and other languages used in Japan. It supports _Hiragana_, _Katakana_, _Kanji_, _Latin, Cyrillic, Greek_ and _Hangul_. It has 65,535 glyphs.

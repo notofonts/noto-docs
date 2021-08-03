@@ -1,1 +1,0 @@
-Noto Sans Duployan is an unmodulated (“sans serif”) design for texts in the American _Duployan shorthand_ script. It contains 158 glyphs, and supports 154 characters.

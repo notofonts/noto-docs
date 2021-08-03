@@ -1,0 +1,1 @@
+Noto Sans Lao Looped is an unmodulated design in the more traditional, looped variant of the Southeast Asian _Lao_ script, suitable for all texts. It has 181 glyphs.

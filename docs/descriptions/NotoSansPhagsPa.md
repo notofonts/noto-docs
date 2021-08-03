@@ -1,0 +1,1 @@
+Noto Sans PhagsPa is an unmodulated (“sans serif”) design for texts in the historical Central Asian _Phags-pa_ script. It has 379 glyphs.

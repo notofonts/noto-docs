@@ -1,1 +1,0 @@
-Noto Serif Gujarati is a modulated (“serif”) design for texts in the Indic _Gujarati_ script. It has multiple weights, contains 456 glyphs, 17 OpenType features, and supports 164 characters from 5 Unicode blocks.

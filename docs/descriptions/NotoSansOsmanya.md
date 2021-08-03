@@ -1,0 +1,1 @@
+Noto Sans Osmanya is an unmodulated (“sans serif”) design for texts in the historical African _Osmanya_ script. It has 45 glyphs.

@@ -1,0 +1,1 @@
+Noto Sans Khudawadi is an unmodulated (“sans serif”) design for texts in the historical Indic _Khudawadi_ script. It has 110 glyphs.

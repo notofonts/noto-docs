@@ -1,0 +1,1 @@
+Noto Sans Mende Kikakui is an unmodulated (“sans serif”) design for texts in the African _Mende_ script. It has 228 glyphs.

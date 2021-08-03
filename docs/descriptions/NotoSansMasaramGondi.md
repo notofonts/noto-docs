@@ -1,0 +1,1 @@
+Noto Sans Masaram Gondi is an unmodulated (“sans serif”) design for texts in the Indic _Masaram Gondi_ script. It has 187 glyphs.

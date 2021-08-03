@@ -1,0 +1,1 @@
+Noto Sans Runic is an unmodulated (“sans serif”) design for texts in the historical European _Runic_ script. It has 94 glyphs.

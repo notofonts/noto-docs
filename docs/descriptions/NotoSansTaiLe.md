@@ -1,0 +1,1 @@
+Noto Sans Tai Le is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Tai Le_ script. It has 71 glyphs.

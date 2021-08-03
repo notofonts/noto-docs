@@ -1,1 +1,0 @@
-Noto Sans Tagbanwa is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Tagbanwa_ script. It has multiple weights, contains 29 glyphs, and supports 28 characters.

@@ -1,1 +1,0 @@
-Noto Sans Khudawadi is an unmodulated (“sans serif”) design for texts in the historical Indic _Khudawadi_ script. It contains 110 glyphs, 5 OpenType features, and supports 90 characters from 2 Unicode blocks.

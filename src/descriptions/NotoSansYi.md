@@ -1,1 +1,0 @@
-Noto Sans Yi is an unmodulated (“sans serif”) design for texts in the East Asian _Yi_ script. It has multiple weights, contains 1,251 glyphs, and supports 1,250 characters from 4 Unicode blocks.

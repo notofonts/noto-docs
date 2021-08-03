@@ -1,0 +1,1 @@
+Noto Sans Old Italic is an unmodulated (“sans serif”) design for texts in the historical European _Old Italic_ script. It has 65 glyphs.

@@ -1,1 +1,0 @@
-Noto Sans Pau Cin Hau is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Pau Cin Hau_ script. It contains 62 glyphs, and supports 61 characters.

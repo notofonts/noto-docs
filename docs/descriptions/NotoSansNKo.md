@@ -1,0 +1,1 @@
+Noto Sans NKo is an unmodulated (“sans serif”) design for texts in the African _N’Ko_ script. It has 184 glyphs.

@@ -1,1 +1,0 @@
-Noto Sans Linear A is an unmodulated (“sans serif”) design for texts in the historical European _Linear A_ script. It has multiple weights, contains 346 glyphs, and supports 345 characters.

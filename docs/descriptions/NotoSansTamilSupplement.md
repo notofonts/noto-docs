@@ -1,0 +1,1 @@
+Noto Sans Tamil Supplement is an unmodulated (“sans serif”) design in the Supplement variant for texts in the Indic _Tamil_ script. It has 54 glyphs.

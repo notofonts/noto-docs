@@ -1,0 +1,1 @@
+Noto Serif Sinhala is a modulated (“serif”) design for texts in the Indic _Sinhala_ script. It has multiple weights and widths, and 645 glyphs.

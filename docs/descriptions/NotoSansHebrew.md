@@ -1,0 +1,1 @@
+Noto Sans Hebrew is an unmodulated (“sans serif”) design for texts in the Middle Eastern _Hebrew_ script. It has multiple weights and widths, and 149 glyphs.

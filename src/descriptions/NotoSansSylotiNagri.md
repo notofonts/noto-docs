@@ -1,1 +1,0 @@
-Noto Sans Syloti Nagri is an unmodulated (“sans serif”) design for texts in the Indic _Syloti Nagri_ script. It has multiple weights, contains 87 glyphs, 3 OpenType features, and supports 68 characters.

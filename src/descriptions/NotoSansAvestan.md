@@ -1,1 +1,0 @@
-Noto Sans Avestan is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Avestan_ script. It has multiple weights, contains 76 glyphs, and supports 71 characters.

@@ -1,1 +1,0 @@
-Noto Sans New Tai Lue is an unmodulated (“sans serif”) design for texts in the Southeast Asian _New Tai Lue_ script. It has multiple weights, contains 95 glyphs, and supports 90 characters.

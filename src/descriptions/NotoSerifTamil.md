@@ -1,1 +1,0 @@
-Noto Serif Tamil is a modulated (“serif”) design for texts in the Indic _Tamil_ script. It has multiple weights and widths, contains 222 glyphs, 10 OpenType features, and supports 147 characters from 5 Unicode blocks.

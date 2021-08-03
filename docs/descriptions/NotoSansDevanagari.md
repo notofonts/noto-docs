@@ -1,0 +1,1 @@
+Noto Sans Devanagari is an unmodulated (“sans serif”) design for texts in the Indic _Devanagari_ script. It has 954 glyphs.

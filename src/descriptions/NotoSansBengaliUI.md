@@ -1,1 +1,0 @@
-Noto Sans Bengali UI is an unmodulated (“sans serif”) design for app and website user interfaces in the Indic _Bangla (Bengali)_ script. It has multiple weights and widths, contains 695 glyphs, 16 OpenType features, and supports 173 characters from 5 Unicode blocks.

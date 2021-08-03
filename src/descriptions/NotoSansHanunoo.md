@@ -1,1 +1,0 @@
-Noto Sans Hanunoo is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Hanunoo_ script. It contains 48 glyphs, 3 OpenType features, and supports 31 characters.

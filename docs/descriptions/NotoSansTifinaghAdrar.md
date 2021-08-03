@@ -1,0 +1,1 @@
+Noto Sans Tifinagh Adrar is an unmodulated (“sans serif”) design in the Adrar variant for texts in the African _Tifinagh_ script. It has 164 glyphs.

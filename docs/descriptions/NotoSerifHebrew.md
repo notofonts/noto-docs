@@ -1,0 +1,1 @@
+Noto Serif Hebrew is a modulated (“serif”) design for texts in the Middle Eastern _Hebrew_ script. It has multiple weights and widths, and 150 glyphs.

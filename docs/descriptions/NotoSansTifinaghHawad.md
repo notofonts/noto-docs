@@ -1,0 +1,1 @@
+Noto Sans Tifinagh Hawad is an unmodulated (“sans serif”) design in the Hawad variant for texts in the African _Tifinagh_ script. It has 166 glyphs.

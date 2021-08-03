@@ -1,0 +1,1 @@
+Noto Sans Tai Tham is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Lanna (Tai Tham)_ script. It has multiple weights and 799 glyphs.

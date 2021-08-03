@@ -1,0 +1,1 @@
+Noto Serif Ahom is a modulated (“serif”) design for texts in the Southeast Asian _Ahom_ script. It has 76 glyphs.

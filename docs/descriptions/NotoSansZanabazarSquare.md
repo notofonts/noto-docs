@@ -1,0 +1,1 @@
+Noto Sans Zanabazar Square is an unmodulated (“sans serif”) design for texts in the historical Central Asian _Zanabazar Square_ script. It has 154 glyphs.

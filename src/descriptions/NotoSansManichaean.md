@@ -1,1 +1,0 @@
-Noto Sans Manichaean is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Manichaean_ script. It contains 153 glyphs, 6 OpenType features, and supports 60 characters.

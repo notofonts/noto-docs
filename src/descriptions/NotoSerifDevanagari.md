@@ -1,1 +1,0 @@
-Noto Serif Devanagari is a modulated (“serif”) design for texts in the Indic _Devanagari_ script. It has multiple weights and widths, contains 871 glyphs, 18 OpenType features, and supports 272 characters from 6 Unicode blocks.

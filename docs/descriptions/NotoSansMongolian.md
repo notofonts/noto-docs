@@ -1,0 +1,1 @@
+Noto Sans Mongolian is an unmodulated (“sans serif”) design for texts in the Central Asian _Mongolian_ script. It has 1,563 glyphs.

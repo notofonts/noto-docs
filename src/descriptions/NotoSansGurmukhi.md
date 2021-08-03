@@ -1,1 +1,0 @@
-Noto Sans Gurmukhi is an unmodulated (“sans serif”) design for texts in the Indic _Gurmukhi_ script. It has multiple weights and widths, contains 344 glyphs, 11 OpenType features, and supports 154 characters from 5 Unicode blocks.

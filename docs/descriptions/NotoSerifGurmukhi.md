@@ -1,0 +1,1 @@
+Noto Serif Gurmukhi is a modulated (“serif”) design for texts in the Indic _Gurmukhi_ script. It has multiple weights and 294 glyphs.

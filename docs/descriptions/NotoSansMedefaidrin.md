@@ -1,0 +1,1 @@
+Noto Sans Medefaidrin is an unmodulated (“sans serif”) design for texts in the African _Medefaidrin (Oberi Okaime)_ script. It has multiple weights and 97 glyphs.

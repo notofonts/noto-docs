@@ -1,0 +1,1 @@
+Noto Sans Tifinagh is an unmodulated (“sans serif”) design for texts in the African _Tifinagh_ script. It has 164 glyphs.

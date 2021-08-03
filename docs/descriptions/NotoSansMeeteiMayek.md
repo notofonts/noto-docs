@@ -1,0 +1,1 @@
+Noto Sans MeeteiMayek is an unmodulated (“sans serif”) design for texts in the Indic _Meetei Mayek (Meitei)_ script. It has multiple weights and 92 glyphs.

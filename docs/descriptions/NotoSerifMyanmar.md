@@ -1,0 +1,1 @@
+Noto Serif Myanmar is a modulated (“serif”) design for texts in the Southeast Asian _Myanmar_ script. It has 725 glyphs.

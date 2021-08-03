@@ -1,1 +1,0 @@
-Noto Sans Mono is a monospaced, unmodulated (“sans serif”) design suitable for programming code and other uses where a fixed-width font is needed. It supports the _Latin_, _Cyrillic_ and _Greek_ scripts, and various symbols. It has multiple weights and widths, contains 3,787 glyphs, 17 OpenType features, and supports 3,367 characters from 39 Unicode blocks.

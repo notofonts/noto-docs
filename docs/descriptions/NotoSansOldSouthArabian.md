@@ -1,0 +1,1 @@
+Noto Sans Old South Arabian is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Old South Arabian_ script. It has 37 glyphs.

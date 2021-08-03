@@ -1,1 +1,0 @@
-Noto Sans Armenian is an unmodulated (“sans serif”) design for texts in the European _Armenian_ script. It has multiple weights and widths, contains 107 glyphs, 3 OpenType features, and supports 104 characters from 2 Unicode blocks.

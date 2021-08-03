@@ -1,1 +1,0 @@
-Noto Sans Lepcha is an unmodulated (“sans serif”) design for texts in the Central Asian _Lepcha_ script. It contains 141 glyphs, 6 OpenType features, and supports 82 characters.

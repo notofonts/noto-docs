@@ -1,0 +1,1 @@
+Noto Sans Pahawh Hmong is an unmodulated (“sans serif”) design for texts in the East Asian _Pahawh Hmong_ script. It has 135 glyphs.

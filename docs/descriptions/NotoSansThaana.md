@@ -1,0 +1,1 @@
+Noto Sans Thaana is an unmodulated (“sans serif”) design for texts in the Indic _Thaana_ script. It has multiple weights and 90 glyphs.

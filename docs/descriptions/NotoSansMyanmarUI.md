@@ -1,0 +1,1 @@
+Noto Sans Myanmar UI is an unmodulated (“sans serif”) design for app and website user interfaces in the Southeast Asian _Myanmar_ script. It has 610 glyphs.

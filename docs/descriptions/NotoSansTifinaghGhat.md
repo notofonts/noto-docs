@@ -1,0 +1,1 @@
+Noto Sans Tifinagh Ghat is an unmodulated (“sans serif”) design in the Ghat variant for texts in the African _Tifinagh_ script. It has 167 glyphs.

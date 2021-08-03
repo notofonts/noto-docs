@@ -1,0 +1,1 @@
+Noto Sans Sundanese is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Sundanese_ script. It has multiple weights and 89 glyphs.

@@ -1,1 +1,0 @@
-Noto Serif Lao is a modulated (“serif”) design for texts in the Southeast Asian _Lao_ script. It has multiple weights and widths, contains 117 glyphs, 5 OpenType features, and supports 76 characters.

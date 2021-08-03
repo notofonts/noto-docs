@@ -1,0 +1,1 @@
+Noto Sans Devanagari UI is an unmodulated (“sans serif”) design for app and website user interfaces in the Indic _Devanagari_ script. It has 922 glyphs.

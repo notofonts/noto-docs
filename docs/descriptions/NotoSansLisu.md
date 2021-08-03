@@ -1,0 +1,1 @@
+Noto Sans Lisu is an unmodulated (“sans serif”) design for texts in the East Asian _Fraser_ script. It has multiple weights and 59 glyphs.

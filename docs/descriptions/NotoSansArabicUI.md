@@ -1,0 +1,1 @@
+Noto Sans Arabic UI is an unmodulated (“sans serif”) design for app and website user interfaces in the Middle Eastern _Arabic_ script. It has multiple weights and widths, and 1,563 glyphs.

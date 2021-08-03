@@ -1,0 +1,1 @@
+Noto Sans Multani is an unmodulated (“sans serif”) design for texts in the historical Indic _Multani_ script. It has 53 glyphs.

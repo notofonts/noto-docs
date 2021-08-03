@@ -1,1 +1,0 @@
-Noto Naskh Arabic UI is a modulated (“serif”) Naskh design for app and website user interfaces in the Middle Eastern _Arabic_ script. It has multiple weights, contains 1,614 glyphs, 12 OpenType features, and supports 1,123 characters from 6 Unicode blocks.

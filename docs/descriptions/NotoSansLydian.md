@@ -1,0 +1,1 @@
+Noto Sans Lydian is an unmodulated (“sans serif”) design for texts in the historical European _Lydian_ script. It has 32 glyphs.

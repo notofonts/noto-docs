@@ -1,0 +1,1 @@
+Noto Serif Bengali is a modulated (“serif”) design for texts in the Indic _Bangla (Bengali)_ script. It has multiple weights and widths, and 640 glyphs.

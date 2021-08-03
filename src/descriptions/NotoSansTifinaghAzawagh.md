@@ -1,1 +1,0 @@
-Noto Sans Tifinagh Azawagh is an unmodulated (“sans serif”) design in the Azawagh variant for texts in the African _Tifinagh_ script. It contains 168 glyphs, 5 OpenType features, and supports 76 characters from 2 Unicode blocks.

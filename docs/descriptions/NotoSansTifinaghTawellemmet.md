@@ -1,0 +1,1 @@
+Noto Sans Tifinagh Tawellemmet is an unmodulated (“sans serif”) design in the Tawellemmet variant for texts in the African _Tifinagh_ script. It has 169 glyphs.

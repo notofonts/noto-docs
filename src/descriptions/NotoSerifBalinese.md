@@ -1,1 +1,0 @@
-Noto Serif Balinese is a modulated (“serif”) design for texts in the Southeast Asian _Balinese_ script. It contains 217 glyphs, 6 OpenType features, and supports 129 characters.

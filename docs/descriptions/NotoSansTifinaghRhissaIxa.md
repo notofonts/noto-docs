@@ -1,0 +1,1 @@
+Noto Sans Tifinagh Rhissa Ixa is an unmodulated (“sans serif”) design in the RhissaIxa variant for texts in the African _Tifinagh_ script. It has 166 glyphs.

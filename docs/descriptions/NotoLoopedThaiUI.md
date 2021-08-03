@@ -1,0 +1,1 @@
+Noto Sans Thai Looped UI is an unmodulated (“sans serif”) design in the more traditional, looped variant of the Southeast Asian _Thai_ script, suitable for app and website user interfaces. It has 157 glyphs.

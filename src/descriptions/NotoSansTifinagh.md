@@ -1,1 +1,0 @@
-Noto Sans Tifinagh is an unmodulated (“sans serif”) design for texts in the African _Tifinagh_ script. It contains 164 glyphs, 5 OpenType features, and supports 76 characters from 2 Unicode blocks.

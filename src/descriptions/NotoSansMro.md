@@ -1,1 +1,0 @@
-Noto Sans Mro is an unmodulated (“sans serif”) design for texts in the Indic _Mro_ script. It has multiple weights, contains 48 glyphs, and supports 47 characters.

@@ -1,0 +1,1 @@
+Noto Sans Elymaic is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern _Elymaic_ script. It has 46 glyphs.

@@ -1,0 +1,1 @@
+Noto Serif Tibetan is a modulated (“serif”) design for texts in the Central Asian _Tibetan_ script. It has multiple weights and 1,891 glyphs.

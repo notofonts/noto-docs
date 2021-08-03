@@ -1,0 +1,1 @@
+Noto Sans Kaithi is an unmodulated (“sans serif”) design for texts in the Indic _Kaithi_ script. It has 322 glyphs.

@@ -1,0 +1,1 @@
+Noto Sans is an unmodulated (“sans serif”) design for texts in the _Latin, Cyrillic_ and _Greek_ scripts, which is also suitable as the complementary choice for other script-specific Noto Sans fonts. It has multiple italic styles, weights and widths, and 3,741 glyphs.

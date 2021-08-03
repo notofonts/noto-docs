@@ -1,0 +1,1 @@
+Noto Sans Tai Viet is an unmodulated (“sans serif”) design for texts in the Southeast Asian _Tai Viet_ script. It has 83 glyphs.

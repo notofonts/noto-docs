@@ -1,0 +1,1 @@
+Noto Sans Tifinagh Ahaggar is an unmodulated (“sans serif”) design in the Ahaggar variant for texts in the African _Tifinagh_ script. It has 168 glyphs.

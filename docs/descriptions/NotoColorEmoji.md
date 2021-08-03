@@ -1,0 +1,1 @@
+Noto Color Emoji is a multi-color font in the OpenType CBDT format. It supports all _emoji_ symbols in Unicode 13 and beyond, but only works in Android, Google Chrome, Windows 10 and in apps that support the CBDT format. It has 3,113 glyphs.

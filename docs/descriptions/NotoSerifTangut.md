@@ -1,0 +1,1 @@
+Noto Serif Tangut is a modulated (“serif”) design for texts in the historical East Asian _Tangut_ script. It has 6,897 glyphs.

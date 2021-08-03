@@ -1,1 +1,0 @@
-Noto Sans Bhaiksuki is an unmodulated (“sans serif”) design for texts in the historical Indic _Bhaiksuki_ script. It contains 863 glyphs, 9 OpenType features, and supports 103 characters.

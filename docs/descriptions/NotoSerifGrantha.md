@@ -1,0 +1,1 @@
+Noto Serif Grantha is a modulated (“serif”) design for texts in the Indic _Grantha_ script. It has 479 glyphs.

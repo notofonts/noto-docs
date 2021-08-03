@@ -1,1 +1,0 @@
-Noto Sans Kannada UI is an unmodulated (“sans serif”) design for app and website user interfaces in the Indic _Kannada_ script. It has multiple weights and widths, contains 655 glyphs, 11 OpenType features, and supports 164 characters from 5 Unicode blocks.

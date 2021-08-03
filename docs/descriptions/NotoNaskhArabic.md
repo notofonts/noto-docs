@@ -1,0 +1,1 @@
+Noto Naskh Arabic is a modulated (“serif”) Naskh design, suitable for texts in the Middle Eastern _Arabic_ script and for use together with serif fonts. It has multiple weights and 1,598 glyphs.

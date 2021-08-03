@@ -1,1 +1,0 @@
-Noto Sans Lao is an unmodulated (“sans serif”) design in the more modern, loopless variant of the Southeast Asian _Lao_ script, mainly suitable for headlines, packaging and advertising. It has multiple weights and widths, contains 116 glyphs, 4 OpenType features, and supports 76 characters.

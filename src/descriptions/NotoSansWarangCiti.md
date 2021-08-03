@@ -1,1 +1,0 @@
-Noto Sans Warang Citi is an unmodulated (“sans serif”) design for texts in the Indic _Varang Kshiti (Warang Citi)_ script. It has multiple weights, contains 181 glyphs, 3 OpenType features, and supports 89 characters.
