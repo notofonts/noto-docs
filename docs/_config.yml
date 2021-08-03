@@ -1,5 +1,5 @@
-title: Noto fonts unofficial docs
-description: The Noto fonts
+title: Noto docs
+description: Unofficial documentation for the Noto fonts
 baseurl: "/noto-docs"
 url: "https://notofonts.github.io"
 remote_theme: pmarsceill/just-the-docs
