@@ -10,7 +10,7 @@ This lists videos about the Noto project. They are date ordered, with most recen
 
 ## Noto Fonts: Preserving Endangered Languages
 
-- Video: https://youtu.be/DnuDOlPkFag
+- Video: [https://youtu.be/DnuDOlPkFag](https://youtu.be/DnuDOlPkFag)
 - Speakers: Susanna Zaraysky, Marek Jeziorek, Dave Crossland
 - Length: 52 minutes
 - Date: October 29, 2020
@@ -36,7 +36,7 @@ Dave Crossland attended the first Libre Graphics Meeting in 2006, and became fas
 
 ## Just the all of us — how we developed our first Odia font family, the collaborative way
 
-- Video: https://youtu.be/05nyT9NTR7E
+- Video: [https://youtu.be/05nyT9NTR7E](https://youtu.be/05nyT9NTR7E)
 - Speakers: Amelie Bonet, Sol Matas
 - Length: 16 minutes
 - Date: September 24, 2020
@@ -50,7 +50,7 @@ The collaborative experience was extremely enriching and gave us a different per
 
 ## The Road to Noto
 
-- Video: https://youtu.be/HHIFL7DxOP0
+- Video: [https://youtu.be/HHIFL7DxOP0](https://youtu.be/HHIFL7DxOP0)
 - PDF slides: https://tug.org/tug2020/preprints/Matteson-slides.pdf
 - Speaker: Steve Matteson, Monotype
 - Length: 42 minutes
@@ -71,7 +71,7 @@ If a computer system is missing a character that is entered by the author, the r
 
 ## Invisible Letters, Invisible Language
 
-- Video: https://youtu.be/PcS_mE5dDCw
+- Video: [https://youtu.be/PcS_mE5dDCw](https://youtu.be/PcS_mE5dDCw)
 - Speaker: Zachary Scheuren, Monotype
 - Date: Oct 20, 2019
 - Length: 21 minutes
@@ -85,7 +85,7 @@ The possibilities range from linguistic analysis to all forms of cross-referenci
 
 ## The Noto Project
 
-- Video: https://youtu.be/cekCfRoMlAU
+- Video: [https://youtu.be/cekCfRoMlAU](https://youtu.be/cekCfRoMlAU)
 - Speaker: Kamal Mansour, Monotype
 - Date: May 08, 2019
 - Length: 37 minutes
@@ -101,7 +101,7 @@ Kamal Mansour’s bio: An early multilingual education served to stimulate Kamal
 
 ## Variations on Variations
 
-- Video: https://youtu.be/4_Dy3-_MyiA
+- Video: [https://youtu.be/4_Dy3-_MyiA](https://youtu.be/4_Dy3-_MyiA)
 - Speakers: Dominik Röttsches (Google), Behdad Esfahbod (Google)
 - Date: Apr 8, 2017
 - Length: 51 minutes
@@ -113,7 +113,7 @@ Behdad will talk about updates to the variable fonts building pipeline based on 
 
 ## Introducing Source Han Serif, Adobe’s open source Pan-CJK typeface
 
-- Video: https://youtu.be/yNfYdxgV1jA
+- Video: [https://youtu.be/yNfYdxgV1jA](https://youtu.be/yNfYdxgV1jA)
 - Date: April 4, 2017
 - Length: 6 minutes
 - Audience: General
@@ -123,7 +123,7 @@ Noto CJK and its sister project, Source Han, made by Adobe and Google, provides 
 
 ## The ‘noto-hinted’ project
 
-- Video: https://youtu.be/LZ-PZDy8WHY
+- Video: [https://youtu.be/LZ-PZDy8WHY](https://youtu.be/LZ-PZDy8WHY)
 - Speakers: Werner Lemberg, Freetype; Sascha Brawer, Google
 - Date: Apr 8, 2017
 - Length: 50 minutes
@@ -135,7 +135,7 @@ Commissioned by Google, the ‘noto-hinted’ project (set up at github) was the
 
 ## The Open Source Python Font Production Pipeline
 
-- Video: https://youtu.be/TtHSnw0LI6o
+- Video: [https://youtu.be/TtHSnw0LI6o](https://youtu.be/TtHSnw0LI6o)
 - Speakers: Marek Z. Jeziorek, Google; Behdad Esfahbod, Google
 - Date: Oct 25, 2016
 - Length: 27 minutes
@@ -147,7 +147,7 @@ The Open Source Python Font Production Pipeline is a set of tools build by the o
 
 ## Creating Noto for Google
 
-- Video: https://youtu.be/16_NYHUZ1kM
+- Video: [https://youtu.be/16_NYHUZ1kM](https://youtu.be/16_NYHUZ1kM)
 - Date: October 6, 2016
 - Length: 7 minutes
 - Audience: General
@@ -157,7 +157,7 @@ A typeface five years in the making, Google Noto spans more than 100 writing sys
 
 ## A Tour of Android Typography
 
-- Video: https://youtu.be/L8LD0BM-Vjk
+- Video: [https://youtu.be/L8LD0BM-Vjk](https://youtu.be/L8LD0BM-Vjk)
 - Speaker: Raph Levien (Google)
 - Date: May 3, 2016
 - Length: 25 minutes
@@ -167,7 +167,7 @@ A typeface five years in the making, Google Noto spans more than 100 writing sys
 
 ## One Font to Rule Them All
 
-- Video: https://youtu.be/AAzvk9HSi84
+- Video: [https://youtu.be/AAzvk9HSi84](https://youtu.be/AAzvk9HSi84)
 - Speaker: Xiangye Xiao, Google
 - Date: July 8, 2015
 - Length: 7 minutes
@@ -181,7 +181,7 @@ Using Noto is easy. If you are developing a mobile app, simply bundle the fonts 
 
 ## Type Reinvented: Glyph.Index
 
-- Video: https://vimeo.com/128597540
+- Video: [https://vimeo.com/128597540](https://vimeo.com/128597540)
 - Date: 2015
 - Length: 2 minutes
 - Audience: General
@@ -193,7 +193,7 @@ Type Reinvented. In todays information-dense digital landscape, typography is th
 
 ## Making Noto Sans Tibetan
 
-- Video: https://youtu.be/liU8fHOtHYA
+- Video: [https://youtu.be/liU8fHOtHYA](https://youtu.be/liU8fHOtHYA)
 - Speaker: Toshi Omagari (Monotype)
 - Date: July 25, 2015
 - Length: 18 minutes
@@ -203,7 +203,7 @@ Type Reinvented. In todays information-dense digital landscape, typography is th
 
 ## Unicode, OpenType and Fonts
 
-- Video: https://youtu.be/sMkO4gF4-3U
+- Video: [https://youtu.be/sMkO4gF4-3U](https://youtu.be/sMkO4gF4-3U)
 - Speakers: Behdad Esfahbod (Google), Roozbeh Pournader (Google)
 - Date: May 22, 2015
 - Length: 1 hour 10 minutes
