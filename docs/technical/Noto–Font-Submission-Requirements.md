@@ -1,10 +1,12 @@
 ---
 layout: default
-title: "Submission requirements"
+title: "Submissions"
+parent: "Technical"
 nav_order: 210
 ---
 # Noto Font Submission Requirements
 
+{:toc}
 
 ### Objective of This Document
 

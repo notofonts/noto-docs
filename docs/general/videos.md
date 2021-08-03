@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Videos"
+parent: "General"
 nav_order: 31
 ---
 # Videos about the Noto Project

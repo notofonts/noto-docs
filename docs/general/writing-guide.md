@@ -1,11 +1,14 @@
 ---
 layout: default
 title: "Noto writing guide"
-nav_order: 220
+parent: "General"
+nav_order: 33
 ---
 # Writing guide for the Noto project
 
 This document collects notes that clarify the use of language when writing about Noto fonts.
+
+{:toc}
 
 ## “Noto fonts” vs. “the Noto fonts”
 

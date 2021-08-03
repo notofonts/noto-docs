@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Noto web"
+title: "Homepage"
+parent: "Website"
 nav_order: 20
 ---
 # Noto: A typeface for the world

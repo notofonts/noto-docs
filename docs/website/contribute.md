@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Contribute"
+parent: "Website"
 nav_order: 22
 ---
 # Contribute to Noto fonts

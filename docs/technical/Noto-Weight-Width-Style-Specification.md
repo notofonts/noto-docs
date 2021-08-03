@@ -1,14 +1,12 @@
 ---
 layout: default
 title: "Naming"
+parent: "Technical"
 nav_order: 210
 ---
 # Noto Weight & Width naming & numbering and Style naming specification
 
-
-[TOC]
-
-
+{:toc}
 
 ## Weights {#weights}
 

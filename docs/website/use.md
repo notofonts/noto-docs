@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Use Noto"
+parent: "Website"
 nav_order: 21
 ---
 # Use Noto fonts
