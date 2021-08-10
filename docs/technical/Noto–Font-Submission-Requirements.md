@@ -8,19 +8,19 @@ nav_order: 210
 
 {:toc}
 
-### Objective of This Document
+### Objective 
 
-This document gathers all the requirements and steps that are necessary to submit a font that _could_ become part of a Noto family of fonts.
+This document has all the necessary requirements and steps to submit a font to the Noto font family.
 
 ### Process
 
-1. Prepare your script proposal. If you're proposing to add or replace new codepoints to an existing font or a new script, you need to make a proposal.
+1. Make a proposal to add or replace new codepoints to an existing font or a new script.
 
 2. Submit it to noto-proposals-external@googlegroups.com (needed: review process)
 
 3. The review process team might approve or reject the proposal or require additional information.
 
-4. Any approved scripts need to meet the requirements listed in the New Font Delivery Requirements and Additions to an existing Font Delivery Requirements sections below.
+4. Any approved scripts need to meet the requirements listed in the New Font Delivery Requirements and the Additions to an Existing Font Delivery Requirements sections below.
 
 ### Gates
 
@@ -54,7 +54,7 @@ The font and the sources need to meet the following properties:
 
 The Existing and New Font Delivery Requirements apply when a script already exists:
 
-1. If a serif version of the font already exists and a sans version of the font is added, the glyphs in the sans version need to be “aesthetically compatible” to the existing glyphs in the serif version (or a strong justification is required why they are not). The same is true when a serif font is submitted and a sans version already exists.
+1. If a serif version of the font already exists and a sans version of the font is added, the glyphs in the sans version need to be “aesthetically compatible” to the existing glyphs in the serif version. If they are not "aesthetically compatible," please provide a strong justification. The same is true when a serif font is submitted and a sans version already exists.
 
 2. If a sans or serif version of a font exists and a new serif or sans font is produced, then any existing OTF functionality in the existing font ought to be reproduced for the new font.
 
@@ -66,7 +66,7 @@ The Existing and New Font Delivery Requirements apply when a script already exis
 
 When developing various menus, context (right-click) menus, dialog boxes, and other visible text for scripts/languages where ascenders and descenders exceed the UI specs, you might need to develop a more compact version called “UI fonts.” Google Fonts might need to design a UI version which modifies some “natural” glyph shapes to avoid truncation in the Android UI framework.
 
-For example, as of December 2018, the Noto family has these UI fonts: ArabicUI, BengaliUI, DevanagariUI, KannadaUI, KhmerUI, LaoUI, MalayalamUI, MyanmarUI, SinhalaUI, TamilUI, ThaiUI, and NotoSans that supports Latin, Greek, and Cyrillic scripts. NotoSansDisplay is a less “compact” version.
+As of December 2018, the Noto family has these UI fonts: ArabicUI, BengaliUI, DevanagariUI, KannadaUI, KhmerUI, LaoUI, MalayalamUI, MyanmarUI, SinhalaUI, TamilUI, ThaiUI, and NotoSans that supports Latin, Greek, and Cyrillic scripts. NotoSansDisplay is a less “compact” version.
 
 However, there are many scripts where all the fully shaped glyphs required for “modern usage” (as opposed to characters only used for ancient/archaic/special purposes) can meet the following Noto metric requirements without reducing the quality of the fonts. They can be “deemed UI” and do not need a separate UI font. Noto Sans Armenian, Cherokee, Emoji, Ethiopic, Georgian, Gujarati, Gurmukhi, Hebrew, Oriya, Telugu, and Thaana are considered as “deemed UI” fonts.
 
@@ -96,7 +96,7 @@ Note: The (A, B) metric of document fonts don't need to fit within the constrain
 
 - For UI fonts: Request an exception if the fully shaped text does not fit within (1069, -293).
 
-- Fully shaped text has different meanings in the UI and document fonts. In the UI font, it refers to the shaped text in languages expected to appear in UIs. For example, Sanskrit text in a UI is very unlikely, but Marathi text in a UI is very likely. In a document font, it refers to all sensible character combinations in all languages that the font supports that are likely to occur in a document.
+- Fully shaped text has different meanings in the UI and document fonts. In the UI font, it refers to the shaped text in languages expected to appear in UIs. For example, Sanskrit text in a UI is very unlikely, but Marathi text in a UI is very likely. In a document font, fully shaped text refers to all of the sensible character combinations in all of the languages that the font supports that are likely to occur in a document.
 
 ### References
 
