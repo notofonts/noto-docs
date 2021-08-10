@@ -4,15 +4,15 @@ title: "Naming"
 parent: "Technical"
 nav_order: 210
 ---
-# Noto Weight & Width naming & numbering and Style naming specification
+# Noto Weight, Width naming, Numbering and Style naming specifications
 
 {:toc}
 
 ## Weights {#weights}
 
-**LGC-mainstem-centric:** Weight values applied to Masters and Instances will be grounded in actual font distances: the normal width of the lowercase mainstem of the LGC  “normal” width fonts. In the case of Condensed, Expanded, or other width variants, we want to have the weight value of any given width match the numeric value of the _normal width_ which the master or instance is intended to accompany.
+**LGC-mainstem-centric:** Weight values applied to Masters and Instances are tied to the normal width of the lowercase mainstem of LGC  “normal” width fonts. For condensed, expanded, or other width variants, the weight value should match the numeric value of the _normal width_ accompanied by the master or instance.
 
-Thus, if a given Bold master or instance has a value of 190 (equivalent to the dominant lowercase mainstem), and the corresponding Bold Condensed master or instance has a dominant lowercase mainstem weight of 162 (in order to optically blend with the Bold), we will want to set both the Bold and Bold Condensed masters to 190. By doing so, we ensure we have orthogonal interpolation spaces which are easily blended.
+If a Bold master or instance has a value of 190 (equivalent to the dominant lowercase mainstem), and the corresponding Bold Condensed master or instance has a dominant lowercase mainstem weight of 162 (in order to optically blend with the Bold), set both the Bold and Bold Condensed masters to 190. This way, the orthogonal interpolation spaces are easily blended.
 
 
 
@@ -28,16 +28,22 @@ Bold Condensed with weight value of 190, dominant lc mainstem of 162 {#bold-cond
 
 ## Widths {#widths}
 
-We are not producing a huge range of masters for different widths in the way we are with weights. Widths are generally specified as differences from the Regular or Normal width design, thus we have a degree of condensed or expanded. Our proposal is to number all normal width masters as 100, and the narrow masters as 70. A Semi Condensed instance would be 89, a true Condensed would be 79, with the master at 70 designated as Extra Condensed. If expanded widths are someday required, they might be somewhere between 120 and 130. A given width identifier in one script master would be designed to correspond to any other script with the same width value.
+The range of width masters is smaller than the weight range. Widths are generally specified as differences from the regular or normal width design, thus we have a degree of condensed or expanded. 
+
+Normal width masters: 100 
+Narrow masters: 70
+Semi Condensed: 89
+True Condensed: 79
+Extra Condensed: 70 
+
+If expanded widths will be required in the future, they might range between 120 and 130. A given width identifier in one script master would be designed to correspond to another script with the same width value.
 
 
 ## Family, Style & Full Names {#family-style-&-full-names}
 
-There are known limitation in string lengths. For example, on Windows, the Family name is used in menus and cannot exceed 31 characters in length. Similarly, Postscript names are limited to 63 characters according to the Open Font Format specification, although there is discussion throughout the industry as to whether or not this is a real restriction in practice. Style names have typically been kept as short as possible as well, despite the lack of concrete guidance on limitations in specific implementations.
+There are known string length limitations. For example, on Windows, the Family name used in menus and cannot exceed 31 characters. Similarly, Postscript names are limited to 63 characters according to the Open Font Format specification. Style names have typically been kept as short as possible as well, despite the lack of concrete guidance on limitations in specific implementations.
 
-For this specification we define family name and the complete style names without abbreviation. The software used for generating font files, will create name table specific names and handle abbreviation where necessary.
-
-With this information as background, here is a set of naming guidelines.
+For this specification, the family and complete style names are not abbreviated. The software used for generating font files will create name table specific names and handle abbreviations where necessary.
 
 
 #### Family Name {#family-name}
@@ -49,9 +55,10 @@ With this information as background, here is a set of naming guidelines.
 
 
 
-1.  The stylename is the combined font-stretch (width), font-weight and font-style name, without spaces in the width and weight names, but spaces in between the parts.
-1.  The weight is optionally preceded by the width (if not a normal width), but Regular is replaced by the width name.
-1.  For Italics all style names end with “Italic”,  optionally preceded by width and weight, but Regular is not used in combination with Italic.
+1.  The stylename is the combined font-stretch (width), font-weight, and font-style name, without spaces in the width and weight names, but with spaces in between the parts.
+2.  If the width is not a normal sized width, it is optional to add the width before the weight
+However, Regular is replaced by the width name.
+3.  For italics all style names end with “Italic” and are optionally preceded by the width and weight. However, Regular is not used in combination with Italic.
 
 
 
@@ -93,7 +100,7 @@ With this information as background, here is a set of naming guidelines.
 
 Instances need to be defined in the GlyphsApp sources that express the total number of variations in weight and width that can be accommodated by a given design.  Some scripts will not have width variants. Some scripts will not be able to be made as bold as the boldest LGC master. The designer should specify those cases, and include only those instances that render well.
 
-Assuming that the masters of a non-Latin script are drawn and numbered to complement their corresponding LGC counterparts, the Instance interpolation values should also match those of their corresponding LGC counterparts. Below is a table of  weight and width values for each family.
+If the masters of a script not using the Latin alphabet are drawn and numbered to complement their corresponding LGC counterparts, the instance interpolation values should also match those of their corresponding LGC counterparts. Below is a table of weight and width values for each family.
 
 
 ##### Noto Sans interpolation values: {#noto-sans-interpolation-values}
@@ -214,7 +221,7 @@ Assuming that the masters of a non-Latin script are drawn and numbered to comple
 
 
 
-##### Noto Serif  interpolation values: {#noto-serif-interpolation-values}
+##### Noto Serif interpolation values: {#noto-serif-interpolation-values}
 
 
 <table>
@@ -334,21 +341,21 @@ Assuming that the masters of a non-Latin script are drawn and numbered to comple
 
 #### Document and UI Font instances {#document-and-ui-font-instances}
 
-For UI instances weight and width values will be copied from their corresponding Document font values. If a UI font is shifted to fit into the UI ascender and descender the shift is stored as custom parameter: a filter defining a YOffset transformation. Both UI and document instances may have a “Keep Glyphs” custom parameters defining a Glyph subset. The “Reencode Glyphs” custom parameter may be used to change the default cmap encoding (added 2017).
+For UI instances weight and width values will be copied from their corresponding Document font values. If a UI font is shifted to fit into the UI ascender and descender, the shift is stored as a custom parameter: a filter defining a YOffset transformation. Both UI and document instances may have “Keep Glyphs” custom parameters defining a Glyph subset. The “Reencode Glyphs” custom parameter may be used to change the default cmap encoding (added 2017).
 
-_Note:_ _Whatever scheme of naming is used, there are going to be differences between Noto Sans and Roboto and Noto Sans CJK.  We could  make the “200” the same weight as Noto Sans CJK Thin with the same name, but not the same with Roboto Thin at the same time. The Roboto Black 900 is matching Noto Sans Extra Bold 800. We can match Roboto Medium in name, class and weight. But Roboto Medium is halfway Regular and Bold: that means you cannot have a Medium and a Semi-Bold, because the weight of the Medium is almost the weight that the Semi Bold should have._
+_Note:_ _No matter which naming scheme is used, there will be differences between Noto Sans, Roboto, and Noto Sans CJK.  Even if the “200” has the same weight as Noto Sans CJK Thin with the same name, it will not be the same as Roboto Thin. Roboto Black 900 matches Noto Sans Extra Bold 800. We can match Roboto Medium in name, class and weight. But Roboto Medium is halfway Regular and Bold: that means you cannot have a Medium and a Semi-Bold, because the weight of the Medium is almost the weight that the Semi Bold should have._
 
 _If the Noto Sans non-Latins UI fonts are linked to Roboto, it may not matter what they are named and what their widthClass is, when these properties are inherited from Roboto anyway._
 
 
 #### OS/2 x-Height setting {#os-2-x-height-setting}
 
-We will use 536 for all Noto Sans, Sans UI, Serif, Serif Display, etc,. The intention here is to ensure that these fonts will not be scaled to match relative heights, since we have designed these families to work together. We would like to set this as an explicit instance custom parameter, so that the master values can actually match the outline’s x-height, since that is needed for proper placement of anchors on lowercase glyphs. We will wait to request this functionality from Georg, until we get confirmation from Google that our approach will their needs.
+All Noto Sans, Sans UI, Serif, Serif Display, fonts have a 536 x-height. Since these families have been designed to work together, the fonts should not be scaled to match relative heights. This is an explicit instance custom parameter for the master values to match the outline’s x-height needed for proper placement of anchors on lowercase glyphs. We will wait to request this functionality from Georg, until we get confirmation from Google that our approach will their needs.
 
 
 #### Panose {#panose}
 
-The chart below a chart showing the construction of the Noto values. See [Noto Panose Details](#noto-panose-details) for more.
+The chart below shows the construction of the Noto values. See [Noto Panose Details](#noto-panose-details) for more.
 
 
 <table>
@@ -433,7 +440,7 @@ The chart below a chart showing the construction of the Noto values. See [Noto P
 </table>
 
 
-_\*The proportion value is a mix of stylistic properties and character width. So it does not have a direct link to the width interpolation._
+_\*The proportion value is a mix of stylistic properties and character width. It does not have a direct link to the width interpolation._
 
 
 #### Style Linking {#style-linking}
@@ -451,7 +458,7 @@ _\*The proportion value is a mix of stylistic properties and character width. So
 
 #### Monotype Feature Files naming {#monotype-feature-files-naming}
 
-We will name the files with the family name, followed by the numbers of weight and width interpolation values of the master, followed by the table tag. For GSUB files that apply to all weights, the interpolation values will be omitted. Where a GSUB source file is tied to specific masters, then for intermediate instances the nearest GSUB is to be used. GPOS values tables will typically apply to a single master, and named as such. The GPOS tables for intermediate instances will need to be interpolated from existing masters.
+Name the files with the family name, followed by the master weight and width interpolation values and table tag. For GSUB files that apply to all weights, the interpolation values will be omitted. Where a GSUB source file is tied to specific masters, use the nearest GSUB for intermediate instances. GPOS values tables will typically apply to a single master. The GPOS tables for intermediate instances will need to be interpolated from existing masters.
 
 For Example:
 
@@ -467,7 +474,7 @@ For Example:
 
 The glyph order is defined by a custom parameter at the font level.
 
-Composite component glyphs that are never rendered on their own not are not set to export. To distinguish between component glyphs that can be used as component glyph in TrueType (and might optionally be exported anyway) and those that cannot, the latter will have a name starting with underscore.
+Composite component glyphs that are never rendered on their own are not set to export. To distinguish between component glyphs that can be used as a component glyph in TrueType (and might be exported) and those that cannot, add an underscore to the beginning of glyphs that cannot be used as a component glyph. 
 
 Without the custom parameter “don’t use production names” is True, the source glyph names are expected to be renamed where needed. With the parameter, the “nice names” of the Glyphs source file are used with the layout table source files too and should be valid glyph names with regards to length and used characters.
 
@@ -479,7 +486,7 @@ The following table is not part of the specification:
 
 ### Comparison of interpolation values  {#comparison-of-interpolation-values}
 
-_The table puts side by side the interpolation weights of the above proposal, with estimated values of Roboto and Noto Sans CJK. It is interesting to see how these values compare if we were to attempt to support the 9 weights as defined in the CSS font-weight property. We are stuck with a regular at 90. So we cannot have as many weight below the regular as calculated by the formula’s of Pablo Impallari and Luc de Groot. But two intermediate light weights fit in easily. For practical use having 4 weights above the regular is sufficient. But having 3 below is important in order to have a lighter light that is useable: the extremely thin master isn’t very usable apart from it’s UI function._
+_The table puts the interpolation weights of the above proposal side by side with the estimated values of Roboto and Noto Sans CJK. It is interesting to see how these values compare if there were an attempt to support the 9 weights as defined in the CSS font-weight property. There is a regular weight at 90. There cannot be as many weights below the regular weight as calculated by Pablo Impallari's and Luc de Groot's formulas. However, two intermediate light weights fit in easily. For practical uses, having 4 weights above the regular is sufficient. But having 3 below the regular is important to have a lighter light that is useable. The extremely thin master isn’t very usable apart from it’s UI function._
 
 
 <table>
