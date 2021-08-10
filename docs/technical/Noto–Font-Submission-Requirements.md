@@ -14,13 +14,13 @@ This document gathers all the requirements and steps that are necessary to submi
 
 ### Process
 
-1. Prepare a proposal for a script. Both adding or replacing new codepoints to an existing fonts or a totally new script need a proposal first.
+1. Prepare your script proposal. If you're proposing to add or replace new codepoints to an existing font or a new script, you need to make a proposal.
 
 2. Submit it to noto-proposals-external@googlegroups.com (needed: review process)
 
-3. The review process might approve it, reject it, or require additional information.
+3. The review process team might approve or reject the proposal or require additional information.
 
-4. Any approved scripts need to meet the requirements listed in the New Font Delivery Requirements and Additions sections to an existing Font Delivery Requirements (below).
+4. Any approved scripts need to meet the requirements listed in the New Font Delivery Requirements and Additions to an existing Font Delivery Requirements sections below.
 
 ### Gates
 
@@ -28,11 +28,11 @@ This document gathers all the requirements and steps that are necessary to submi
 
 2. If applicable, Noto font weight and width design proposal review.
 
-3. After a first version of the font is produced, Noto font technical review.
+3. Noto font technical review after the first version of the font is produced.
 
 ### New Font Delivery Requirements
 
-To be accepted as a Noto font, the font and the sources need to meet the following properties:
+The font and the sources need to meet the following properties:
 
 1. The proposed font has to address the needs of Android or web users.
 
@@ -40,7 +40,7 @@ To be accepted as a Noto font, the font and the sources need to meet the followi
 
 3. The license is SIL OFL.
 
-4. Delivery of a source .glyphs file is required. The source will be published as open source at https://github.com/googlefonts/noto-source/tree/master/src under the current license (SIL Open Font License, version 1.1). Contributions made by corporations are covered by a different agreement than the one above. Please see CONTRIBUTING for more information.
+4. Delivery of a .glyphs source file is required. The source will be published as open source at https://github.com/googlefonts/noto-source/tree/master/src under the current license (SIL Open Font License, version 1.1). Contributions made by corporations are covered by a different agreement than the one above. Please see CONTRIBUTING for more information.
 
 5. Be of high quality.
 
@@ -48,11 +48,11 @@ To be accepted as a Noto font, the font and the sources need to meet the followi
 
 7. If there are multiple weights or widths, they need to be interpolatable to make variable fonts.
 
-8. Widths, weights and naming conventions need to be compatible with the rest of the Noto Family.
+8. Widths, weights, and naming conventions need to be compatible with the rest of the Noto Family.
 
 ### Additions to an existing Font Delivery Requirements (when a script already exists)
 
-The Existing and New Font Delivery Requirements apply when a script already exists.
+The Existing and New Font Delivery Requirements apply when a script already exists:
 
 1. If a serif version of the font already exists and a sans version of the font is added, the glyphs in the sans version need to be “aesthetically compatible” to the existing glyphs in the serif version (or a strong justification is required why they are not). The same is true when a serif font is submitted and a sans version already exists.
 
@@ -62,15 +62,13 @@ The Existing and New Font Delivery Requirements apply when a script already exis
 
 4. If a new codepoint is added to an existing font, then a glyph for this new codepoint needs to be “aesthetically compatible” with the already existing glyphs. The addition of a new glyph is required for both sans and serif styles of the font (if applicable).
 
-### Document vs UI Fonts
+### Document vs. UI Fonts
 
 When developing various menus, context (right-click) menus, dialog boxes, and other visible text for scripts/languages where ascenders and descenders exceed the UI specs, you might need to develop a more compact version called “UI fonts.” Google Fonts might need to design a UI version which modifies some “natural” glyph shapes to avoid truncation in the Android UI framework.
 
-For example, as of December 2018, the Noto family has these UI fonts: ArabicUI, BengaliUI, DevanagariUI, KannadaUI, KhmerUI, LaoUI, MalayalamUI, MyanmarUI, SinhalaUI, TamilUI, and ThaiUI. Also NotoSans supporting Latin, Greek, and Cyrillic scrips is also a UI font with its correpsonding NotoSansDisplay as a less “compact” version.
+For example, as of December 2018, the Noto family has these UI fonts: ArabicUI, BengaliUI, DevanagariUI, KannadaUI, KhmerUI, LaoUI, MalayalamUI, MyanmarUI, SinhalaUI, TamilUI, ThaiUI, and NotoSans that supports Latin, Greek, and Cyrillic scripts. NotoSansDisplay is a less “compact” version.
 
-However, there are many scripts where all the fully shaped glyphs required for “modern usage” (as opposed to characters only used for ancient/archaic/special purposes) can meet the following Noto metric requirements without much quality sacrifice or compromise. They can be “deemed UI” and do not need a separate UI font.
-
-For example, as of December 2018, Noto Sans Armenian, Cherokee, Emoji, Ethiopic, Georgian, Gujarati, Gurmukhi, Hebrew, Oriya, Telugu, and Thaana are considered as “deemed UI” fonts.
+However, there are many scripts where all the fully shaped glyphs required for “modern usage” (as opposed to characters only used for ancient/archaic/special purposes) can meet the following Noto metric requirements without reducing the quality of the fonts. They can be “deemed UI” and do not need a separate UI font. Noto Sans Armenian, Cherokee, Emoji, Ethiopic, Georgian, Gujarati, Gurmukhi, Hebrew, Oriya, Telugu, and Thaana are considered as “deemed UI” fonts.
 
 If a script is unlikely to be used for a UI language (there is no need to use it to localize apps, software or web pages), then you might only need a document font.
 
@@ -94,9 +92,9 @@ Units per Em: 1000
 | OS/2              | sTypoLineGap   | = 0                            | = 0                       |
 | Fully shaped text |                | should fit within (1069, -293) | should fit within (A, -B) |
 
-Note: The (A, B) metric of document fonts need not fit within the constraints specified for the UI font (1069, -293) [Roboto Regular’s metrics translated for 1000em] or (1056, -271) [matching Open Sans Regular’s metrics]. For document fonts, there is no fixed metric. However, A and B should be reasonable and not overly large in comparison to other fonts. When proposing a new document font, specify the approximate values.
+Note: The (A, B) metric of document fonts don't need to fit within the constraints specified for UI fonts (1069, -293) [Roboto Regular’s metrics translated for 1000em] or (1056, -271) [matching Open Sans Regular’s metrics]. For document fonts, there is no fixed metric. However, A and B should be reasonable and not be overly large in comparison to other fonts. When proposing a new document font, specify the approximate values.
 
-- For UI fonts: If the fully shaped text does not fit within (1069, -293), request an exception.
+- For UI fonts: Request an exception if the fully shaped text does not fit within (1069, -293).
 
 - Fully shaped text has different meanings in the UI and document fonts. In the UI font, it refers to the shaped text in languages expected to appear in UIs. For example, Sanskrit text in a UI is very unlikely, but Marathi text in a UI is very likely. In a document font, it refers to all sensible character combinations in all languages that the font supports that are likely to occur in a document.
 
