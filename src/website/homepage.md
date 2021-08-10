@@ -8,9 +8,9 @@
 
 ## Free fonts for all languages
 
-Noto is a collection of high-quality free fonts for writing in all modern and ancient languages. With multiple weights and widths in sans, serif, mono, and other styles, Noto fonts are perfect for harmonious, typographically correct communication in more than 1,000 languages and over 150 writing systems.
+Noto is a collection of high-quality free fonts for all modern and ancient languages. With multiple weights and widths in sans, serif, mono, and other styles, Noto fonts are perfect for harmonious, typographically correct communication in more than 1,000 languages and over 150 writing systems.
 
-“Noto” means “I write, I mark, I note” in Latin. The name is also short for “no tofu,” as the project aims to eliminate 'tofu': blank rectangles shown when no font is available for your text.
+“Noto” means “I write, I mark, I note” in Latin. The name is also short for “no tofu,” as the project aims to eliminate the tofu-like blank rectangles that appear when no font is available for your text.
 
 ### Read and write text in any language
 
@@ -20,9 +20,9 @@ The designs are harmonious across scripts but retain the authentic flavors that 
 
 ### Internationalize your visual design
 
-Business documents require a range of styles to convey document structure visually. Noto offers 100s of styles that form a modular, flexible typographic system — for designers, writers, publishers, advertisers, software makers, students, and scholars everywhere.
+To convey structure, business documents require a range of font styles. Noto offers 100s of styles that form a modular, flexible typographic system — for designers, writers, publishers, advertisers, software makers, students, and scholars everywhere.
 
-If you’re already using some font for your language, complement it with selected Noto fonts of similar styles for other languages. Or use the entire Noto font collection to create clean, consistent typography across many scripts and languages.
+If you’re already using a font for one language, complement it with Noto fonts in similar styles for other languages. Or use the entire Noto font collection to create clean, consistent typography across many scripts and languages.
 
 ### Write with confidence
 
@@ -34,7 +34,7 @@ The fonts are available as variable and static OpenType fonts, as CSS web font
 
 Need fonts for your website, book, app or product? All Noto fonts are licensed under the Open Font License, which permits redistribution.
 
-You can use them freely in your products & projects — print or digital, commercial or otherwise. However, you can’t sell the fonts on their own. (This isn’t legal advice, please consider consulting a lawyer and see the [[full license]{.ul}](https://github.com/googlefonts/noto-fonts/blob/main/LICENSE) for all details.)
+You can use them freely in your products & projects — print or digital, commercial or otherwise. However, you can’t sell the fonts. (This isn’t legal advice, please consider consulting a lawyer and see the [[full license]{.ul}](https://github.com/googlefonts/noto-fonts/blob/main/LICENSE) for all details.)
 
 ## Learn more
 
@@ -44,7 +44,7 @@ World scripts are as diverse as humans, they have different proportions and wr
 
 [![How Noto was made](img/1440x810/how-noto-was-made-1440x810.jpg)](https://youtu.be/16_NYHUZ1kM)
 
-“When it comes to lesser-used languages, or even the purely academic or dead languages, we think it’s really important to preserve them.” — Bob Jung, Google. Google and Monotype made Noto together ([7-minute video](https://youtu.be/16_NYHUZ1kM)).
+“When it comes to lesser-used languages, or even purely academic or dead languages, we think it’s really important to preserve them.” — Bob Jung, Google. Google and Monotype made Noto together ([7-minute video](https://youtu.be/16_NYHUZ1kM)).
 
 ### How Noto CJK was made
 
