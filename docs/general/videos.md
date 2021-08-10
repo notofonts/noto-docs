@@ -44,7 +44,7 @@ Dave Crossland attended the first Libre Graphics Meeting in 2006, and became fas
 - Publisher: TypeWknd
 - Event: TypeWknd 2020
 
-Many typeface designers have the opportunity at some point to get out of the cave and open their eyes to a project outside of their comfort zone, outside of their daily design routine. That is where we found ourselves when we accepted a proposal to develop a font for the Odia script, a writing system in which we are not native. From the beginning, we understood that collaboration would be our best strategy to face this challenge; designing and producing a typeface in a writing system we do not know nor understand.
+Many typeface designers have the opportunity at some point to get out of the cave and open their eyes to a project outside of their comfort zone and their daily design routine. That is where we found ourselves when we accepted a proposal to develop a font for the Odia script, a writing system in which we are not native. From the beginning, we understood that collaboration would be our best strategy to face this challenge; designing and producing a typeface in a writing system we do not know nor understand.
 
 The collaborative experience was extremely enriching and gave us a different perspective on our practice. However, we also encountered some limitations during that process. Our talk will shine a light on collaborative processes. We will present our typeface, Noto Sans Odia, through the prism of exchanges we had during the making of the project: communication between the designers, teamwork with the consultants, discussion with the software makers (Glyphs), etc. The collaboration between us all is what made the project possible.
 
@@ -59,15 +59,15 @@ The collaborative experience was extremely enriching and gave us a different per
 - Publisher: TeX Users Group
 - Event: TUG 2020
 
-Steven is the designer of Open Sans, Droid, Liberation, Noto Sans for Latin, and many more typefaces. He has worked on a vast array of other typographic projects present in operating systems, phones, game consoles and other electronic devices. He will walk us though the creation process that led to Noto.
+Steven is the designer of Open Sans, Droid, Liberation, Noto Sans for Latin, and many more typefaces. He has worked on a vast array of other typographic projects present in operating systems, phones, game consoles, and other electronic devices. He will walk us though the creation process that led to Noto.
 
-The road to Noto begins here with the Rosetta Stone, a three and a half foot tall tablet that you're, probably all familiar with. Three different languages, three different writing systems. A fascinating example of the painstaking efforts made to produce a document in multiple languages in this case, hieroglyphics, Demotic script and ancient Greek. All with the aim that multiple cultures and generations would understand.
+The road to Noto begins here with the Rosetta Stone, a three and a half foot tall tablet that you're probably all familiar with. Three different languages, three different writing systems. A fascinating example of the painstaking efforts made to produce a document in multiple languages in this case, hieroglyphics, Demotic script, and ancient Greek. All with the aim that multiple cultures and generations would understand.
 
-Fast forward 1600 years to 1573 to Christoph Plantin’s polyglot Bible printed in Antwerp and funded by the king, Philip of Spain. The translations were in Hebrew, Greek, Aramaic, Syriac and Latin. The achievement here is the complexity of the formatting and the quality of printing that is just inconceivably beautiful, particularly compared to where we are 400 years later.
+Fast forward 1600 years to 1573 to Christoph Plantin’s polyglot Bible printed in Antwerp and funded by King Philip of Spain. The translations were in Hebrew, Greek, Aramaic, Syriac, and Latin. The achievement here is the complexity of the formatting and the quality of printing that is just inconceivably beautiful, particularly compared to where we are 400 years later.
 
-It’s now commonplace to multilingual text in institutional documents. These can definitely improve, like many other types of typographic problems. The line lengths are too long for many of the scripts, and the variety of type styles makes it appear like a a ransom note, rather than a document from a well-branded company or institution.
+It’s now commonplace to see multilingual text in institutional documents. The line lengths are too long for many of the scripts, and the variety of type styles makes it appear like a ransom note, rather than a document from a well-branded company or institution.
 
-If a computer system is missing a character that is entered by the author, the reader sees the undefined glyph, the empty square and, as Bob Jung put it, the squares remind a lot of people, particularly in Asia, of packaged bean curd or tofu. And this is where Noto got its name, no tofu.
+If a computer system is missing a character, the reader sees the undefined glyph as an empty square. As Bob Jung put it, the squares remind a lot of people, particularly in Asia, of packaged bean curd or tofu. And this is where Noto got its name, no tofu.
 
 ## Invisible Letters, Invisible Language
 
@@ -79,7 +79,7 @@ If a computer system is missing a character that is entered by the author, the r
 - Publisher: ATypI
 - Event: ATypI 2019 Tokyo
 
-If we can’t see a language, does it exist? Of course it does, but in an increasingly computerized world, many languages remain invisible. Some languages have no writing system to be seen. Others are not necessarily accessible in the digital realm. What are the implications for these languages in light of today’s technologies? Computing in general is grounded in the assumption that spoken language can be transcribed and manipulated. But who are we leaving behind and why should we care? The benefits of digital representation aren’t limited to the locale of a particular language, script, or culture.
+If we can’t see a language, does it exist? Of course it does. However, in an increasingly computerized world, many languages remain invisible. Some languages have no writing system to be seen. Others are not necessarily accessible in the digital realm. What are the implications for these languages in light of today’s technologies? Computing in general is grounded in the assumption that spoken language can be transcribed and manipulated. But who are we leaving behind and why should we care? The benefits of digital representation aren’t limited to the locale of a particular language, script, or culture.
 
 The possibilities range from linguistic analysis to all forms of cross-referencing across disciplines like linguistics, history, archaeology, literature, sociology, economics, anthropology, and more. This presentation will look at a number of historic and minority writing systems and consider what can be gained by digitizing them and making them accessible to the world.
 
@@ -143,7 +143,7 @@ Commissioned by Google, the ‘noto-hinted’ project (set up at github) was the
 - Publisher: ATypI
 - Event: ATypI 2016 Warsaw, Poland
 
-The Open Source Python Font Production Pipeline is a set of tools build by the open source community, including Google developers. It has been used by Google to produce Google's Noto font families. It can be used by anybody to automate their font production as well. The pipeline takes various inputs (e.g., \*.glyphs files) and compiles them into multiple binaries (\*.TTF and \*.OTF files among others). This presentation is about why Google wanted to have an open source font toolchain, how the toolchain (aka pipeline) was architected, engineered and debugged and how Google uses it to produce and validate Noto fonts.
+The Open Source Python Font Production Pipeline is a set of tools build by the open source community, including Google developers. It has been used by Google to produce Google's Noto font families. It can be used by anybody to automate their font production. The pipeline takes various inputs (e.g., \*.glyphs files) and compiles them into multiple binaries (\*.TTF and \*.OTF files among others). This presentation is about why Google wanted to have an open source font toolchain, how the toolchain (aka pipeline) was architected, engineered and debugged and how Google uses it to produce and validate Noto fonts.
 
 ## Creating Noto for Google
 
@@ -189,7 +189,7 @@ Using Noto is easy. If you are developing a mobile app, simply bundle the fonts 
 
 First displayed at Resonate Belgrade, Glyph.Index is an infinite interactive journey through the vast spectrum of Unicode glyphs in the Noto Sans typeface and its 96 font variations. Noto Sans is the only typeface designed to represent every symbol in every language— over 60k characters. Glyph.Index celebrates the global community and its cultural diversity in playful, rhythmical, ever-changing patterns.
 
-Type Reinvented. In todays information-dense digital landscape, typography is the key communicator to reach across all media. Monotype’s Type Reinvented explores the future of typography in a series of interactive digital artworks created in partnership with FIELD: How can typography become responsive, emotional, platform-adaptive, whilst remaining a powerful messenger of information, style and identity?
+Type Reinvented. In today's information-dense digital landscape, typography is the key communicator to reach across all media. Monotype’s Type Reinvented explores the future of typography in a series of interactive digital artworks created in partnership with FIELD. How can typography become responsive, emotional, platform-adaptive, whilst remaining a powerful messenger of information, style and identity?
 
 ## Making Noto Sans Tibetan
 
