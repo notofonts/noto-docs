@@ -175,7 +175,7 @@ A typeface five years in the making, Google Noto spans more than 100 writing sys
 - Publisher: Google Developers
 - Event: 100 Days of Google Dev
 
-Noto is a font published by Google that aims to support all languages in the world. Now it has supported almost all major living languages. For most languages, eight styles are supported: {regular, bold} x {normal, italic} x {sans serif, serif}. It is used by Android and Chrome OS as the default system fonts and is also recommended by Google's Material Design. What’s more important, Noto is open source and everyone can use it for free.
+Noto is a font published by Google that aims to support all languages in the world. Now it has supported almost all major living languages. For most languages, eight styles are supported: {regular, bold} x {normal, italic} x {sans serif, serif}. It is used by Android and Chrome OS as the default system fonts and is also recommended by Google's Material Design. What’s more important, Noto is open source and everyone can use it.
 
 Using Noto is easy. If you are developing a mobile app, simply bundle the fonts with your app. If you are a website developer, use Noto fonts as Web Fonts. Many Noto fonts are available to use at Google Fonts Early Access. You can also host the fonts in your own server and specify them in web pages.
 
