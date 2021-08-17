@@ -133,6 +133,14 @@ Noto CJK and its sister project, Source Han, made by Adobe and Google, provides 
 
 Commissioned by Google, the ‘noto-hinted’ project (set up at github) was the driving force behind ttfautohint in the last two years.  The goal is to provide good automatic hinting for the Noto font family, covering a large set of scripts.  The talk describes the history and setup of the project, together with possible future enhancements.
 
+## Index:Award 2017 finalist: Noto font family
+
+- Video: [https://vimeo.com/221579404][https://vimeo.com/221579404]
+- Date: June 14, 2017
+- Length: 1 minute
+- Audience: General
+- Publisher: [The Index Project](https://theindexproject.org/)
+
 ## The Open Source Python Font Production Pipeline
 
 - Video: [https://youtu.be/TtHSnw0LI6o](https://youtu.be/TtHSnw0LI6o)
