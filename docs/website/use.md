@@ -14,17 +14,19 @@ All Noto fonts are licensed under the Open Font License. You can use them freely
 
 ### Noto scripts
 
-The Noto font collection includes 205 families that consist of nearly 2,300 fonts. Noto fonts are designed and engineered for typographically correct and aesthetically pleasing global communication in more than 1,000 languages and over 150 scripts (writing systems). Noto supports more than 77,000 characters — nearly all the non-Chinese Japanese and Korean (CJK) characters included in the Unicode Standard version 13, and beyond.
+The Noto font collection includes over 180 families that consist of nearly 2,300 fonts. Noto fonts are designed and engineered for typographically correct and aesthetically pleasing global communication in more than 1,000 languages and over 150 scripts (writing systems). Noto supports more than 77,000 characters — nearly all the non-Chinese Japanese and Korean (CJK) characters included in the Unicode Standard version 13, and beyond.
 
-The world’s scripts are diverse: they go left-to-right or right-to-left or top-to-bottom. Noto is modular to ensure harmonious design across scripts while retaining the authentic flavors that make each script special. The characters for the European scripts (Latin, Cyrillic, Greek) are in one font. Other scripts like Arabic, Chinese, Devanagari, Hebrew, Ogham or emoji have their own dedicated fonts, specifically engineered to provide the best experience.
+The world’s scripts are diverse: they go left-to-right or right-to-left or top-to-bottom. Each has its heritage. Some writing systems evolved over centuries, and are used today for many languages around the world. Other scripts were created for one language or community. Many were forgotten, yet some are experiencing a revival.
 
-### Noto styles
+Noto is modular to ensure harmonious design across scripts, while retaining the authentic flavors that make each script special. The characters for the European scripts (Latin, Cyrillic, Greek) are in one font. Other scripts like Arabic, Chinese, Devanagari, Hebrew, Ogham or emoji have their own dedicated fonts, specifically engineered to provide the best experience.
+
+### Noto styles: local and global
 
 Noto provides a rich palette of styles (designs). Each supported script has at least one font in a basic style, usually called **Noto Sans [script] Regular**. This is a clean, unornamented design best suitable for online reading.
 
-The **Noto Sans** fonts are best suitable for short texts, product information, online reading, advertising or branding. For most scripts, the glyphs in Noto Sans have strokes of uniform thickness. If a script's user community prefers modulated strokes that change their thickness for their sans font, it will be the default style.
+The **Noto Sans** fonts offer a clean, global look that brings harmony to text in different languages. They are best suitable for short texts, product information, online reading, advertising or branding. For most scripts, the glyphs in Noto Sans have strokes of uniform thickness. If a script’s user community prefers modulated strokes that change their thickness for their sans font, it will be the default style.
 
-For many scripts, the Noto collection also includes a **Noto Serif** design. This design has modulated strokes and visible stroke endings, and is often preferred for book and newspaper typography.
+For many scripts, the Noto collection also includes a **Noto Serif** design, which has modulated strokes and visible stroke endings. Each Noto Serif family borrows from the heritage of its writing system, and lends the text a local, culture-specific flavor. It is often preferred for book and newspaper typography.
 
 Noto fonts for many scripts include variation in **weight**: there are fonts from thin or extra light (thinnest) to black (boldest). Some scripts also have variation in **width**: there additional fonts that are narrower than the basic style (extra condensed is the narrowest).
 
@@ -32,15 +34,13 @@ For Arabic, Indic, and Southeast Asian scripts, the additional **Noto Sans UI** 
 
 ### Noto families
 
-The Noto font collection is modular. The main [Noto Sans](../specimen/Noto+Sans) and [Noto Serif](../specimen/Noto+Serif) families (without any suffixes) have letters for languages that use the Latin, Cyrillic, and Greek alphabets. Use these fonts if you have text in any language that uses these scripts (such as English, German, Polish, Russian, Greek). They also contain many characters used across scripts, like punctuation, European digits, currency symbols, or diacrtitical marks. The fonts also contain the phonetic alphabet (IPA), and characters used in linguistic research.
+The Noto font collection is modular. The main [Noto Sans](../specimen/Noto+Sans) and [Noto Serif](../specimen/Noto+Serif) families (without any suffixes) have letters for languages that use the Latin, Cyrillic, and Greek alphabets. Use these fonts if you have text in any language that uses these scripts (such as English, German, Polish, Russian, Greek). They also contain many characters used across scripts, like punctuation, European digits, currency symbols, or diacritical marks. The fonts also contain the phonetic alphabet (IPA), and characters used in linguistic research.
 
 The main Noto Sans and Noto Serif families include **italic** fonts intended for emphasis. Both also have corresponding display families intended for larger optical sizes (like headlines and titles).
 
-If you have text in another language, find the Noto font that supports that language, and use it together with the corresponding main font.
+If you have text in another language, find the Noto font that supports that language, and use it together with the corresponding Sans or Serif main font. If your text uses multiple scripts, either the app or the person who typesets the text needs to switch between the different fonts. For example, [Noto Sans Armenian](../specimen/Noto+Sans+Armenian) only has Armenian-script letters. But Armenian text also contains digits, punctuation, it may also contain terms written in Latin or Cyrillic scripts, so you also need the main Noto Sans fonts.
 
-If you have text in multiple languages that use different scripts, either the app or the person who typesets the text needs to switch between the different fonts. For example, [Noto Sans Armenian](../specimen/Noto+Sans+Armenian) only has Armenian-script letters. But Armenian text also contains digits, punctuation, it may also contain terms written in Latin or Cyrillic scripts, so you also need the main Noto Sans fonts.
-
-Some apps can switch fonts automatically. For example in CSS, you can specify multiple font families in a stack, and the browser will use the next font if the previous font does not support the necessary characters. In other apps like Microsoft Word or Adobe InDesign you can define a separate character style for each script.
+Some apps can switch fonts automatically. For example in CSS, you can specify multiple font families in a stack, and the browser will use the next font if the previous font does not support the necessary characters. In other apps, like Microsoft Word or Adobe InDesign, you can define a separate character style for each script.
 
 Use [Noto Sans Symbols](../specimen/Noto+Sans+Symbols) for boxed and circled letters, astronomical, chemical, and alchemical symbols, and [Noto Sans Symbols 2](../specimen/Noto+Sans+Symbols+2) for Braille letters, dingbats, arrows, and chess symbols.
 
@@ -299,11 +299,11 @@ Different products use different words for these settings, like “complex scrip
 
 - Read more about [complex text layout](https://en.wikipedia.org/wiki/Complex_text_layout) on Wikipedia.
 
-### What are the Noto UI fonts for?
+### How do I use Noto UI fonts?
 
 Many scripts form lines of text where all characters have roughly the same height, with only some letters extending below the baseline. User interface elements (menus, buttons, text boxes) in apps and on websites are often designed with a particular script in mind (often Latin).
 
-However, letters in Arabic, Indic, and Southeast Asian scripts often connect both vertically and horizontally, so text for continuous reading needs a more generous line height. For those scripts, Noto includes an additional family with the **UI** suffix. These fonts are more compact vertically and have the same line height as the basic Noto Sans fonts.
+However, letters in Arabic, Indic, and Southeast Asian scripts often connect both vertically and horizontally. So text for continuous reading in those scripts needs a more generous line height. For those scripts, Noto includes an additional family with the **UI** suffix. These fonts are more compact vertically and have the same line height as the basic Noto Sans fonts.
 
 | **Languages or scripts** | **Noto fonts to use** |
 |---|---|
@@ -338,7 +338,7 @@ Noto has six font families for the Arabic script:
 
 ### Which Noto fonts should I use for Chinese, Japanese or Korean?
 
-The Noto collection includes two font families for the Chinese, Japanese and Korean languages: Noto Sans CJK, an unmodulated design, and Noto Serif CJK, a modulated design. Each of these families has 7 weights, and Noto Sans CJK is also available as a variable font. 
+The Noto collection includes two font families for the Chinese, Japanese and Korean languages: Noto Sans CJK, an unmodulated design, and Noto Serif CJK, a modulated design. Each of these families has 7 weights, and Noto Sans CJK is also available as a variable font.
 
 These fonts are available in these language variants:
 
@@ -441,7 +441,7 @@ The [Script Encoding Initiative](https://linguistics.berkeley.edu/sei/scripts-no
 
 ### Is Noto based on existing fonts?
 
-The Latin characters in Noto Sans are based on Steve Matteson's designs for Droid Sans and Open Sans. The Latin characters in Noto Serif are based on Droid Serif. Noto fonts completely replace the Droid fonts. Noto fonts are undergoing regular reviews and revisions and have more styles than the older fonts.
+The Latin characters in Noto Sans are based on Steve Matteson’s designs for Droid Sans and Open Sans. The Latin characters in Noto Serif are based on Droid Serif. Noto fonts completely replace the Droid fonts. Noto fonts are undergoing regular reviews and revisions and have more styles than the older fonts.
 
 Noto Sans CJK is the same design as Adobe Han Sans and the Latin characters are based on Adobe’s Source Sans Pro. Noto Serif CJK is the same design as Adobe Han Serif, and the Latin characters are based on Adobe’s Source Serif Pro.
 
