@@ -117,6 +117,22 @@ Writing systems live and breathe with the people who use them, but sometimes the
 
 Scheuren will be joined by local and native experts in a variety of endangered scripts, including Mangu Purty (Warang), Ripon Chakma (Chakma), Sunita Dangol (Newa), Vinodh Rajan (Grantha).
 
+## CJK Variable Font Based on Source Han Sans
+
+[![CJK Variable Font Based on Source Han Sans](https://img.youtube.com/vi/9YtRMNdH4Lo/hqdefault.jpg)]()
+
+- Video: [https://youtu.be/9YtRMNdH4Lo](https://youtu.be/9YtRMNdH4Lo)
+- Speaker: Masataka Hattori, Adobe
+- Date: Sep 12, 2019
+- Length: 16 minutes
+- Audience: Typography
+- Publisher: ATypI
+- Event: ATypI 2019 Tokyo
+
+This session details a personal project by Masataka Hattori at Adobe that examines what is required to develop a fully functional CJK variable font that supports design-variation axes other than for weight, and explores the one for width. A typical Western variable font would support axes not only for weight and width, but also for optical sizes (and possibly slant). CJK fonts, on the other hand, are quite complex due to multiple and sometimes unrelated scripts, such as kana, hangul, ideographs, Latin, and so on, and include both full-width and proportional glyphs. One important consideration for CJK variable fonts is vertical layout: the glyphs for some characters remain upright, while others are expected to rotate.
+
+Consider a CJK Variable Font with a width axis and how it should be used in vertical layout. How should the glyphs for Western characters in vertical layout be treated? Should such glyphs be compressed or expanded, and, if so, in which direction? How can such CJK variable fonts be developed? This presentation contemplates the ideal CJK variable font by posing these and other difficult questions.
+
 ## Invisible Letters, Invisible Language
 
 [![Invisible Letters, Invisible Language](https://img.youtube.com/vi/PcS_mE5dDCw/hqdefault.jpg)](https://youtu.be/PcS_mE5dDCw)
@@ -164,18 +180,6 @@ Kamal Mansour’s bio: An early multilingual education served to stimulate Kamal
 - Event: TYPO Labs 2017
 
 Behdad will talk about updates to the variable fonts building pipeline based on FontTools. Dominik provides an update on implementation progress of variable fonts in a development version of Chrome, including a live preview of variable fonts capabilities in the Chrome browser. He will also explain how you can start your own experiments with variable fonts in Chrome.
-
-## Introducing Source Han Serif, Adobe’s open source Pan-CJK typeface
-
-[![Introducing Source Han Serif, Adobe’s open source Pan-CJK typeface](https://img.youtube.com/vi/yNfYdxgV1jA/hqdefault.jpg)](https://youtu.be/yNfYdxgV1jA)
-
-- Video: [https://youtu.be/yNfYdxgV1jA](https://youtu.be/yNfYdxgV1jA)
-- Date: April 4, 2017
-- Length: 6 minutes
-- Audience: General
-- Publisher: Adobe Fonts
-
-Noto CJK and its sister project, Source Han, made by Adobe and Google, provides users of Chinese, Japanese, and Korean languages with powerful tools for digital text communication. Creating Source Han Serif was an enormous collaborative effort. In this short video, the creators summarize and reflect on the many, many months of work that each partner contributed to the project of creating a truly international typeface.
 
 ## The ‘noto-hinted’ project
 
