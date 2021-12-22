@@ -211,7 +211,7 @@ Commissioned by Google, the ‘noto-hinted’ project (set up at github) was the
 
 [![Index:Award 2017 finalist: Noto font family](https://vumbnail.com/221579404_large.jpg)](https://vimeo.com/221579404)
 
-- Video: [https://vimeo.com/221579404][https://vimeo.com/221579404]
+- Video: [https://vimeo.com/221579404](https://vimeo.com/221579404)
 - Date: June 14, 2017
 - Length: 1 minute
 - Audience: General
