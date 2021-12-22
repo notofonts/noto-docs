@@ -89,7 +89,7 @@ If a computer system is missing a character, the reader sees the undefined glyph
 ## How to Kill a Writing System
 
 - Video: [https://vimeo.com/435930677](https://vimeo.com/435930677)
-- Website: https://letterformarchive.org/events/view/how-to-kill-a-writing-system
+- Website: [How to Kill a Writing System](https://letterformarchive.org/events/view/how-to-kill-a-writing-system)
 - Speakers: Zachary Scheuren, Ripon Chakma, Mangu Purty, Sunita Dangol, Vinodh Rajan
 - Date: Jun 16, 2020
 - Length: 1 hour 20 minutes
@@ -187,6 +187,7 @@ The Open Source Python Font Production Pipeline is a set of tools build by the o
 ## Creating Noto for Google
 
 - Video: [https://youtu.be/16_NYHUZ1kM](https://youtu.be/16_NYHUZ1kM)
+- Website: [More than 800 languages in a single typeface: creating Noto for Google.](https://www.monotype.com/resources/case-studies/more-than-800-languages-in-a-single-typeface-creating-noto-for-google)
 - Date: October 6, 2016
 - Length: 7 minutes
 - Audience: General
