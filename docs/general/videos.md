@@ -181,6 +181,18 @@ Kamal Mansour’s bio: An early multilingual education served to stimulate Kamal
 
 Behdad will talk about updates to the variable fonts building pipeline based on FontTools. Dominik provides an update on implementation progress of variable fonts in a development version of Chrome, including a live preview of variable fonts capabilities in the Chrome browser. He will also explain how you can start your own experiments with variable fonts in Chrome.
 
+## Introducing Source Han Serif, Adobe’s open source Pan-CJK typeface
+
+[![Introducing Source Han Serif, Adobe’s open source Pan-CJK typeface](https://img.youtube.com/vi/V2FQBtHp7kg/hqdefault.jpg)](https://youtu.be/V2FQBtHp7kg)
+
+- Video: [https://youtu.be/V2FQBtHp7kg](https://youtu.be/V2FQBtHp7kg)
+- Date: April 4, 2017
+- Length: 6 minutes
+- Audience: General
+- Publisher: Adobe Fonts
+
+Noto CJK and its sister project, Source Han, made by Adobe and Google, provides users of Chinese, Japanese, and Korean languages with powerful tools for digital text communication. Creating Source Han Serif was an enormous collaborative effort. In this short video, the creators summarize and reflect on the many, many months of work that each partner contributed to the project of creating a truly international typeface.
+
 ## The ‘noto-hinted’ project
 
 [![The ‘noto-hinted’ project](https://img.youtube.com/vi/LZ-PZDy8WHY/hqdefault.jpg)](https://youtu.be/LZ-PZDy8WHY)
