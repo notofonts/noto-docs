@@ -18,6 +18,8 @@ This lists videos and articles about the Noto project. They are date ordered, wi
 
 ## Digitized Design for Nüshu Script: Noto Traditional Nushu
 
+[![Digitized Design for Nüshu Script: Noto Traditional Nushu](https://img.youtube.com/vi/BhSbgRtV_pg/hqdefault.jpg)](https://youtu.be/BhSbgRtV_pg)
+
 - Video: [https://youtu.be/BhSbgRtV_pg](https://youtu.be/BhSbgRtV_pg)
 - Speakers: Zhao Liu, Eiso Chan, Kushim Jiang
 - Length: 36 minutes
@@ -33,6 +35,8 @@ Typographic Nüshu wasn’t created until this year, making 2020 the first year 
 This presentation will tell the story of Nüshu type design from three aspects: the literature review, the encoding process, and the type design of Nüshu. The name of Noto Traditional Nushu also has a very interesting story. Habitual thinking tells us soft brush calligraphy is the traditional style of Chinese characters, while Nüshu script and monolinear styles seem to be more modern. However, through our research, we’ve found that it’s just the opposite. In this presentation, we will share the developmental story of Noto Traditional Nushu—the first Nushu family in the world.
 
 ## Noto Fonts: Preserving Endangered Languages
+
+[![Noto Fonts: Preserving Endangered Languages](https://img.youtube.com/vi/DnuDOlPkFag/hqdefault.jpg)](https://youtu.be/DnuDOlPkFag)
 
 - Video: [https://youtu.be/DnuDOlPkFag](https://youtu.be/DnuDOlPkFag)
 - Speakers: Susanna Zaraysky, Marek Jeziorek, Dave Crossland
@@ -60,6 +64,8 @@ Dave Crossland attended the first Libre Graphics Meeting in 2006, and became fas
 
 ## Just the all of us — how we developed our first Odia font family, the collaborative way
 
+[![Just the all of us — how we developed our first Odia font family, the collaborative way](https://img.youtube.com/vi/05nyT9NTR7E/hqdefault.jpg)](https://youtu.be/05nyT9NTR7E)
+
 - Video: [https://youtu.be/05nyT9NTR7E](https://youtu.be/05nyT9NTR7E)
 - Speakers: Amelie Bonet, Sol Matas
 - Length: 16 minutes
@@ -73,6 +79,8 @@ Many typeface designers have the opportunity at some point to get out of the cav
 The collaborative experience was extremely enriching and gave us a different perspective on our practice. However, we also encountered some limitations during that process. Our talk will shine a light on collaborative processes. We will present our typeface, Noto Sans Odia, through the prism of exchanges we had during the making of the project: communication between the designers, teamwork with the consultants, discussion with the software makers (Glyphs), etc. The collaboration between us all is what made the project possible.
 
 ## The Road to Noto
+
+[![The Road to Noto](https://img.youtube.com/vi/HHIFL7DxOP0/hqdefault.jpg)](https://youtu.be/HHIFL7DxOP0)
 
 - Video: [https://youtu.be/HHIFL7DxOP0](https://youtu.be/HHIFL7DxOP0)
 - PDF slides: https://tug.org/tug2020/preprints/Matteson-slides.pdf
@@ -95,6 +103,8 @@ If a computer system is missing a character, the reader sees the undefined glyph
 
 ## How to Kill a Writing System
 
+[![How to Kill a Writing System](https://vumbnail.com/435930677_large.jpg)](https://vimeo.com/435930677)
+
 - Video: [https://vimeo.com/435930677](https://vimeo.com/435930677)
 - Website: [How to Kill a Writing System](https://letterformarchive.org/events/view/how-to-kill-a-writing-system)
 - Speakers: Zachary Scheuren, Ripon Chakma, Mangu Purty, Sunita Dangol, Vinodh Rajan
@@ -109,6 +119,8 @@ Scheuren will be joined by local and native experts in a variety of endangered s
 
 ## Invisible Letters, Invisible Language
 
+[![Invisible Letters, Invisible Language](https://img.youtube.com/vi/PcS_mE5dDCw/hqdefault.jpg)](https://youtu.be/PcS_mE5dDCw)
+
 - Video: [https://youtu.be/PcS_mE5dDCw](https://youtu.be/PcS_mE5dDCw)
 - Speaker: Zachary Scheuren, Monotype
 - Date: Oct 20, 2019
@@ -122,6 +134,8 @@ If we can’t see a language, does it exist? Of course it does. However, in an i
 The possibilities range from linguistic analysis to all forms of cross-referencing across disciplines like linguistics, history, archaeology, literature, sociology, economics, anthropology, and more. This presentation will look at a number of historic and minority writing systems and consider what can be gained by digitizing them and making them accessible to the world.
 
 ## The Noto Project
+
+[![The Noto Project](https://img.youtube.com/vi/cekCfRoMlAU/hqdefault.jpg)](https://youtu.be/cekCfRoMlAU)
 
 - Video: [https://youtu.be/cekCfRoMlAU](https://youtu.be/cekCfRoMlAU)
 - Speaker: Kamal Mansour, Monotype
@@ -139,6 +153,8 @@ Kamal Mansour’s bio: An early multilingual education served to stimulate Kamal
 
 ## Variations on Variations
 
+[![Variations on Variations](https://img.youtube.com/vi/4_Dy3-_MyiA/hqdefault.jpg)](https://youtu.be/4_Dy3-_MyiA)
+
 - Video: [https://youtu.be/4_Dy3-\_MyiA](https://youtu.be/4_Dy3-_MyiA)
 - Speakers: Dominik Röttsches (Google), Behdad Esfahbod (Google)
 - Date: Apr 8, 2017
@@ -151,6 +167,8 @@ Behdad will talk about updates to the variable fonts building pipeline based on 
 
 ## Introducing Source Han Serif, Adobe’s open source Pan-CJK typeface
 
+[![Introducing Source Han Serif, Adobe’s open source Pan-CJK typeface](https://img.youtube.com/vi/yNfYdxgV1jA/hqdefault.jpg)](https://youtu.be/yNfYdxgV1jA)
+
 - Video: [https://youtu.be/yNfYdxgV1jA](https://youtu.be/yNfYdxgV1jA)
 - Date: April 4, 2017
 - Length: 6 minutes
@@ -160,6 +178,8 @@ Behdad will talk about updates to the variable fonts building pipeline based on 
 Noto CJK and its sister project, Source Han, made by Adobe and Google, provides users of Chinese, Japanese, and Korean languages with powerful tools for digital text communication. Creating Source Han Serif was an enormous collaborative effort. In this short video, the creators summarize and reflect on the many, many months of work that each partner contributed to the project of creating a truly international typeface.
 
 ## The ‘noto-hinted’ project
+
+[![The ‘noto-hinted’ project](https://img.youtube.com/vi/LZ-PZDy8WHY/hqdefault.jpg)](https://youtu.be/LZ-PZDy8WHY)
 
 - Video: [https://youtu.be/LZ-PZDy8WHY](https://youtu.be/LZ-PZDy8WHY)
 - Speakers: Werner Lemberg, Freetype; Sascha Brawer, Google
@@ -173,6 +193,8 @@ Commissioned by Google, the ‘noto-hinted’ project (set up at github) was the
 
 ## Index:Award 2017 finalist: Noto font family
 
+[![Index:Award 2017 finalist: Noto font family](https://vumbnail.com/221579404_large.jpg)](https://vimeo.com/221579404)
+
 - Video: [https://vimeo.com/221579404][https://vimeo.com/221579404]
 - Date: June 14, 2017
 - Length: 1 minute
@@ -180,6 +202,8 @@ Commissioned by Google, the ‘noto-hinted’ project (set up at github) was the
 - Publisher: [The Index Project](https://theindexproject.org/)
 
 ## The Open Source Python Font Production Pipeline
+
+[![The Open Source Python Font Production Pipeline](https://img.youtube.com/vi/TtHSnw0LI6o/hqdefault.jpg)](https://youtu.be/TtHSnw0LI6o)
 
 - Video: [https://youtu.be/TtHSnw0LI6o](https://youtu.be/TtHSnw0LI6o)
 - Speakers: Marek Z. Jeziorek, Google; Behdad Esfahbod, Google
@@ -193,6 +217,8 @@ The Open Source Python Font Production Pipeline is a set of tools build by the o
 
 ## Creating Noto for Google
 
+[![Creating Noto for Google](https://img.youtube.com/vi/16_NYHUZ1kM/hqdefault.jpg)](https://youtu.be/16_NYHUZ1kM)
+
 - Video: [https://youtu.be/16_NYHUZ1kM](https://youtu.be/16_NYHUZ1kM)
 - Website: [More than 800 languages in a single typeface: creating Noto for Google.](https://www.monotype.com/resources/case-studies/more-than-800-languages-in-a-single-typeface-creating-noto-for-google)
 - Date: October 6, 2016
@@ -204,6 +230,8 @@ A typeface five years in the making, Google Noto spans more than 100 writing sys
 
 ## A Tour of Android Typography
 
+[![A Tour of Android Typography](https://img.youtube.com/vi/L8LD0BM-Vjk/hqdefault.jpg)](https://youtu.be/L8LD0BM-Vjk)
+
 - Video: [https://youtu.be/L8LD0BM-Vjk](https://youtu.be/L8LD0BM-Vjk)
 - Speaker: Raph Levien (Google)
 - Date: May 3, 2016
@@ -213,6 +241,8 @@ A typeface five years in the making, Google Noto spans more than 100 writing sys
 - Event: ATypI São Paulo 2015
 
 ## One Font to Rule Them All
+
+[![One Font to Rule Them All](https://img.youtube.com/vi/AAzvk9HSi84/hqdefault.jpg)](https://youtu.be/AAzvk9HSi84)
 
 - Video: [https://youtu.be/AAzvk9HSi84](https://youtu.be/AAzvk9HSi84)
 - Speaker: Xiangye Xiao, Google
@@ -228,6 +258,8 @@ Using Noto is easy. If you are developing a mobile app, simply bundle the fonts 
 
 ## Type Reinvented: Glyph.Index
 
+[![How to Kill a Writing System](https://vumbnail.com/128597540_large.jpg)](https://vimeo.com/128597540)
+
 - Video: [https://vimeo.com/128597540](https://vimeo.com/128597540)
 - Date: 2015
 - Length: 2 minutes
@@ -240,6 +272,8 @@ Type Reinvented. In today's information-dense digital landscape, typography is t
 
 ## Making Noto Sans Tibetan
 
+[![Making Noto Sans Tibetan](https://img.youtube.com/vi/liU8fHOtHYA/hqdefault.jpg)](https://youtu.be/liU8fHOtHYA)
+
 - Video: [https://youtu.be/liU8fHOtHYA](https://youtu.be/liU8fHOtHYA)
 - Speaker: Toshi Omagari (Monotype)
 - Date: July 25, 2015
@@ -249,6 +283,8 @@ Type Reinvented. In today's information-dense digital landscape, typography is t
 - Event: Granshan 2015
 
 ## Unicode, OpenType and Fonts
+
+[![Unicode, OpenType and Fonts](https://img.youtube.com/vi/sMkO4gF4-3U/hqdefault.jpg)](https://youtu.be/sMkO4gF4-3U)
 
 - Video: [https://youtu.be/sMkO4gF4-3U](https://youtu.be/sMkO4gF4-3U)
 - Speakers: Behdad Esfahbod (Google), Roozbeh Pournader (Google)
