@@ -20,6 +20,10 @@ This lists videos and articles about the Noto project. They are date ordered, wi
 
 [![Digitized Design for Nüshu Script: Noto Traditional Nushu](https://img.youtube.com/vi/BhSbgRtV_pg/hqdefault.jpg)](https://youtu.be/BhSbgRtV_pg)
 
+<div class="embed-wrapper">
+<div class="embed-container mx-auto site-footer"><iframe src="https://www.youtube.com/embed/BhSbgRtV_pg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""> </iframe></div>
+</div>
+
 - Video: [https://youtu.be/BhSbgRtV_pg](https://youtu.be/BhSbgRtV_pg)
 - Speakers: Zhao Liu, Eiso Chan, Kushim Jiang
 - Length: 36 minutes
