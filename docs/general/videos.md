@@ -5,9 +5,16 @@ parent: "General"
 nav_order: 31
 ---
 
-# Videos about the Noto Project
+# Videos and articles about the Noto Project
 
-This lists videos about the Noto project. They are date ordered, with most recent at the top.
+This lists videos and articles about the Noto project. They are date ordered, with most recent at the top.
+
+## Looking for Noto? It’s now on the Google Fonts website and API
+
+- Website: [Looking for Noto? It’s now on the Google Fonts website and API](https://material.io/blog/noto-announcement)
+- Author: Susanna Zaraysky, Content Strategist, Google Fonts
+- Date: September 16, 2021
+- Publisher: Google
 
 ## Digitized Design for Nüshu Script: Noto Traditional Nushu
 
