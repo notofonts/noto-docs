@@ -183,9 +183,9 @@ Behdad will talk about updates to the variable fonts building pipeline based on 
 
 ## Introducing Source Han Serif, Adobe’s open source Pan-CJK typeface
 
-[![Introducing Source Han Serif, Adobe’s open source Pan-CJK typeface](https://img.youtube.com/vi/V2FQBtHp7kg/hqdefault.jpg)](https://youtu.be/V2FQBtHp7kg)
+[![Introducing Source Han Serif, Adobe’s open source Pan-CJK typeface](https://img.youtube.com/vi/6QH2mJVOOzM/hqdefault.jpg)](https://youtu.be/6QH2mJVOOzM)
 
-- Video: [https://youtu.be/V2FQBtHp7kg](https://youtu.be/V2FQBtHp7kg)
+- Video: [https://youtu.be/6QH2mJVOOzM](https://youtu.be/6QH2mJVOOzM)
 - Date: April 4, 2017
 - Length: 6 minutes
 - Audience: General

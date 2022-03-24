@@ -54,9 +54,9 @@ World scripts are as diverse as humans, they have different proportions and wr
 
 ### How Noto CJK was made
 
-[![How Noto CJK was made](img/1440x810/how-noto-cjk-was-made-1440x810.jpg)](https://youtu.be/V2FQBtHp7kg)
+[![How Noto CJK was made](img/1440x810/how-noto-cjk-was-made-1440x810.jpg)](https://youtu.be/6QH2mJVOOzM)
 
-Noto CJK and its sister project, Source Han, made by Adobe and Google, provides users of Chinese, Japanese, and Korean languages with powerful tools for digital text communication ([6-minute video](https://youtu.be/yNfYdxgV1jA)).
+Noto CJK and its sister project, Source Han, made by Adobe and Google, provides users of Chinese, Japanese, and Korean languages with powerful tools for digital text communication ([6-minute video](https://youtu.be/6QH2mJVOOzM)).
 
 ### Noto fonts for developers
 
