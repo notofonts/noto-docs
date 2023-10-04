@@ -62,7 +62,7 @@ Since Noto is available in many places, when you report a problem with a par
 
 ### How to open an issue
 
-- To report a problem with any Noto font except CJK and emoji, [open an issue](https://github.com/googlefonts/noto-fonts/issues) in the [noto-fonts](https://github.com/googlefonts/noto-fonts/) repository.
+- To report a problem with any Noto font except CJK and emoji, open an issue in the writing system specific repository of the [notofonts organization](https://github.com/notofonts), for example the [latin-greek-cyrillic](https://github.com/notofonts/latin-greek-cyrillic/issues) or the [arabic](https://github.com/notofonts/arabic/issues) repositories.
 
 - To report a problem with Noto Sans CJK or Noto Serif CJK (SC, TC, JP, KR, HK), [open an issue](https://github.com/googlefonts/noto-cjk/issues) in the [noto-cjk](https://github.com/googlefonts/noto-cjk/) repository.
 
@@ -76,7 +76,7 @@ You may extend or customize Noto fonts for your own project, website or app, a
 
 You may also propose that your changes be incorporated into the official Noto release. You can propose a new design for an existing Unicode character (codepoint), or for a new character. You can propose designs for additional weights or widths for an existing script, or even a new design for a Unicode script that Noto does not yet cover.
 
-The most up-to-date source files for all Noto fonts are in the [noto-source](https://github.com/googlefonts/noto-source) repository in the.glyphs format. The final font files are in the [noto-fonts](https://github.com/googlefonts/noto-fonts) repository in the OpenType format. Before proposing changes, check the newest files. Perhaps you’re trying to fix something that’s already been addressed.
+The most up-to-date source files for Noto fonts are in their respective writing system specific repository in the .glyphs format, for example the [latin-greek-cyrillic](https://github.com/notofonts/latin-greek-cyrillic) or the [arabic](https://github.com/notofonts/arabic) repositories in the organisation [notofonts](https://github.com/notofonts). The final font files are in the OpenType format in the releases of each repository, for example [latin-greek-cyrillic](https://github.com/notofonts/latin-greek-cyrillic/releases/). Before proposing changes, check the newest files. Perhaps you’re trying to fix something that’s already been addressed.
 
 The proposed additions need to match the existing designs, be of high quality, and be delivered in the same source format as the existing fonts. If you’re proposing design for new codepoints, those need to already exist in the Unicode Standard. Google Fonts does not accept proposals for scripts that are not part of Unicode.
 
