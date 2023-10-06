@@ -372,9 +372,7 @@ The Noto collection includes two fonts that contain emoji characters:
 
 - [Noto Emoji](../specimen/Noto+Emoji/), a monochrome (non-color) font in TrueType-flavored OpenType format. It only contains about 25% of all encoded emoji but has scalable monochrome glyphs. It is intended for limited use in print publications, on monochrome displays, and in other scenarios where multiple colors cannot be reproduced.
 
-- _Noto Color Emoji_, a multi-color font in the OpenType CBDT format. The font supports all emoji in Unicode 13 and beyond, but only works in Android, in Google Chrome, and in apps that support the CBDT format. There is also a version of this font that works on Windows 10.
-
-If you want to use the Noto Color Emoji fonts, [download them](https://github.com/googlefonts/noto-emoji/tree/main/fonts) from Github.
+- [Noto Color Emoji](../specimen/Noto+Color+Emoji), a multi-color font in the OpenType CBDT format. The font supports all emoji in Unicode 13 and beyond, but only works on Android, in Google Chrome, and in apps that support the CBDT format. [Download the font](https://github.com/googlefonts/noto-emoji/tree/main/fonts) from Github.
 
 ### Which Noto fonts should I use for the Lao and Thai scripts?
 
